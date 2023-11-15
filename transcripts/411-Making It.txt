@@ -1,0 +1,661 @@
+411-Making It
+===
+
+[00:00:00] Bob: I have some really exciting news, guys. What? I'm going to New Jersey! Oh 
+
+[00:00:06] Jimmy: boy, I'm so sorry to hear that. In your 
+
+[00:00:09] David: brand new running 
+
+[00:00:12] Bob: Land Cruiser? No. Oh man. No. Uh, no. I actually don't have any cars right now. I was telling you guys before we started recording that our family Suburban that is, uh, 2019, still pretty new.
+
+[00:00:26] Bob: Fairly new, you know. Yeah. Uh, something crazy happened yesterday, so now we are carless. I mean, others are 
+
+[00:00:35] Jimmy: the ones that a brand new car would do that. 
+
+[00:00:37] Bob: Yeah, I mean, it's not brand new, I guess, but it's some weird electrical something or other, but the frustrating thing is that we just don't have a car.
+
+[00:00:46] Bob: We're borrowing cars for the week, you know, while it's in the shop, but man, with four kids and like band and soccer and soccer and soccer and soccer, it's just, having cars is really handy and we don't right now. But anyway, I'm going to, to New Jersey and I'm not driving a car, I'm flying there. Please let everybody 
+
+[00:01:07] David: know how many non running cars you have.
+
+[00:01:11] Jimmy: I'll follow it up. By the way, every one of my cars runs and drives and is insured and registered. Oh, 
+
+[00:01:17] Bob: aren't you fancy? Now actually, the Green Cruiser runs, it runs, but it has two seats and no brake lights. So, you know. Not a great family vehicle, but yeah, so I do have three non running cars. Anyway, I'm going to New Jersey for, uh, kind of a weird thing.
+
+[00:01:41] Bob: Is that something you can promote? Yeah, I mean, I'm supposed to promote it, but by the time people hear this it will have already happened. It's gonna happen tomorrow. Oh. And I guess you could go back and watch it if you want to, but the the thing that's kind of neat about it, so I'm going up with a, it's a sponsored live stream with Scott's Lawn Care.
+
+[00:02:00] Bob: So like Scott's, they, you know, do grass heat and stuff. And they're doing this live stream in a yard that they planted. And they're having all these different people come and do different things back there. So like I'm, I'm building a birdhouse. On the yard, Andrew Huang is either going or already went. I don't remember.
+
+[00:02:20] Bob: And I guess he's making music in there. And then there's like some baseball guy that's doing some mini, like a little league type game in the backyard. And there's like different things that they're doing every few days. So they asked me to come build a birdhouse and didn't give me any. Like, no guardrails.
+
+[00:02:40] Bob: It was just like, birdhouse. Be creative. Like, okay, cool. So... 
+
+[00:02:46] Jimmy: If there's a Walmart nearby, just go there and get one of mine. They're probably getting cheap now. 
+
+[00:02:51] Bob: Um, so what I ended up doing was designing a tiny A frame birdhouse. And so I'm building an A frame, and it's all laser cut acrylic. So I cut the interior, like, the rib, the A ribs, you know, that build the structure of the thing.
+
+[00:03:09] Bob: Uh, out of white acrylic, and then I've got black that's gonna act as the roof and ribs to make it look like metal roofing, and it's got a loft in it, and it's got a floor, and it's got a front porch, and it's got a little picket fence around the yard. Oh, wow. I 3D printed like, tiny Adirondack chairs, and a fire pit, and a couch, and, so, I'm taking all of these pieces, which I assume are 2 foot.
+
+[00:03:35] Bob: This is your house. I mean, pretty much, yeah. It's, yeah, the scale's different from what I would want, you know, but it was interesting to, like, just take... You don't want a house that's 12 inches tall. Well, you know what I mean, like the loft size compared to the bottom floor size is different than what I would want.
+
+[00:03:51] Bob: But it was interesting to think about like what makes an A frame an A frame other than just the profile, you know, like interior wise and scale it down and just try to draw it up and infusion. So I made a tiny little A frame infusion. Laser cut the entire thing, so it's all flat packable. So I'm taking this little stack of plastic with me in a carry on, and they're supposed to have glue there.
+
+[00:04:15] Bob: So, hopefully they'll have glue. And then I can just put it together on this live stream. So if you're, if you're somehow a time traveler, and you want to go back yesterday and watch this thing that I'm doing tomorrow, um, you can watch that live stream. Give 
+
+[00:04:29] Jimmy: us the name. What's the brand? 
+
+[00:04:30] Bob: It's Scott's. Uh, so it's Scott's Lawn Care is the, the YouTube channel that it'll be on.
+
+[00:04:37] Bob: Okay. Yeah. It's gonna be a couple hours. It sounds like it's pretty chill, like there's no host or anything that I'm aware of. I'm just gonna show up in this yard and there's already cameras there watching the birds and stuff and... Get off my lawn. They're gonna, they're gonna plop a table down and I'm gonna build a thing and then I'm gonna fly back tomorrow night.
+
+[00:04:54] Bob: That's a long day. It is gonna be a very long day. I have to get up at... 3. 30 I think I figured I'll get back here at midnight. Um, so yeah. Anyway, that's what I'm doing tomorrow. Wow. And this week I've just been designing and cutting that thing and you know I had to order a bunch of acrylic to to do it so I was really hesitant to I actually started cutting because I was afraid if I did something wrong, I don't have time to get more acrylic here, um, but that was kind of the beauty of doing it in Fusion is there were no, kind of unknowns, you know, no guesswork to it.
+
+[00:05:38] Bob: Just cut the frame like the, the triangles for the A's, broke them into three pieces, added little dovetail joints in between them so then they kind of snap together, and um, Just cut a bunch of each piece, and so I had all the structure and everything. It's pretty cool. 
+
+[00:05:55] Jimmy: How big will it be when it's all put together?
+
+[00:05:58] Bob: It is 12 inches deep, and the sides of the A are 15 and a half, so I don't know exactly what the height is, but, you know, somewhere in there. That's pretty big. Yeah, it's a good size. 
+
+[00:06:13] Jimmy: Is that, is that, are you going to sell those plans online? 
+
+[00:06:16] Bob: It could be a set of, like, um, Yeah, a set of files that somebody could laser cut and make one on their own.
+
+[00:06:25] Bob: I, it's kind of a weird thing to put outside, which is why I did it in acrylic because if you did it out of wood, it'd be a great like snap together kit or something for somebody, but then, you know, MDF is not going to last outside. And there's no really thin that I'm aware of. There's no really thin.
+
+[00:06:44] Bob: Pressure treated wood. That would be a good replacement for it. So we 
+
+[00:06:48] Jimmy: promoted my birdhouse that you would like put it under a ledge or something. I have one on my back porch. Hmm. So it's not in direct rain. Yeah, or direct, but I mean, I think two people bought it. So I called those two people directly and told them.
+
+[00:07:05] Bob: That's nice. Comes with a free phone call. 
+
+[00:07:07] Jimmy: Yeah, they have my phone numbers on the package. 
+
+[00:07:11] Bob: That would not surprise me at all, 
+
+[00:07:12] Jimmy: actually. Yeah, no kidding. Assembly instructions. 
+
+[00:07:17] Bob: But yeah, I might make the plans, or the files available, in case somebody wants to make one, maybe. I don't know. I don't know if there's any interest in that or not, but...
+
+[00:07:25] Bob: Anyway, what have you guys been up to? Mmm, 
+
+[00:07:28] Jimmy: Dave, you go. Uh, this week, 
+
+[00:07:31] David: uh, I, we're working on, we're doing some sign making. So, hand cut letters on a scroll saw, and a bandsaw, and I've done a lot of this, but I don't know that I've done much of this ever on camera, so, it's um, it's, I'm trying to take a different approach to the video because it's such a simple little thing.
+
+[00:07:57] David: So, um, it's experimental, and if it doesn't come out next week, it was a little too experimental and I needed to rethink it, so. 
+
+[00:08:07] Jimmy: That's funny, when I go, when I approach this, and I'm sure everybody does. A video that's as simple as this, you think to yourself, I'm going to come up with some cinematic genius to make this the most interesting looking, boring video that I could possibly think of.
+
+[00:08:21] Jimmy: I'm going to use my snorkel lens, I'm going to use soft focus, and then you go, it's just another bandsaw video. 
+
+[00:08:28] David: Yeah, um, it's funny you mention that. So we played with some a little bit more. I guess, dramatic lighting, some more direct lighting with dark backgrounds and I get the footage in and I'm like, ah, yeah, I could have lit that better.
+
+[00:08:45] David: I could have done that better. And so there's going to be some like talking head voiceover stuff that's just a little bit different than normal. And um, I don't think it'll be done that it won't be done in time for this weekend. So it would likely be the following weekend and if it doesn't come out, it means I scrapped it and decided to do something a little bit more.
+
+[00:09:07] David: Make something traditional. Hmm, 
+
+[00:09:10] Bob: do you think that, would that be a stressful, like, replacement, last minute kind of replacement for you, or are you already thinking about alternatives? 
+
+[00:09:17] David: Uh, I've already been thinking about alternatives, I do, it's kind of art based, and it is something I wanted, I say this all the time for years, I do want to do more of, I just haven't figured out a good way to do it for the channel, for it to be worth my time filming, um, and so, It's, uh, whether there's a video or not, it will be a piece that will be for, for sale.
+
+[00:09:44] David: So there is, there's that. And there is actually going to be a lot more pieces for sale in the future. It's something I want to get into. 
+
+[00:09:55] Bob: That's cool. That is not something I think I would ever have the, I don't, this, I don't know how to say this. I don't think I would have the guts to sell something that I made for a video.
+
+[00:10:08] David: Uh, it's um, I've been thinking about this for a while and as I've been saying I want to get a little bit more artsy and creative, I've been saying that for a while. Now's a good time for me to do so, as I've been experimenting with other videos, why not experiment with non functional pieces and see if we can revive the Etsy store.
+
+[00:10:34] David: We'll see. Oh. 
+
+[00:10:36] Bob: Yeah. 
+
+[00:10:36] David: Yeah. 
+
+[00:10:38] Bob: Cool. Well, I'm interested to see how it turns out. 
+
+[00:10:44] Jimmy: I'm experimenting with my lighting, don't I look much better now? You look 
+
+[00:10:47] David: beautiful. 
+
+[00:10:48] Bob: Wow. You set the mood. Sounds better. 
+
+[00:10:52] David: That's 
+
+[00:10:53] Jimmy: good. What have I been up to? I'm working on one of the gravestones from the graveyard that I found half buried in the ground.
+
+[00:11:01] Jimmy: I did some research on findagrave. com. And I found pictures of my graveyard, photographs that were taken in the 80s and uploaded when the internet came around. And in this one particular picture I found from 1980, this gravestone is buried halfway. So half of it is in the ground, but if you didn't know anybody, you would just assume it was short.
+
+[00:11:20] Jimmy: And then by the time I got the grave, the graveyard... That particular stone was out of the ground and leaning on another one nearby. So me and Wade, the millennial stone cleaner who helped me in the backyard, we, we isolated. We said, okay, maybe the, maybe this is where it was. So let's just dig. Well, we didn't know it was broken in half.
+
+[00:11:41] Jimmy: We knew it was missing parts, but he said, maybe they're here. I should say that again. We knew it was missing parts and he just guessed let's look where the picture was and we dug down and I found almost another 20 inches of the stone broken in half. So I found two 10 inch pieces that belonged to the same stone that was above ground for so many years.
+
+[00:11:59] Jimmy: These were below ground. The carving on them was much more preserved than what was above ground. So I found this thing was broken ultimately into For six pieces? Five pieces. And so I've been working on attaching all those pieces together. I'll show you guys pictures. So I have a framework. It's kind of, the inspiration is the Rosetta Stone.
+
+[00:12:21] Jimmy: If you guys have ever been to the British Museum, it's there on steel wires, so you can kind of look at it. And I approach this like a museum piece. So if you look at this. You can see the back, that's stainless steel. Oh yeah. So I made a stainless steel frame around it. I didn't want to use epoxy but I had to because this stone is so flaky.
+
+[00:12:42] Jimmy: So that's what the front will look like. You won't see any glue at all. The glue will be, if it shows at all, it will show in the back. And I'm going to drill little tiny holes and pin the marble into the frame so nothing should fall out again. When I put those pins into the stone, I'm gonna weld them. So that's one of the videos I'm working on and then I'm also Working on the bell.
+
+[00:13:05] Jimmy: I showed you guys the bell. I think maybe in the after show last week I'm working on a bell and I am taking the approach is real There's many ways of casting things, and looking online, I said, you know what, let me approach this like a piece of jewelry, and I made a casting of my hand formed bell that I made on the lathe.
+
+[00:13:25] Jimmy: I made a casting of it in pink, jeweler's wax, and then I buried the jeweler's wax into basically like plaster, what is really called investment, and it's what you would pour molten metal into. So I have the mold of the investment now I have to put it in the pottery kiln and burn out the wax and then make a cavity to pour in molten brass.
+
+[00:13:54] Jimmy: So it's all exciting and scary at the same time. 
+
+[00:13:58] Bob: Have you done brass? I'm sure you have. Brass 
+
+[00:14:01] Jimmy: casting? Just in small bits, yeah. This will be the biggest one I cast, so this might be a total failure. And if it is, I'm just going to have to chuck it up and try it. But I still have a pretty decent mold, so I could make several versions of it.
+
+[00:14:14] Jimmy: I could try it over and over is the point. 
+
+[00:14:17] Bob: Well, so how... That, I mean, that's a one time use mold though, right? Well, 
+
+[00:14:22] Jimmy: I have a silicone mold that I could make the waxes over and over again in. Oh, I see. Yeah, and then the other one, I think what you do is you could chip it away, but you could also soak it in water and it deteriorates in water, maybe.
+
+[00:14:37] Jimmy: But I'll figure that out. As long as I get a clean cast, the other part is easy, getting it out of there, because I'll just chip it apart and wire brush it off. But it's got, it's got words on it. I was nervous that the words were going to give me some... The inscription is raised, so I was a little worried about that giving me some problems while I was casting.
+
+[00:14:54] Jimmy: Which is why I chose to go this route versus trying to do a sand cast with, with uh, psyllium, uh, sodium silicate sand. Because I'm afraid that if I try and demold it, the letters are in the round and they're raised up. I'm afraid the letters are going to be an undercut and pull sand out of the letters.
+
+[00:15:13] Jimmy: So I figured I'd choose this route. This way I burn it out, I have the kiln, I could burn it out, I just gotta put it so it burns out into like a steel cask underneath it. And, I could probably reuse the wax. It's funny you, when I made the mold of it I thought the sides were so thin I'm like I got a really good nice thin wall here.
+
+[00:15:31] Jimmy: The wall's like half inch thick which makes me nervous. So the wall's really thick on this bell. Bell's gonna weigh like 50 pounds. It's 
+
+[00:15:38] Bob: gonna go 
+
+[00:15:38] Jimmy: DONG! Yeah. If I, if I, I'll get something. Whether I get a casting that has the detailed inscription in it or not is gonna be the hard part, but I'll get something.
+
+[00:15:49] Jimmy: So it's, uh, it's, it's interesting. We'll see what happens. So, 
+
+[00:15:53] Bob: if, if the lettering didn't come out, or if you were to make the bell without the lettering on it in the first place, would there be a clear path to making those letters separately and like soldering them on to the outside, or is that not... 
+
+[00:16:09] Jimmy: I mean, it's not impossible, but it's, it's a tremendous amount of work.
+
+[00:16:13] Jimmy: Because the way I put the letters on it, I laser cut cardboard that was about a millimeter thick, and I... I laid the letters on one at a time by hand with a little PVA glue and then when I painted it and encapsulated the letters into the form, kind of integrated it so there was no undercuts under the letters.
+
+[00:16:32] Jimmy: So I gave it several coats of paint and then that paint flowed under the letters and made it all seem like one and then from that I made my silicone mold. So then my silicone's got some pretty good impressions in it. Yeah, interesting. Interesting and complicated at the same time, but I'm just using methods that are ancient.
+
+[00:16:52] Jimmy: Something's gotta work.
+
+[00:16:57] Bob: That's a t shirt right there. That's what my 
+
+[00:16:58] David: sign says. Does it? No, no, 
+
+[00:17:02] Bob: no, no. It does now. 
+
+[00:17:05] Jimmy: Something's gotta work, but it's, uh, you know, it's, maybe this is a topic, because we're kind of topic less today, but the idea of getting in the ballpark. And looking at what somebody else has done, like I'm reading the instructions and it's like you gotta use deionized water to mix the plaster cast.
+
+[00:17:27] Jimmy: I don't even know what that is. I don't know. I can't get that at the milk run. I don't know. What is deionized water? I don't even know what that is. I was like, all right. You know, they didn't have deionized water when they, when Leonardo da Vinci was doing Lost Wax casting. So I'll just go forward without it.
+
+[00:17:43] Jimmy: Like leaving out certain ingredients in the recipe and just hoping for the best. I always go back in my mind. I always go back to. Before technology was running the show and in, in the big way, deionized water. Who is the guy that was doing this plastering and said, you know what this needs? This needs deionized water.
+
+[00:18:05] Jimmy: Who knows what that means? Who knows why it's there? Why do we need it? I'm going to get a million messages now, you know, saying deionized water was good for this. Which is great because I still don't know what it's for. And I was like, I'm just going to go get water out of a, I'm going to go get water out of a jug.
+
+[00:18:20] Jimmy: It's like, if I get water out of a jug, it's at least, it's not my tap water, which is very hard, it's got a lot of calcium in it. That's what 
+
+[00:18:27] Bob: deionized means, out of a jug. Does it? You're good. No.
+
+[00:18:34] Jimmy: Oh. And then it's like, mix this way, then vacuum. This is another thing, it's like. You listen back, like when I talk to Derek, Derek goes, are you going to vacuum the bubbles out? I go, I don't have a vacuum. I got a vacuum that you use on the floor. He's like, oh, you got a vacuum. And so I read the instructions and the instructions like, vacuum them to this weight, whatever.
+
+[00:18:52] Jimmy: I was like, they didn't have a vacuum when they were doing it with Leonardo da Vinci. I said, I don't need a vacuum. And so I didn't use a vacuum. And then any bubbles is metal on, so I could always grind it off. So. 
+
+[00:19:03] Bob: Oh yeah, that's true. Yeah, I mean, all those, those things are just like refinements that happened, you know, to a process as technology caught up and people understood science around things and, you know, they probably make really small differences, really small improvements to a process, but yeah, you're right, are not necessary, but will, they're refinements that will give you the best possible results.
+
+[00:19:28] Bob: So, 
+
+[00:19:28] Jimmy: Bob, you're telling me my casting's probably going to work out? 
+
+[00:19:31] Bob: I, I assume 
+
+[00:19:32] Jimmy: it will work out. Cause those refinements are just little tiny 
+
+[00:19:35] Bob: incremental refinements. Yeah, I think so. I mean, think about it. Like, I don't know why you need deionized water, but there's, there's chemically or. Electrically, something happening there at a really small scale that affects something.
+
+[00:19:50] Bob: Oh, and 
+
+[00:19:50] Jimmy: then it says spray with bubble reducer. Okay, what is bubble reducer? Where do I get bubble reducer? They don't have that at home, people. 
+
+[00:19:57] Bob: It's next to the blinker fluid at the... Yeah. 
+
+[00:20:01] Jimmy: So it's like, spray with bubble reducer 30 seconds before you submerse in the... I'm like, wow, I, uh, I'm just gonna do it and see what happens.
+
+[00:20:13] Bob: Well, and yeah, I mean, I agree with you that I think, you know, it will work out one way or another. And that's what we all do. We don't... And people get mad at, at least me, I'm sure they get mad at you in the comments and stuff too about like, well, why didn't you just look this up? Why didn't you follow all of the scientific papers written around this process?
+
+[00:20:32] Bob: Because that's, that's not interesting to me. I just want to give it a shot and see how it turns out and then figure out what to do differently next time. This is something 
+
+[00:20:39] Jimmy: a lot of people might not realize, especially those guys in the comments that are like, why didn't you just, why didn't you just?
+
+[00:20:44] Jimmy: It's a lot of times we're juggling so many things. At least I know I am, I'm juggling so many things, literally managing fans walking, uh, you know, contacting me and talking to people and my locals that want to stop by and talk and all these things and I'm like, okay, this is the window for me to do the casting.
+
+[00:21:05] Jimmy: I had no time to do any research. I just know from my basic knowledge, this has to happen, that has to happen, that has to happen. I'm in the middle of doing it, learning it in the moment. I'm like, wow, I should have read this two weeks ago so I can get bubble reducer. But whatever, here I am now. And so the point I'm making is, is like, I know I spread myself too thin to be able to do a lot of this research.
+
+[00:21:24] Jimmy: And to be perfectly honest, when Aaron was around, Aaron would do all these things. Aaron would say, oh, you need bubble reducer. I ordered it, it's coming tomorrow. Like, he would, like, look at the instructions and know what I would never read, and just tick and handle it. And, uh, so now that I'm kind of just on my own, I just wing it again, which is what I've always done.
+
+[00:21:46] Jimmy: So. I feel 
+
+[00:21:49] David: like, uh, I'm sort of the same way, but it's more about timing, where, like, oh, tomorrow I want to do that thing, and then, oh, I'm missing a couple things that's going to take, like, four days to get here because I can't get this at Home Depot, so. And then that thing either gets not the treatment it should, or it just gets put on hold for another two, three months, because I had the.
+
+[00:22:15] David: I had, I wanted to do it right then and there, and then I didn't have the thing, 
+
+[00:22:19] Bob: so. You know, it's interesting, I didn't even think about this in relation to what we're talking about, but I've had a different experience with this yesterday. So typically, uh, I've been the exact same way, where like, I want to do it right now, or I have to do it, you know.
+
+[00:22:35] Bob: Tomorrow or the next day or whatever, so I'm just going to order the thing that seems to make the most sense or I'm going to use what I have on hand or whatever and just like, just do it. And so, I've had this idea, um, for a thing that I want to build that requires two electric motors. And a bunch of other electronics and mechanical stuff, and like, it's a, it's a bigger idea for me.
+
+[00:22:56] Bob: And it's been floating around for a while, and typically, in the past, my process would have been like, I'm gonna go buy the cheapest motors I can find, and then, and I'm just gonna order them, and then when they get here, I will figure out how to make them work, and I will have to work around the fact that they are not the correct thing, but I'll just do it, because that's fun.
+
+[00:23:16] Bob: So, with the changes with I Like to Make Stuff lately, one of those things, the intentional changes is... Having more time to think through things completely in plan and figure out a better way to do something rather than just having to get it done. And so I'm like actively fighting against that thing that that pattern that I've set up for myself.
+
+[00:23:38] Bob: Not that I still don't like doing things on the fly, but There's a lot of things I've never done simply because I don't have the time, so I'm trying to make the time. So yesterday, I spent about, I don't know, 45 minutes? 
+
+[00:23:51] Jimmy: I think you're going to say about 8 minutes. 
+
+[00:23:53] Bob: I spent two and a half minutes researching.
+
+[00:23:55] Bob: No, I spent about 45 minutes researching and looking at different motor options that would be the right thing. And I found along the way a bunch of things I don't understand about motors. And instead of just being like, oh well, guess I'll never understand that, bye. Like, wrote down the words that I didn't understand, and then I went and spent another 10 minutes googling how is this thing, how do you, you know, translate wattage to horsepower to get a clear idea of what these motors mean between my understandings and things like that.
+
+[00:24:29] Bob: And it was, and I didn't buy any. I spent all that time researching, trying to understand, trying to pick the best ones, and I got to the end of that time and said. I don't have the right answer yet, so I'm just not going to buy it, which is probably going to make the whole thing take even longer and whatever.
+
+[00:24:43] Bob: But it was an interesting change for me that I kind of liked, and I think I won't always do that, but, uh, it was nice to be able to spend the time just trying to, like, Get a better picture of the right path forward rather than just like jumping in, you know, I think it's a balance for me It's gonna be a balance, but it's a nice change.
+
+[00:25:03] Bob: So this 
+
+[00:25:04] Jimmy: is so funny We didn't even plan this topic, but the other day I was at the hardware store Looking around I go shopping sometimes just for things I don't know I need and sometimes I'm gonna happen to find myself in the weed whacker aisle and I have a weed whacker I think my weeded wacker is an echo.
+
+[00:25:18] Jimmy: I, I bought it a few years ago. It was a gas powered and I am, I the only one in the world that buys weed, wacker string for the weeded wacker. And then you go to use it and then , the string's gone. Instantly, the string's gone. I have a million things to weed whack on, on up here. I mean, I live on about, I live on about three acres.
+
+[00:25:35] Jimmy: I mean the property's 40, but I weeded whack in and around like two acres of like living space. Otherwise, weeds just take over. The string immediately disappears and it's the most frustrating thing because I spent half the time trying to wire the, the, the spinny part with some weed whacker string. And I was in the store the other day and I found by Stihl, the chainsaw company Stihl, they have a weed whacker head which looks like a lawnmower blade but it's plastic and it's like...
+
+[00:26:03] Jimmy: Polypropylene plastic and it's got two, two, it looks like a blade that would be on a drone, but big. I was like, well, that's interesting. And I, and it comes with the spinny head and everything. I was like, well, I know I don't own a still, but I'll make it work. And, it was like 20 bucks. I'm like, for 20 bucks, I'll take my chances.
+
+[00:26:25] Jimmy: And I got home and I thought I'd take the other thing off, it took me a few seconds to get it off and then I look at it and I'm, it absolutely not in a hundred years will fit. But in my head, I'm like, okay, that's a challenge. Now I got to come up with a reverse thread thing with a stem. That's brass. I don't want to sacrifice the one that's on there in case I never figured this out.
+
+[00:26:43] Jimmy: So I got to come up with a reverse thread stem thing. That's three inches long. That'll pull this steel stack plastic thing together to spin on that little shaft that sticks out of my echo. It's like a little nub that sticks out spinny bolt thing. And I was like, if I would have. Open my phone up for three minutes.
+
+[00:27:03] Jimmy: I would have figured out that this probably already exists for this brand and I wouldn't have, I would have just bought it online. It's like, too lazy, now it's going to give me something to do, but I'm welcoming the challenge. I welcome the challenge to try and figure out how to machine that complicated part.
+
+[00:27:18] Jimmy: It's just a little stem, but the thread's reversed and that's the problem. I might have to go online and buy a reverse thread tap because it's a small, it's like a, almost like a, it's like a, Three eights, bolt, and reverse. 
+
+[00:27:30] David: So instead of spending 20 minutes and 20 bucks to go get the right thing, you're going to spend hours and hundreds of dollars to modify your current one.
+
+[00:27:41] David: I love it. 
+
+[00:27:42] Jimmy: But I'm going to learn a thing you're going to learn a thing or two. Yeah. And what I definitely will learn is to go look it up next time. Now I can figure out anything. I never have to read the instructions, it's just going to reinforce my laziness. 
+
+[00:27:56] David: Even 
+
+[00:27:56] Bob: better. It's funny though, because that's not laziness.
+
+[00:27:59] Bob: I don't know what it is, but that's not the right word. It's stubbornness. 
+
+[00:28:02] David: Well, it's
+
+[00:28:06] Jimmy: not wanting, it's not being in the right mood to take in new knowledge. Did you ever realize that? Like you're not in the right mood. Another example, last night I got this thing. I think I told you guys, I bought a soft topper for my truck. It's like this fold away thing. And winter's coming, my truck always fills up with snow.
+
+[00:28:23] Jimmy: So I bought a thing to cover the top. But I got this, it's like a camper looking thing. I bought it, I don't have a deal with them or anything. And uh, I open the instruction, I pull all of it out. First thing I'm like is... That all fits in that box. It's one thing I couldn't believe. There's little boxes on my porch.
+
+[00:28:38] Jimmy: I'm like, maybe that's only half of it. But everything was in there. I was amazed how they were able to get it all packed together. These tubes that's, these aluminum tubes that have like a one way snap so it sells in a bunch of little parts and then you snap the tubes together and it comes the length of the bed of the truck and blah blah blah blah.
+
+[00:28:55] Jimmy: But I perused this packet of information. I was like, uh, do I have to really read this? It's like, if you want color pictures go online. I, I, I kept, like, kept looking at the thing and, like, struggling whether to open it up and read it and going back to the pile of things going, okay, this must snap into this.
+
+[00:29:13] Jimmy: Okay, this must snap into this. This makes sense. Okay, this snaps into this. And there was one bit of evidence that said this is the front driver side and that sets up the whole orientation of the object once, once all the pieces start snapping together. So I hardly looked at the instructions. And the last thing I did is this big giant piece of canvas that has to snap into everything.
+
+[00:29:36] Jimmy: And I snapped it all in and then I went to open it up and it was completely 180 degrees. That annoyed me. Because the way, I did look at the picture in the book and it says snap this here. And I figured, they must have rolled it up for that to be the first part that snaps into what they're telling me in the instructions.
+
+[00:29:52] Jimmy: There's no way they didn't, but they didn't. So it like rolls up, like for instance, like I show you, like I rolled up a piece of paper and then the leftover part, so that's how it comes out of the package, and in the instructions it's like snap this to the front of the thing. I'm like, oh, this must be the way they set it up.
+
+[00:30:07] Jimmy: Yeah. All they would have had to do is roll it up this way and then it would have been in the right orientation. Anyway, so I'm out there in the middle of the night trying to turn this eight by eight piece of canvas around without getting pinched in this apparatus while my headlight lamp is flickering and turning off in the middle of the night.
+
+[00:30:26] Jimmy: But long story short if I would have read the instructions and it would have said make sure you do this and make sure This part is and the logo is over there You would have known but now I know I could put it I could anybody with a soft top or come over I put it together in eight minutes 
+
+[00:30:42] Bob: It's interesting I've been while you're saying that I'm trying to figure this out there's There's a there's a misnomer or a misunderstanding here about the thing that you just described Man, I cannot put words to this.
+
+[00:31:00] Bob: So, thinking back to the comments that we often get, and I'm not complaining about comments, but just one of the ways people react to seeing you figure something out on your own rather than reading the instructions or rather than doing research or whatever. One of the reactions people have to that is, well, why didn't you just go look this up?
+
+[00:31:19] Bob: Which is absolutely valid. I'm not dogging on that, sure. But, there's something in at least the three of us, or myself, that says, I would like to understand it rather than be told. I would like to have a more intimate, a deeper knowledge, understanding of how a thing works, what the intention was, rather than just...
+
+[00:31:39] Bob: Here is the behavior that you should follow and this is how it will be accomplished. Both of those things are great. Both of those things have value. But it's weird that two people can't see the, they, you know, that we're not aligned on like which one of those is better in any given situation. There's, there's some thing there that I don't really know how to describe.
+
+[00:32:03] Bob: But it's almost like, like you're talking about the, the thing at the store with the, the weed whacker. There's something about the consumption of information versus that same time applied to understanding. And it says something about, like, what you value, I think, a little bit. Not, again, not that either one of those things are wrong, but I think if somebody values...
+
+[00:32:29] Bob: Productivity, moving forward, getting things done, then reading the instructions, doing the research is absolutely the fastest way to get to that thing. So maybe that's attached to... Honestly, 
+
+[00:32:40] Jimmy: I think for me, it's a little bit of ego. It's like, I just built a pool table, I could figure out how to put a plastic...
+
+[00:32:45] Jimmy: Set of bars on my truck without looking at the instructions. And it's, it's a challenge. It's a puzzle. Interesting. Okay. You know, so, I mean, I'm only, I'm, I'm, I, I don't, I'm not in the moment going, I'm so smart, I can figure this out, but just Monday morning quarterbacking it. I think to myself right now, I'm thinking partly because I, I'm.
+
+[00:33:06] Jimmy: Too stubborn or lazy, whatever you want to call it, to look at this packet of instructions and go through every little detail. I just, I look at the pictures and when I see what the, I'm like, okay, I see how that relates to that. Okay, that's all I need. I don't need to read any of this. Reading is the biggest barrier for me.
+
+[00:33:22] Jimmy: It is for me too. Because 
+
+[00:33:24] David: when I'm in a making... Mindset. I don't want to read anything. I feel like my brain switches to a different mode. So if the instructions are wordy, I feel like it's gonna take me even more time to figure out how to put something together. That's true 
+
+[00:33:40] Jimmy: for me too. And so I just show me pictures.
+
+[00:33:43] Jimmy: Just show me pictures. Yeah. 
+
+[00:33:47] Bob: Interesting. I mean, I guess I do skim through things. Like, I, not necessarily when I read, well, maybe even when I read, like, fiction or whatever, I, I do think I, I skim. I don't really... Soak in all the words and try to get a clear picture. I look for highlights. I look for the things that are, you know.
+
+[00:34:06] Bob: Like, if you're looking at instructions for putting something together, my eyes are looking for the size of screw in the description. That's the thing that I actually need out of this sentence, is which screw do I pick up, or whatever. I hadn't thought about that. It's why I What you're doing is kind of a barrier to that.
+
+[00:34:22] David: It's why I always prefer video to written instructions. So if there's a video on how to put this thing together, I'm gonna go straight to that. I'm gonna skip the first two minutes, all the filler, and I just want, I just want the meat. 
+
+[00:34:37] Bob: Heh 
+
+[00:34:37] Jimmy: heh. I, I, I'm remembering a challenge I had last week, so I bought a used camera from a friend.
+
+[00:34:42] Jimmy: It's like a Sony 5, it's like a studio camera. You can see it in my leather video because I got frustrated with it. I just put it on the table, and last week I made a video of me making some things in leather. And it's sitting on the table in the background. So, I hardly used it since I bought it about six months ago.
+
+[00:34:58] Jimmy: And I said, let me get into this camera, let me figure this camera out. And, I couldn't figure out how to watch the clips back. There's no play button on it. There's no button with a little triangle like a YouTube symbol. Anywhere on the camera. And I'm like, am I losing my mind? Is this camera not? Is it such a professional camera that it's not meant to have playback,
+
+[00:35:21] Jimmy: And I go to a YouTube video and I'm watching YouTube videos from five years ago on this camera where everyone's looking, it's the most advanced camera, blah, blah, blah, blah. And I'm like, I just keep Googling how to playback in the camera and nobody has a direct thing on how to play it back. And I'm searching in YouTube.
+
+[00:35:37] Jimmy: I'm not searching on the internet. So in YouTube I'm finding guys. So one guy did a whole review on the camera and at the very end he goes, oh, to watch your clips back, hit the button that says thumbnails. And I'm thinking, why would it say thumbnails? To me it never meant the word playback. And when you click thumbnails, all the thumbnails for all your clips pop up.
+
+[00:36:00] Jimmy: And then you could scroll through it with the navigation button and playback. Uh, that was drove me insane. That was like 45 minutes of me. And then when I Googled it, just outta curiosity, I googled it in Google. The instruction page for that camera popped right up in APDF and it says, hit the clips button to for your playback
+
+[00:36:19] Jimmy: So if I would've looked and not try to resort to just YouTube, or if I would've just resorted to Google. information page, I would have found my answer really 
+
+[00:36:28] Bob: fast. Okay, so that brings up a really interesting thing. Uh, UX design user interface design is way more important in all sorts of stuff than people realize.
+
+[00:36:40] Bob: And in the case of that camera, it was poorly done. Because nobody in their right mind would think thumbnail means playback, even though, like, I see how they got there, but that's not where you would go first. And then that 
+
+[00:36:51] Jimmy: same camera, if anybody has it, I'm going to complain about something else. It says...
+
+[00:36:55] Jimmy: It has iris, auto, manual, and the switch it's like switch click boom boom like there's no see it's like I don't know how to put it into auto I don't know how to put it into manual this is a switch and a button and it's an auto hat like there's too many buttons close together I don't know what flip is supposed to indicate something else.
+
+[00:37:13] Jimmy: So in the 
+
+[00:37:16] Bob: case of the camera that was poorly done the User interface design. User experience. Sorry, I said UX. User experience is poor, whereas in the topper for your truck that you were talking about, you knew from some indications which piece to pick up without reading the instructions, how they were supposed to go together just from the design of the thing.
+
+[00:37:38] Bob: And that's good UX. That's where you get an IKEA thing and you don't even have to follow the simple, well designed instructions to explain it because it's obvious enough. The flow, the packaging, the way that the pieces are labeled or whatever makes it easy to do that. So it's interesting. When you take that and you apply it to products, because it makes products easier to use, easier to understand.
+
+[00:38:02] Bob: But there's no way to do that for like a,
+
+[00:38:08] Bob: you can't design a user experience for a process. Like a, like the molding and casting thing, going back to the belt. How would you design a user experience for a process that somebody's trying to learn that's not a product? How would you, maybe that's what we do. I think that's what we do, yeah. Huh. I don't have a plan here or a full thought, I'm just thinking 
+
+[00:38:32] Jimmy: through this in the moment.
+
+[00:38:32] Jimmy: Yeah, distill it, well, uh, distill it in fast forward video. Interesting. Distill it. Distill it. I like the word distill. D I N I L L. I don't know what that means yet. Too lazy to look it up. I'm waiting for someone to just tell me what it means. 
+
+[00:38:48] David: They'll call you. I'm sure somebody will. Just find his number in the back of the, uh, the birdhouse.
+
+[00:38:55] Jimmy: D, D, D period. Iron Eyes is going to call me. Tell me what he's all about. 
+
+[00:39:01] Bob: That's interesting though. I guess that is kind of what we do. Try to, at least what I do, I try to do, is to simplify the process down to the bare essentials in like the most easy to understand 
+
+[00:39:14] Jimmy: way. When people ask me for opinions or my, my, my advice on editing, I say only film and show changes in material.
+
+[00:39:26] Jimmy: All the process. Only edit out anything that's, looks boring on camera. Anything with, when material literally changes. One piece of wood becomes two pieces of wood. This piece of wood gets attached to that piece of wood. This piece of metal goes from a flat piece to a bend. Only show those key 
+
+[00:39:43] David: moments. You said something like eight years ago that kind of set the right tone for me is early in early out.
+
+[00:39:51] Jimmy: Oh, yeah, yeah, that's true, that's true too, yeah. I read that in a script writing book by Sid Mead, uh, uh, or, uh, who's the other guy? That's a different guy, but, Long, uh, yeah, you just trust the audience, and that's another thing, when, when YouTubers say, I'm gonna pick up this hatchet, and I'm gonna cut this wood, and the wood's gonna get cut, and the wood's gonna split, and I'm gonna show you how to do that, come out to the barn with me.
+
+[00:40:16] Jimmy: The video could open up with the wood hitting Getting hit by the axe, and go, Well, I just split that, and this is how I did it. That's a more interesting video. Yeah. 
+
+[00:40:28] David: Speaking of filmmakers, that 
+
+[00:40:30] Jimmy: totally steals the information. 
+
+[00:40:31] David: Off topic and Bob, I'm curious to know if you've watched and have an opinion of this movie but I've been really into David Lynch lately I've been like watching all kinds of interviews and and some of his documentary and classes and so like you know what I'm gonna go watch every single David Lynch movie.
+
+[00:40:51] David: And I tried to watch Dune the other night. Whew! I... 
+
+[00:40:55] Bob: The original 
+
+[00:40:55] David: Dune? The original Dune, yeah, from 1984, 85. And, um, whew! Uh... I fell asleep. 
+
+[00:41:05] Bob: Uh... 
+
+[00:41:07] David: Boy, did I sleep well! Yeah, boy, did I sleep well. Do you have, uh, have you seen it? Have you watched it? 
+
+[00:41:12] Bob: I've seen... Parts of it. I've never actually seen that whole, I saw the new Dune, but, um, I never watched it.
+
+[00:41:19] Bob: I never had enough interest to get through very much of it. 
+
+[00:41:23] David: He, um, he has a philosophy now with his art, um, which is all about, if, if, if he is making something, he gets final cut. means he gets the final say because he does paintings and sculptures and filmmaking and and whatever and he always gets final cut he gets final say of how it looks and it all comes from that movie because he did not get final cut in Dune and it was he disowned himself from that movie and there was other disasters that happened and it's just it's interesting interesting story and it's made me really want to watch it but man I had a tough time with 
+
+[00:42:01] Bob: it There's a few movies like that that, you know, are, I don't know, cult classics or whatever.
+
+[00:42:09] Bob: People love them. They are important. I, I should air quote, important. But then you watch them and you're like, oh boy, it's like, I mean, 2001 is one of those that I totally understand why it's important. Kubrick's great, there's some really beautiful, really interesting, really different shots in that, but good grief, what a boring book.
+
+[00:42:31] Bob: What a slow, long, ugh, it's like a slog to get through 2001. Great book, though, by the way. Alright. 
+
+[00:42:42] Jimmy: Does that 
+
+[00:42:43] Bob: mean you have to read it? Yeah, yeah. It takes time, you have to be kind of still, it's weird.
+
+[00:42:52] Bob: Yeah, so, uh, anyway, I think this is really interesting that, you know, talking about how we, we figure out the, the part of, of process or being productive that we like that is different between different people. And I. Not that we need to necessarily have a name for things or, you know, like you are this way, you are that way.
+
+[00:43:18] Bob: But I really like figuring out the differences between how people, like, understand things or consume things. Because it gives you a better understanding of how somebody else may do it differently than you do. And just us talking about this has already made me a little more empathetic to the comments that we've gotten in the past about like, well, why don't you just...
+
+[00:43:39] Bob: And now I'm understanding that... That person and I just have a really different process for, or a different end goal in doing something, you know? And that's not good or bad, it's just, it's just different. Whereas to me it sounds like they're trying to make me feel dumb for not just doing the research, but the research is not the point for me.
+
+[00:44:01] Bob: It would be for them, and I get that. It's just not for me, so. I don't know. It's interesting to me. 
+
+[00:44:08] Jimmy: Yeah, everything's a puzzle. 
+
+[00:44:11] Bob: Yeah. Uh, since we didn't have a topic... Did anything come in through Twitter while you were asking or through Discord 
+
+[00:44:20] David: or anything? I sent you guys a couple of texts. Um, I got... So, my buddy Jonathan on my Discord said, If you had an extra 20, 000 to spend on whatever you wanted for your business, what would you spend it on?
+
+[00:44:34] David: And, I've been kind of thinking about this, and I'm pretty, I'm pretty lucky. I've got, I've got the tools that I need to make... Most of the things that I want to make and I think if I had 20, 000 just and I had to go towards the business I think I'm going materials. I think I would really love to have a stash of wood, uh, walnut and I would spend I'd spend 15, 000 on materials, acrylics and woods and fabrics and stuff like that.
+
+[00:45:10] David: And then I would save the last 5, 000 for a storage unit so I could keep that stuff in because I don't have a place to put it. If the budget was bigger, I would like to buy a Woods and a Wood Mizer. And some help, because that would be, I watch Matthew Cremona's videos, and I'm like, man, that is so cool.
+
+[00:45:33] David: I'm so jealous that he gets to take the tree, And make flooring out of it. You know, he, he, he, I mean, like from a live living tree to its final destination and, and his home that he's building. That is so 
+
+[00:45:48] Jimmy: cool to me. I've been contemplating, I've been pricing, and right now is not a good time to buy anything, but I've been pricing a sawmill.
+
+[00:45:56] Jimmy: Different types of sawmills, like a Lucas sawmill, and there's other sawmills that, that are mobile, you know, under... Witin the scene, have to be financed. But if I had an extra 20000 I mean, I do have to provide some of the license and payment to the vendors to do what I want. How Inventive!
+
+[00:46:19] Jimmy: Just set your depth and you just cut a 2x4, or a 6x1, a 6x1, however you decide to lay it out. It's a really, really cool saw. But, it's like 60, So I'd use the 20, 000 as a down payment. Nice. I like 
+
+[00:46:38] Bob: that. I really like the, uh, the material. That's, that's great. Cause that would be really cool to just have a huge library of stuff.
+
+[00:46:47] Bob: Yeah. Of, you know, every color of acrylic, every, I mean, like having, okay, here's probably what I would do. I would go to Ace Hardware or McMaster car and just buy like the aisle . I went, I went this aisle of every screw and every nut and every 
+
+[00:47:10] Jimmy: washer. I put that in my shop. Yeah. I buy all, I buy a Fastenal.
+
+[00:47:13] David: Oh, just the whole, the whole building. Yeah. 
+
+[00:47:17] Bob: I'm sure that would be 20, 000. Yeah, I mean, that would be amazing to just have that hardware library. A full, not, you know, we can kind of limit, do like a limited, you know, M5 to M8, and like all the, whatever. But, to have all of it there, all the time. Traktor 
+
+[00:47:33] Jimmy: Supply, by the way, has a really good aisle for nuts and bolts if you live near Traktor Supply.
+
+[00:47:36] Jimmy: You buy it with the weight, 
+
+[00:47:37] David: yeah. 
+
+[00:47:39] Jimmy: Yeah. Hmm. They have, they have metric and, and hard bolts in various grades of hardness. 
+
+[00:47:45] Bob: Interesting. I did not know that. Yeah, it's, I always, I always think of Ace. I always go shopping for 
+
+[00:47:48] Jimmy: that thing. But no go to Tractor Supply. It's done better. Oh, you just 
+
+[00:47:52] David: throw it in a bag and weigh it?
+
+[00:47:53] David: Ace? 
+
+[00:47:54] Jimmy: Yeah. Wow. Ace is okay, but Ace has so many other things which kind of bog you down. They have like little brass screws and clips, so I mean, one is good for more in the minutia, but for practical go-kart axles and stuff. They sell it all at once. Oh, 
+
+[00:48:09] Bob: yeah. Gotcha. Okay. I see. Yeah, I mean, that makes sense.
+
+[00:48:14] Bob: Tractor supplies is probably more of the functional, like, replacement part kind of thing, whereas Yeah. And 
+
+[00:48:21] Jimmy: if you go down the tractor parts aisle, you can buy Sprockets and chain and hubs. So if you have a 5 eighths shaft, this is not a commercial for them, but it's a good resource. If you have a motor with a 5 eighths shaft and it needs a certain size pulley, you can buy the hub of the shaft size and the pulley that you want and then you weld them together.
+
+[00:48:42] David: It makes so much sense that I see farmers as like the original makers because when you work on a farm and something breaks, you have to be able to fix it right then and there. Because that is your, your whole livelihood. And then a place like Tractor Supply, and there's other ones around here that kind of do the same thing, that there's just these parts that you can get to make and fix and modify those things.
+
+[00:49:11] Jimmy: For the most part. Now new tractors are attached to the internet. Right, right. You got to use your 
+
+[00:49:15] David: app. You can't drive your tractor without loading the app. 
+
+[00:49:19] Bob: So, let's flip that question around, or I guess, flip our answers around. So, David, you and I both said materials. Jimmy, you said a tool. Flip it. Jimmy, what's a material or a set of materials that you would get if you had 20, 000?
+
+[00:49:34] Jimmy: I'd buy brass and sheet stock in various materials and profiles if I was going to buy materials. Having profiles is really, when I say a profile, the other day Patrick was making a shelf bracket. And he says, do we have three quarter inch solid steel? I said, I know I have it somewhere, I don't know where.
+
+[00:49:52] Jimmy: So he ended up finding it over at the other shop, like in the junk pile. But to have a rack of all different profiles in steel. Wood I could always make, it's easy. But to have profiles in steel, aluminum, and brass would be pretty cool. And 20, 000 would get me a nice pile that would fill the corner of a room and not take over the place.
+
+[00:50:16] Bob: Nice. Okay, David, 
+
+[00:50:18] David: what about a tool? I think, uh, I think it would be more in the metalworking stuff, um, uh, brakes, things to bend, bend metal. I just got a plasma cutter, it's not completely, a CNC plasma cutter, it's not set up all the way yet, and I had to get something small because I don't have the space, but it would be awesome to be able to.
+
+[00:50:43] David: have a dedicated drill press and brakes and ways to cut metal and and just various things like that. 
+
+[00:50:53] Bob: Yeah. Hmm. Yeah. I had thought when you were saying that I had thought about metalworking as well and I think that would absolutely be useful. But then I immediately thought if space was not an issue.
+
+[00:51:04] Bob: Cause, you know, obviously if we buy these things, I got to go somewhere. If space were not an issue, I would want a giant paint booth. Like one of those, like you could just pull a car in and it's like, it has the right air and has the right light and has the right heat and all of that. Like that would be.
+
+[00:51:21] Bob: Man, I would take 
+
+[00:51:23] David: advantage of that. I'm changing my, I'm changing my answer. Not a paint booth, but I would love to do more bigger, um, uh, powder coating. I would love to have like a, like, you talked about this last week, but a place, uh, like a big oven, and the powder coating materials, and the space to do it, and the ventilation.
+
+[00:51:43] David: That's, I think that's where I want to go. Finishing. 
+
+[00:51:46] Bob: Mm. Okay. Yeah. Nice. I finished my powder coat. And that's the thing that I was talking about last week. Is that coming out? Yeah, hopefully. If we can get the video done. It turned out really good. And success? It worked well? It worked great? Yeah, it works great.
+
+[00:52:03] Bob: It's funny though, because it's a rack that holds two infrared heaters so that I can powder coat big objects, but I had to powder coat the rack with those heaters without the rack to hold the heaters. And so I got to a point and I'm like, wait a second, how do I do this? And so... You just held them in place?
+
+[00:52:20] Bob: I ended up taking one of the heaters and I clamped it to the side of a metal table that I built years and years ago so that it was like off the ground but still kind of at the right height and then I just rolled my rack that I'd powder coated up to it and heated it and cured it or whatever you call that a little section at a time so I had to do like the front and then I flipped it around at the back and then I lowered the heater and did the 
+
+[00:52:44] Jimmy: bottom and all the in between starts melted together beautifully 
+
+[00:52:48] Bob: Yeah, because I overlapped, you know, like I made sure that I was reheating 
+
+[00:52:51] Jimmy: areas.
+
+[00:52:51] Jimmy: That's something I never thought you could do. I wouldn't have thought you 
+
+[00:52:53] Bob: could do that. Well, and I've, since then, have seen videos, I actually did a little research, after the fact, and I saw how people are using, you know, it's got to be like 400 degrees, and you can do that with lots of things. So, uh, I saw somebody using a torch, like some, some sort of a butane, like, big round torch to heat a large area on top of a table.
+
+[00:53:17] Bob: So they rolled something up to it. And, you know, there's a bunch of ways that you can heat something enough to get it to to, what, I don't, it's not curing, I don't know what it's called. Melting, baking, squishing, powder coating, whatever. Um, there's a lot of ways to do it. It's just a matter of doing it efficiently and doing a big section at a time.
+
+[00:53:39] Bob: Like, I even saw one thing where you could preheat, I can't remember the situation now, but you could preheat a piece of metal, you get it hot, or no, it was glass, that's what it was. They took a, uh, um, mason jar, they put it in an oven. Heated it up to 400 degrees and then pulled it out and sprayed powder coat on it.
+
+[00:54:00] Bob: And the material was so hot that as the powder landed on it, it fused. That's the word. 
+
+[00:54:06] David: It fused. Uh, that's uh, that's kind of cool. I've done the um, I don't know if you guys have seen the, using the powder coating powder in your laser. Where you, you run a board in your laser. You engrave your words or whatever your image that you're putting on there, so then it leaves a little, um, indentation, and then you fill that with the powder coat, and then you go over again with your laser, and it gets hot enough where it melts the powder coating material into that engraving, and then you have A color, yeah.
+
+[00:54:39] David: I've, I've, I've done it. Um, I've had, it was okay. It wasn't, it wasn't perfect, but it's, I think it's something that can be perfected if you spend the time. 
+
+[00:54:51] Bob: Wow. Yeah. Interesting. That seems like masking that surface would probably go a long way in getting a good result. Well, 
+
+[00:55:00] David: if, as long as you, you, you, you don't have to mask it so much, as long as you engrave and then don't move your piece, fill that with the powder coat, and then the laser's accurate enough where it'll, it'll just heat up where, where that powder is.
+
+[00:55:15] Bob: So when you did that, when you tested it, what was the, like, why wasn't 
+
+[00:55:21] David: it, why wasn't it perfect? Because I got the powder coating material from Harbor Freight and they at, at that time they only had black and white so I got white and there was some like burn edges so it wasn't like a pure beautiful white and I'm wondering if like a darker color like a blue or red would look better in 
+
+[00:55:40] Bob: there.
+
+[00:55:42] Bob: Gotcha, I see. You could also do multiple coats. I saw, I saw a thing yesterday where someone was powder coating a... Um, I don't know, a piece for an engine, and they did orange, but they split it, they masked half of it, and they did the unmasked part white, and then sprayed both parts orange, and they were showing the difference of having an undercoat of white, and it was crazy how much difference it made with orange, you know, yellow, red, any color like that.
+
+[00:56:13] Bob: So much brighter and more vibrant with than a white undercoat. Interesting. So. Yeah, they make a big difference, but, anyway. All right, you guys got anything else for this week? That's 
+
+[00:56:25] David: good for not having to copy. 
+
+[00:56:27] Jimmy: Yeah, that's good. Stop being lazy. We can ramble for 
+
+[00:56:29] Bob: hours. Um, well, I'm going to thank our Patreon supporters.
+
+[00:56:34] Bob: While you guys think of something to, uh... Recommend. Shoot. You got to do that. So, and I actually have two things to recommend this week. You guys will be proud of me. I actually watched YouTube for the first time in a really long time this week. Found two cool things. Big thanks to everybody that supports us on Patreon.
+
+[00:56:53] Bob: It helps. It matters. It makes the show happen, and we're very grateful to everybody over there. We had a new, a new Patreon this week. I don't think this was a joke, but his name is Papa Chad. He's a new Chad. One of the Chads. What? Are you kidding me? Joined, uh, to help us out. And, so, thank you, welcome, uh, but, you know, just wanted to point that out because we have an inordinate amount of chads.
+
+[00:57:19] Bob: In the list, he's right next to Chad McIntyre, which is not even one of the chads that I've talked about before, which is just kind of weird, anyway. Big thanks to everybody that helps us out over there, especially our top supporters and our new supporters. Uh, but the top ones that I want to, you know, call out every week to 'cause they go above and beyond.
+
+[00:57:35] Bob: Big thanks to Crabtree Creative, the Web Ranch Woodwork, Michael Menin. Warren Works, Stu Morrison, the new Jenky workshops. Scott Orem, Sean Beckner, Oden Leather Goods Rich at Lowen Designs. Chads Custom Creations. Chad from Man Crafting Works by Solo Alberts Woodworks and Cory Ward. 
+
+[00:57:50] Jimmy: I'm texting with Sean Beckman this second.
+
+[00:57:53] David: Oh, is that why you're not paying attention to the podcast?
+
+[00:57:59] Jimmy: No, I'm drawing, I'm taking ideas because I was thinking about stuff we could talk about in the after show and I got a, a TV show formulating with pretty interesting things and I'll talk about it in the after show. So I just, he reminded me to write that because I have a I have a meeting with a producer in a couple of days and I didn't realize I didn't do any of my homework.
+
+[00:58:16] Jimmy: So I started doing my homework just now because something one of you guys said reminded me that I need to do my homework for that project. So that's it. 
+
+[00:58:25] Bob: Oh, uh, I want to point this out real quick too, because I forgot to mention it earlier. The Louisville Maker Faire is this weekend, which I don't know the date of that, but it's whatever tomorrow is if you're listening on Friday.
+
+[00:58:37] Bob: The 16th of September in Louisville down, uh, near the University of Louisville campus. It's on campus somewhere. But, uh, it's a good time. Put on my first build in the area. Um, I should be there. My plan is to be there some point in the afternoon in between soccer games. I know Josh is going to be around.
+
+[00:58:58] Bob: Not sure who else, uh, from this area, but... Anyway, if you're in the area, go check it out. Maker Faires are cool. All right, what do you guys have? Dune. 
+
+[00:59:08] David: 1984, Dune. Or 
+
+[00:59:11] Bob: 85. The thing that you couldn't stay away through. 
+
+[00:59:13] David: Uh, um, I am gonna try to go back and watch it and pay attention. Just to torture myself, I guess.
+
+[00:59:22] David: So that's not my pick. I'm gonna go with Make with Miles. I know we've talked about him before. He just did a collab with an artist YouTuber that I really like, called Ten Hundred, and uh, it was, it was, it was really cool, so, Make With Myles. 
+
+[00:59:38] Jimmy: I'm just thinking about podcasts, I'm, I, I think it was the one podcast that I hoped is always a new episode for, and lately it's been Sam Morrell and Mark Norman podcasts.
+
+[00:59:50] Jimmy: Called? Are we Drunk? Are we Drunk yet? I think it's called. Let me Check. I thought I'd roll off the tongue. I don't remember the name exactly. Um, so I talked about 'em before, but it gets better and better because they just started doing it as a, there was nothing to do during Covid, and it turns out it's actually a pretty good podcast and 
+
+[01:00:10] Bob: I can't find What type of show is it?
+
+[01:00:11] Bob: It's just a podcast drinking until 
+
+[01:00:13] Jimmy: they pass out? No, it's, it's a podcast where they drink, but it's really a comedy podcast about. Comedians, and they always have on a new comedian. We Might Be Drunk, is what it's called. It's good, they always have on, the reason I like it is because every week they have on new comedians, in many cases, that I never heard of.
+
+[01:00:30] Jimmy: And, they're the new generation of comedians. I came up with, listening to all the comedians my brother came up with, with like, David Tell, and Patrice O'Neil, and, uh, Greg, uh, Greg, he died. I can't remember his name, but like Colin Quinn and yeah, Greg Giraldo and all those guys. And now these are like the next, well, there's other generations in between, but these guys, like the next big batch of comedians that are, that are going to be big names developing into big names.
+
+[01:00:59] Jimmy: And what's really interesting, and I know I've talked about this before, is that all these guys. When there's so many to choose from, Netflix and these bigger distribution channels can't put everybody up. So because there was a bottleneck, they all started putting their own specials on YouTube. And the YouTube specials do better than anything else.
+
+[01:01:18] Jimmy: And so now they don't even wait for a deal. All these comedians just produce an hour long special and put it on YouTube, and they do really well. So there's so many. Great comedians on YouTube with 50, 80, 50, 50, 60, 70 minute sets that are really, really funny. Joe List is somebody that I only, I've heard of through that podcast and I never watched Joe List the other night.
+
+[01:01:41] Jimmy: I watched two specials of Joe List. He's hilarious. That's why I like it. This is because they introduce a lot of new people to people that I never heard. 
+
+[01:01:50] David: So, uh, it's so weird to see the evolution of stand up comedy. So, you know, back in, you know, the 60s, you just had to go word of mouth and who was touring and, and, and.
+
+[01:02:05] David: You know, sometimes people would get on, you know, Johnny Carson or whatever, and then Comedy Central comes out. So then you get to see a lot more standup, and then the satellite radio comes out where there's comedy channels where you can just listen to standup and, and now we're at a point where it's, it's YouTube.
+
+[01:02:21] David: You just self produce yourself. It's so amazing. 
+
+[01:02:26] Bob: Yeah, it's pretty wild. I mean, same could be said for like music and Yeah. And all that. All this stuff. 
+
+[01:02:32] Jimmy: Yep. 
+
+[01:02:33] Bob: Cool. Uh, I have two this week. One is just a, a. This is a handy video that, um, it was from Jason at Fireball Tools about pro grinding. I can't remember exactly what it's called.
+
+[01:02:44] Bob: I'll put a link to it. But he talks about how to get like a really nice looking grind on a, you know, a metal thing that you've welded. And it's not, I mean, it's basically an ad for these discs that he sells. I guess, but it was also useful because it showed me the effort like the kind of three different ways you could go about grinding something and the result you're going to get and how it is attainable to get a really nice even good looking grind on a welded thing rather than just functional you know and I never really go that to that length to get the finish But seeing that you could and seeing how reasonable it is to do that kind of made me like want to try that and do, I don't know, it was interesting.
+
+[01:03:33] Bob: The other thing is a totally random video that I found. Building Darth Vader's TIE fighter from cardboard. So, Jimmy, uh, there's a movie called Star Wars, and in that movie there's a bad guy named Darth Vader. Darth. Okay? And he's a bad guy. And his name sounds mean. I know. And he flies this ship. Anyway, so this guy, I don't know who this guy is, some artist, but he makes this spaceship.
+
+[01:04:00] Bob: That is not quite full size, I mean it's, it fits in a room, it was some sort of art installation, but it's still huge, like it's as big as the room that I'm in right now. And he builds the entire thing out of cardboard. Cut by hand. And as soon as I started to watch it, I'm like, this dude needs a laser, because it would just make so much easier for him to do this thing.
+
+[01:04:20] Bob: But he cuts all this stuff by hand, the video is just a time lapse. And he builds up this incredibly detailed, giant thing from cutting pieces and bending them and gluing them together and it's just wild. It's all cardboard and it makes no sense to me how somebody would take that time to make that, but...
+
+[01:04:36] Bob: And it looks like it wrecked, so it's in this room for the art installation, it's like... Kind of tilted, kind of on edge. It's missing one wing, and then there's a section of it that's kind of torn out. It looks like it, it crashed and you know, got ripped open and stuff. It's really cool. It was, it was impressive, but I've got a project that I've been thinking about doing for a while that would be not that big.
+
+[01:05:00] Bob: But large and I was trying to figure out what material I wanted to use for it So it was lightweight and I never really considered cardboard because it just didn't I don't know why I didn't but then seeing him do this made me go like I should really try it in cardboard because I think that would be an Inexpensive way to do it.
+
+[01:05:19] Bob: It would be lightweight if I screw up which I inevitably will it's not a big deal You know, um, and I've, for something a long time ago, we bought a stack of flat sheets of cardboard, like, it was like 40 of them or something, and they were maybe 3 feet square, and it was dirt cheap to get, you know, somebody just dropped off this big lump.
+
+[01:05:43] Bob: You, you 
+
+[01:05:43] Jimmy: lied. I have those too. Okay, yeah. Make 
+
+[01:05:47] Bob: boxes from them. Yeah. So, it's kind of a cheap way to have a whole bunch of that material to, like, mess up and... Anyway, so it was a good video because it inspired me to use the material. 
+
+[01:06:01] David: A couple years ago, there's a local place here where you can buy bulk sheets of cardboard and I did that.
+
+[01:06:08] David: Yeah. And then I wanted to store a bunch in the attic and it wouldn't fit into the attic hole, so I had to cut 'em all in half to get 'em up there for future projects. And I did that all in the bands saw. And that cardboard dust was the worst dust ever in, in, in the shop. So I still have all this cardboard that I want to do a, a big project with.
+
+[01:06:30] David: And, but I know the next time I'm going to, I'm gonna cut everything. I'm gonna take the little bandsaw outside and, and, and cut it. 'cause it was just. It is a nasty, nasty 
+
+[01:06:39] Jimmy: dust. Hmm. You know, it's a real nasty dust and it's only 'cause it's something that I just wrote down. Have you ever cut a book? Do you ever take a book and cut it on the bandsaw?
+
+[01:06:48] Jimmy: No. One of my students is a teacher. She teaches children like first, second, third grade, and she found all these books at the Salvation Army and she wanted me to cut them into the alphabet. So I cut A, B, C, D. So I cut like almost the whole alphabet out of this pile of books you got. And the sawdust from that was, the dust from that was just unbelievable.
+
+[01:07:09] Jimmy: It was horrible. Floated in the air. It was gross. 
+
+[01:07:14] Bob: Protect yourself. Well one time we cut a whole bunch, like a hundred pool noodles. Uh, and sanded them. Sanded 
+
+[01:07:25] Jimmy: points on the end of them. That was for the push pin? 
+
+[01:07:28] Bob: No, it was for the, uh, axe throwing, the kids axe throwing thing. Oh, wow. And, man, when you sand a pool noodle, that stuff goes everywhere.
+
+[01:07:37] Bob: Oh, it like floats on the air, right? Yeah. That's nasty. Anyway. Cool. Well, thanks for listening, everybody, and, uh, we'll catch you next time. 
+
+[01:07:46] Jimmy: Send some topics next week. Oh, yeah. Yeah. Thank you. Thank you.
+

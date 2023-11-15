@@ -1,0 +1,615 @@
+383-Making It
+===
+
+[00:00:00] Bob: Welcome back! Whoa. Well, I mean, I guess not back. You didn't go anywhere, but... I'm back. Welcome to the new year! Wow. 
+
+[00:00:10] David: How's it going? Happy New Year. 
+
+[00:00:11] Jimmy: Happy New Year. Everybody doing alright? Yeah. Well, besides my little issue, but it's not an issue. I'm just trying to help a buddy out. So that's what I was dealing with before we got started, but I am good.
+
+It's already, what is it, the 3rd? Is today the 3rd or the 4th? I have 
+
+[00:00:25] Bob: no idea. 
+
+[00:00:27] Jimmy: I can't believe it's already our new year. We're gonna be here. 
+
+[00:00:30] David: Yeah. We've already had pipes freeze and everything. We've never had pipes freeze in December. Really? Yeah, yeah, the whole kitchen didn't work over Christmas break.
+
+Nothing broke. Oh, that's weird. We had to go away for family Christmas, and so I set up a camera on my sink. And, on, uh, and I just kept looking at my phone, seeing if the sink was going to come back on. And then, uh, it did. And there was a celebration at Christmas, and I was so excited that the sink came back on.
+
+Christmas miracle! Yeah, because it was off for a good two and a half days. And I was in the crawlspace with a heat gun, heating all the pipes. And it was like, it can't be in the crawlspace. I was up in the attic. It must have been in the wall somewhere. And I just could not find where it froze and just assumed everything is going to bust and it's going to be awful and nobody's going to be able to come out because it's Christmas.
+
+And, uh, it was, it was stressful. And then it was amazing when this thing came on via camera. Via satellite. 
+
+[00:01:35] Bob: Wow. Yeah. Well, I'm glad it wasn't a bigger deal. 
+
+[00:01:40] David: We don't get that in December. We never have... Sub zero degrees in December. And now it's 60 degrees out. Yeah. 
+
+[00:01:50] Bob: Yeah, it's weird. 
+
+[00:01:51] David: It's super weird.
+
+[00:01:54] Jimmy: Thankfully, everything is melting up here. I've had my pellet stove on super low. I don't know if you guys saw some of the stories over the crazy cold. It got down to about 8 degrees over here right around Christmas. And that's exactly when the the pin sheared in my the screw motor connection in my pellet stove.
+
+And it's sheared, I only showed one story on it, and a lot of people were curious about that particular stove because I got it from Tractor Supply. But just so everybody knows, the pin sheared three more times, but I wasn't going to bore everybody with the story, and now I finally got a hardened steel pin and it seems like it's going to be better.
+
+It hasn't broke yet, and it's been rolling for a while. 
+
+[00:02:32] David: Wow. Well there's a reason the pin 
+
+[00:02:33] Jimmy: is shearing, right? Well that's because the pallets are getting gnarled up in the tube, but... It's a pellet stove, man. It's like doing exactly what it's supposed to. So I have taken off the shroud for the tube to make sure that there's not like a, a toy duck or a 3D printed ring in there or something.
+
+And there's nothing. It says it has happened. Last year, my other pellet stove broke and I heard it, like, an audible, like, rip apart, break. So I took it all apart and there was a wood screw in the screw, in the, in the... Turbine thing that turns up the screw feed. There was actually a wooden sheet rock screw that had fallen in there and it bound up the whole thing and broke the system.
+
+I had to buy a new motor and everything. That's one thing I'm always real cautious of.
+
+[00:03:20] Bob: How are you cautious about that? Let's just make sure there's no screws in the, in the 
+
+[00:03:25] Jimmy: pellets or like? I think me and Willie were both working on this, this was a couple years ago, we were both working on the stove and I had put some wood screws that had, was like hanging a picture and it like fell into the hopper.
+
+It was using the top of the, yeah, so I was using the top of the, the pellet stove as a desk. I'm an idiot, so. You never know. Everything is a desk. Yeah, no, it was a nice break. I got, if you guys have seen, you guys would probably be proud of me, I got a Formlabs 3D printer. I got a, uh, Formlabs 3 it's nice to have a TV show where people enjoy your show and want to help you.
+
+So the guys at Formlabs, there was a couple executives there that liked the show and invited me and Derek in to look around the facilities there. So me and Derek went and looked around there a few, like maybe about a month ago. It was a very, very enlightening experience. Like, every turn there's hundreds of people.
+
+It's like, oh, this is our development team that thinks about plastics. And then you make a turn and there's like 400 hips. There's like, this is our development team that thinks about how the plastic's gonna stick to the plate. And then you make a turn and there's like another 50 people. Like, these are the guys that are developing software for the color blue.
+
+And then you turn and it's like, they have so many departments, it's unbelievable. And, uh, we, we got a kick out of the department where they make... Just sort of the breadboard models, and things that are just made out of cardboard, and railings, and just tchotchkes, and then it goes to a whole other lab that just deals with the beautification of the item, and how the parts are gonna, so they really got it all nailed down, and that's in Boston.
+
+And then at the end of the tour, the two gentlemen that showed us around, uh, Matt and Mike, they said, would you be interested in a couple of machines? I said, of course. And then mine showed up just before Christmas, so I spent Christmas day alone playing with my 3D printer. It was really a lot of fun. 
+
+[00:05:10] Bob: Wow.
+
+So, is it all up and 
+
+[00:05:13] Jimmy: running? Yeah, I printed quite a few things on it, actually. You can go and download the 3D scan figurines of us. 3D DIY Dave has been collecting, there's a whole website, and I could give you that link, you could put it in the show notes. And on there is maybe about 30 makers that he's scanned, including me and Derek and Paul and Pat Lapp and Yellow Mug and my brother John happened to be at an event that he scanned, and so there's lots of people on there, there's many, many, many more, and you can download the full scans of these figurines and print them out.
+
+So I've experimented with those. I experimented with a few things that I just downloaded off of Thingiverse. And now I'm working on a project for a client. These, these metal racks for floral arrangements, these big floral arrangements. Like I'm making these big archways that people walk through. And I put all these bolts, I welded all these bolts in place to lock and tighten the adjustments.
+
+And I was like, it would be nice to have a 3D printed handle over the end of that nut. So now I'm thinking, contemplating 3D printing a handle. Hmm. Maybe. I'll see. That's a lot. I need like 40 of them, so I'm not sure I might want to do that. I could just hand them a wrench and say, this is your knob. 
+
+[00:06:25] David: You can 3D print one and use it to make a mold and then make the other 39 pretty quick.
+
+[00:06:30] Bob: That's a good idea. So, if you do that, you have to be careful about the resin that you use and the silicone that you use. Um, we've 
+
+[00:06:40] Jimmy: done this a few times. Oh yeah, because sometimes the sulfur 
+
+[00:06:43] Bob: won't work. Yep, yep. And so the silicone will never cure. So you have to get the right kind so that it will cure around it.
+
+You can get it to work, but, you know. It also, you can, um, like you can coat the final print in something just to create a barrier. Mold release kind of works, but if you can cover it with epoxy or something, that'll help, you know. There's options there. Cool, well, uh, anything else happen over the last couple weeks?
+
+Anything interesting, or? 
+
+[00:07:16] Jimmy: Uh, what did I do? I posted the sign video that I did with Wesley Treaton. He's got a really good reaction. People really enjoy his version and my version. My version was a little bit more clinical. His version was more comical. But I didn't, I just watched him make 99 percent of the sign.
+
+I did a little bit of it, but I helped him. So it was, it was fun for me. It was kind of more. Like documentary for me to watch how he does it and he has so many techniques, which I hadn't even anticipated and watching his his Procedure and his method was really an education for me Even though I'd made signs, but I never made these big giant neon signs like he did we made more of the kind of traditional commercial flat plastic with fluorescent light bulbs in it those kind of signs and He's he's working on all these vintage style signs and just watching him do that was a real Real education for me, and so I posted that video.
+
+It's getting, it's getting some good comments, and I also posted the video, maybe, we might have talked since I posted the video of the boat, which is doing well, part one of my boat build. And then I got into a bunch of client work. That's what I've been doing mostly. And I just picked up another big client job.
+
+For Bullet Bourbon, I have to bring it to LA, so I'm going to make it and then bring it to LA or ship it to LA and be out there to put it back together. So, things are moving along. The year's off to a good start. Awesome. Yeah. Cool. I don't know if I'm going to have a video this weekend. I really don't, I haven't been preparing, I've been just working on client work, so I might skip this weekend, just to extend my vacation.
+
+[00:08:57] Bob: Yeah, we had, we didn't put a video out last week, uh, we'll probably have one for this week, but then I think January and February are, we've got a couple of really big things coming up, um, and so I think we're gonna have fewer videos for the next couple of months. We still have several, but... Um, definitely taking advantage of the, the time and the big projects to like make the most of them and so not going to be pushing too hard on that.
+
+And then in a few weeks, we're taking our, um, our kind of annual retreat thing. Let me clear my throat. So, we've done this, I don't know if we did it last year. I can't remember, I don't think we did, but it's, we've been going on like a weekend kind of retreat thing as a team. We'll rent a cabin kind of close and just go and plan and brainstorm and kind of teach each other stuff and play video games and, you know, stuff like that.
+
+And so, uh, I was looking around on Airbnb a couple of months ago, maybe a month ago, for this, for a cabin within a couple hours of where we live. And I came across this cabin that is just ridiculous. It's like 4, 000 square feet, can sleep like 15 people or something. I mean, it's, it's massive. It's all wood.
+
+It's on a lake and it's like 300 bucks a night. So if you had like a family gathering or even like a lot of people or something, it would be a ridiculous place to take people. And I guess because it's not pretty right now, you know, it's like. There's no leaves, , nobody wants to get in the lake. I guess that's why it's cheaper, but man, I'm really looking forward to this place.
+
+It's gonna be awesome. Nice. So we're, we're beginning to plan that trip and, you know, kind of what we wanna cover and, and plan, talk about planning for, it's in the middle of, of, uh, January. Yeah. So there'll be a week when we don't record this, because I'll be doing that. We're gonna do it like during the work week rather than over a weekend, but.
+
+So that's coming up, and that will take part of January. We're going for a few days, so, you know, that's one of the reasons we won't have quite as many videos this month, just because we're going to take the time to do that. So, we've got a lot coming up for the next, next few months. We're going to be releasing a lot of new stuff, doing a couple of bigger projects, really interesting things.
+
+Um, so I'm really anxious to see how the beginning of this year goes. I think it'll be good, but it's just a lot of new, you know, a lot of new stuff, so. Um, but for the last couple of weeks, I have done absolutely nothing. And it has been so nice. I, I told the team, you know, everybody should just, last two weeks of the year, we're just, we're done.
+
+Everybody just go home. And like, 
+
+[00:11:52] David: relax. Lose my telephone number. Do not text. Do not call. And, 
+
+[00:11:55] Bob: well, they don't bother me, I bother them. That's the problem. Like, they, they leave me alone, but I'm always like, hey, can you do this? Can you make a thumbnail? Can you, you know. Um, so. Just a combination of, you know, everybody taking a break for the holidays.
+
+Some people are like moving and stuff like that. So we, we had a lot of people busy doing other things and I told Josh, I know he's listening to this because he always listens to the show, but I told Josh, Um, I know we have a bunch of orders because we had a lot of orders for push sticks and our shop mats and stuff that we've been working on and he's really heading all that stuff up.
+
+And I said, I know we have a lot of orders. They're not going to get out by Christmas. Just take a break. Go home, don't try to, you know, power through it, but he's stubborn, in a good way, and so he powered through it, and so over the break, he's been working tirelessly, and we finally got all of our push stick orders, as of a couple days ago, out, and all the mats out, and so he's been, you know, making stuff, and shipping stuff, and packaging stuff, and all that, he's been working really hard, so, I want to publicly Thank Josh for all his hard work.
+
+And also publicly tell him to go now take a vacation. So, uh, I told him that in our production meeting the other day and he just kind of like rolled his eyes. He 
+
+[00:13:13] Jimmy: has to go swim in the lake when you guys are out there. Yeah, 
+
+[00:13:15] Bob: yeah, there you go. But it also feels really cool to have kind of our first wave of products out, you know, um, just to have gone through the process of, I guess we went through two batches of push sticks and You know all the, a lot of stuff came from that learning You know, like I said, he's doing most of the work on this so he is figuring out the most efficient way to use the machines and which machine to do what on and Has gone through a bunch of iterations.
+
+How to make the most of the material, because the material is expensive. Stuff like that, but it's really cool to see it, it change, and he's trying things, and he's trying things, and then it's kind of settled into like, okay, now we've got our process down for shipping, now we've got our process down for manufacturing, and, you know, so.
+
+Uh, I'm excited to do the next iteration of those things, or the next batch of those things, but also... We're starting to gear up for the next thing, what the next product is going to be, so that's pretty cool. It's really 
+
+[00:14:19] Jimmy: important to challenge yourselves like that with these type of things, and a good way to challenge yourself, and I've had experience with that, and now you do too is pre sale.
+
+When you pre sell, it is making a promise that you have to fulfill. There's no getting out of it. You can get out of it by refunding everybody, but that's kind of messy and icky. By pre selling, you are putting yourself on a timeline that you have to figure it out, no matter what. And you will come up with the answers.
+
+[00:14:46] Bob: Well, and it's interesting, too, because we, we put these things out before Christmas, uh, I guess in November is when we started selling them. And we said internally, we're going to put these out and we are not going to make Christmas shipping. Like, there's no way, it'd be cool if we did, but there's no way we can guarantee that.
+
+And I think we said that to ourselves and each other, but we never actually said that. Out loud, I just assumed that it would be kind of like, if we told people we were making all this stuff in house, then it would be obvious that that wasn't going to be a fast thing. But that was a fault of mine. I should have been more specific about like, these are coming out at Christmas, but that doesn't mean we're going to get them to you by Christmas.
+
+So we had a lot of messages of people, rightly so, asking, you know, I ordered this thing three weeks ago, where is it? Why isn't it here yet? And that's because we were trying to pre order. Trying to kind of, we had already gotten the material, but we hadn't actually made them all yet. So there was, that was just like a learning point, I think, for me, is that we have to be more verbose about.
+
+Outside about what we're saying, inside, and, so, we'll know that for next time, but. Also, I can imagine that no matter what you sell, no matter how you sell it, there's always somebody who will be less patient about getting it, you know, even if it's not late. So, I know that's, that's part of it too. Anyway, it was really cool to have those, those things out, um, and so that was a, a pretty cool thing, but, while Josh was doing that, I was doing nothing.
+
+I intentionally, like, I'm not gonna work, you know. I think I really needed a break, and I think I probably say this every year, but every time I get to the end of the year, I'm, I'm pretty spent, and need to not try to be creative, and not try to be productive, and I think this was... Of all the years of the Christmas breaks, you know, that I've done, I think this was the most beneficial.
+
+Feels like it, anyway. In that, I didn't ever get antsy. I didn't get to that point where, like, okay, I'm ready to go back to work now. Like, I'm ready, I'm tired of sitting around. It was actually just really nice to sit around and to... To sleep late, and to goof around with the kids, and to not feel like I had to do anything, and not, you know, play a lot of video games, and board games, and, I don't know, it was really, really nice this year, so, I had a hard time getting back to it yesterday, but, you know, we're back, and, um, and yesterday, I Even though I was back to working, I wasn't back to shooting yet, because Anthony was editing some stuff.
+
+And so, uh, yesterday I actually spent some time just practicing TIG welding. Which was a weird thing for me to... That's great. Like, yeah, it was good, but it was different, you know, to practice a skill. Because usually, I think all of us, but especially me, like, I'm only going to do the thing when I have to do it on camera, so that I can just get it done.
+
+I'm not going to, like, spend time. Practicing how to do something, but knowing the amount of aluminum welding I'm gonna have to do in this upcoming project, I'm like, man, I better start figuring out how to really do 
+
+[00:18:05] Jimmy: this. I mean, there's a couple, I mean, I've never been able to master it. I could do it, but I'm not good at it.
+
+[00:18:10] Bob: Yeah, I'm not expecting to master it, but I wanted to at least, you know, revisit how to do it. And, um, so I watched a few videos to get some technique things down. Cause I think the first time I did it with R2D2 it was more about like how do you figure out the settings and then like, you're not gonna see any of these welds so they don't have to be pretty.
+
+Doesn't really matter, I just need them to stick together. This is about settings. So this time, I watched several videos about technique. Uh, found a couple of really good ones that just explain a lot of just simple hand placement. You know, not dragging or, you know, pivot on your forearm rather than on your wrist, and just stuff like that.
+
+That I was able to immediately walk into the other room and like, okay, now I'm gonna practice with that in mind. And I practiced and it got better. And then I went and learned another thing and I came back and practiced on that one thing and it got better. So, I still don't think it's gonna be pretty, but hopefully it'll be passable.
+
+But it was nice to practice something, I guess is my point. Is to set aside time to do better at something and not just... 
+
+[00:19:14] Jimmy: That's exactly what I did when I, Christmas morning, I had all these boxes that came a few days before and I said, let me just open the boxes to get rid of them. And I wasn't thinking more than a couple of minutes ahead.
+
+I set up all the products, put all the boxes aside for disposal and I was like, okay, let me, let me see what I got to do. All these buckets of resins, trays, and I'm still like, alright, let me, oh, I gotta download the, the apps, let me download the app, and just, I kept taking these baby steps, and then going having a coffee, little baby step, and then, I was like, alright, this is it, let me hit print, and it got to that point, I hit print, and it started to work, and I was very, very impressed at how easy it was.
+
+I really didn't anticipate it. Printing anything on Christmas day. And the next day, cause it takes 12 hours. The prints I was setting up were taking a long time. The next day I printed something else. And then when that came out, I printed something else. And now I don't want to keep wasting the resin on tests cause I want to like print something that's useful.
+
+Oh, 
+
+[00:20:20] David: as soon as you print something useful, it's not going to work. Exactly. That's how it works for me. 
+
+[00:20:27] Jimmy: Yeah. And so, uh, but the, the point I'm making is, is I went into it with baby steps and I just kept saying, these are things I should learn and let me only, let me just figure out what the next step is.
+
+What is the next step? What is the next step? And instead of overwhelming myself with the whole process and being like, uh, let me just, let me just go watch TikTok instead. I baby stepped through it and it's funny you've been talking about TIG welding and I've been thinking about the same thing. I need to get better at TIG welding because there is an aluminum project I want to do as well.
+
+So, you put a little fire in my butt, I want to try that too. 
+
+[00:21:01] Bob: Sorry? Yeah. That sounds like something I should apologize for. No, it's okay. Um, I noticed I was looking through some lists I have on my computer. And one of the things that I had set for myself to try to do a while back was to take a new skill or a new, something that I didn't know, whether it was a skill or just an understanding of something and dedicate a solid uninterrupted hour, or 30 minutes depending on whatever the thing is, to research and practice of that skill rather than Trying to say, well I'll fit this in whenever.
+
+Because I know that that's one of the things that I'm really bad about is, like practicing TIG, if I just say that I'll do it whenever I can do it, then I won't ever actually do it. But if I set, you know, an hour before lunch today, is when I'm gonna be, I'm gonna TIG weld. Just for the sake of doing it. Or, if I sit down and research something until I have everything I need, rather than...
+
+In between other thoughts and kind of scattered all over the place. And I think that's something, it's one of those things, we didn't talk about goals for this year, but it might be one of the things that I want to add to my goals list for this year is to just dedicate time to things rather than just trying to fit it in, you know?
+
+Um, maybe, maybe take like a... Friday morning and Friday morning before lunch is all about research for stuff and I just throughout the week make a list of things to research and then go through them one by one or something to that effect, I don't know. Try to be a little more disciplined on, on that because I think if you dedicate some time to something, that same number of minutes can be more productive than if it's scattered across a bunch of other, you know, throughout the week or whatever.
+
+So. David, did you work on anything in the last couple weeks or did you take time off or what have you done? 
+
+[00:22:54] David: Well, last week I didn't do anything. So, we didn't have the podcast and then my brother said, hey, my buddy from out of town is going to be in. I can't, I can't work, so I just decided no work at all last week.
+
+So, all I did was emails, answer a few comments, and shipped a few things, but other than that, I sat around and enjoyed the... Enjoyed the puppies. It's a little hard to relax because there's a construction crew in our home every single day and we'll be here for the next five weeks or so, but it was nice to just kind of not have any pressure.
+
+All caught up on sponsorships and that's, that's, that's where the real pressure comes from is when I'm like running out of time to, to get things done. So it was nice to just relax a little bit this week. We're back at it. And we've got a really, really fun project that we're working on. I had AI, mid journey, design a project for me.
+
+So, Kelly, we got, we're doing two bathroom renovations. The first one is like 95 percent done, so it's usable. And... We need a hand towel holder. And Kelly was like, can you make a hand towel holder for a video? And I was like, well, it's so simple that I'll probably just make it and not turn it into a video.
+
+And she was like, well, you want to turn things into stories where you get, you know, maybe use this as a challenge to. So, I, what I did was, I've been really into like mid journey and some of the AI stuff, and so I put in some prompts and some parameters and kept refining it over and over and over again until I got something that I liked.
+
+Then I had. A. I. do 12 variations of that one that I liked and then I sent that to my Patreon group and said, Hey, vote on which one of these I should make. And it was super fun. Everybody had lots of comments and A. I. is a little weird when it comes to like designing projects for you because there's some things that aren't physically possible or 
+
+[00:24:53] Jimmy: some...
+
+How are you designing? What are you designing exactly? Is it like a 2D, 3D, 4D? 
+
+[00:24:58] Bob: Uh, 
+
+[00:24:59] David: so, it, in the, uh, AI will just spit out a 2D object, so I, I say, hey, make a hand towel holder, or, uh, um, design a hand towel holder, and then it will show something on the wall. So then you gotta refine it and say, okay, a countertop hand towel holder, and then it shows a paper towel holder, and then you, so you start adding other parameters, like for the 
+
+[00:25:21] Jimmy: bathroom.
+
+I'm glad you brought this up, can I ask you where you're doing this, where are you typing this into? 
+
+[00:25:27] David: Is there an app? Sort of. There's two major ones. There's Dolly, but the one I'm using is Midjourney. And you have to use it through their Discord server. So, um, you sign up and you get, it's free at first, but you have to be on Discord.
+
+And you use the Discord, I don't know the terms, uh, channel to insert your prompts. And so, once I add, you know, I say, make it out of wood, and then... Give it the mid century modern look and then I was still wasn't getting what I wanted and then I added Sam Maloof into it and then all of a sudden it started popping out some really cool things and So and then I had my my patreon members vote on which one I should make it So that's what we're working on now, and it's been it's kind of fun.
+
+I could see this as a whole series and this might turn into a AI discussion. I have some very vocal friends on Facebook who absolutely despise hate the ai, say it's not art. And I, and I, I totally get that. I, I i I 100%. If, if you have no art background and you just say, make me a, a wall poster with these colors, and in the style of Keith Hering.
+
+And then you put that up. You're not an artist. You, you, you had AI do that, but it can spark ideas and you can turn it into something that's... That I think you can consider art. I think of it as like hip hop in the 80s. There was a lot of people who said hip hop is not real music. They're stealing. Sampling is not, uh, an art form.
+
+Sampling is not music. And now it's widely accepted that Sampling is an art form, and then, and you are a musician if you're sampling and making electronic music and, and hip hop. And I can see AI going in that direction. So it's been really fun, and it's sort of like working on a CNC. Like, when you get a CNC, you don't quite know how to use it, and you gotta dive into it and, and kinda learn it.
+
+And it just doesn't do everything for you, so you gotta learn these different prompts and how it reacts to those prompts, and then, um, at least with Mid Journey, you, you just keep adding on until there's a point where you can't add on anymore, and it starts to get confused. 
+
+[00:28:01] Jimmy: But what if... I wonder if... Let me ask you a question.
+
+What do you think if, like, three of us were side by side with computers, and we opened up the app, and we each typed in, Towel Holder, and hit go? Do you think we'd have three different results? 
+
+[00:28:15] David: 100%. So, yeah. So it's so random. It's so random. So you could type in Towel Holder three different times and it will give you three different results.
+
+You can refine those results and remix it, as what it's called, or you could start completely over. And so you can just keep hitting refresh and it will give you new results over and over and over again. And 
+
+[00:28:38] Jimmy: what is the app that did everybody's face over the last month? Everyone's gotten their faces done.
+
+That I'm not real sure. You know what I'm talking, you know what I'm talking about. Yeah, yeah, 
+
+[00:28:46] David: everybody's got like this, this painted, uh, purple, pink, what, colorful, art form, face. Yeah. 
+
+[00:28:54] Jimmy: Fantasy paintings. 
+
+[00:28:55] David: Yeah. I, I really, it would be cool, like, if, uh, it, it sped out a bunch of images of a towel holder, and then I would love to see, like, different angles of it.
+
+You can't quite do that yet, but it's been, it's been pretty fun. And then I've also been playing around with the ChatGDP. G D P? What? Chat something. Uh, it is. I'm looking it up. ChatGPT. Yeah. So that is all text based and it knows programming languages. So, uh, there's been, I've watched a couple of videos where people just say.
+
+Make some g code of holes drilled into a board. And ChetGDP will just spit out the g code that you could use for your CNC. You had to go back and refine it. and say where these holes are and and you gotta you gotta worry about z heights and all that but uh G D P, you, G, what is it, chat, G D P, G T P, G P T, uh, I'll just call it AI chat since I can't remember it.
+
+Um, that you can have a conversation with. So once it spits out something, you can say, okay, add this, subtract this, and... And you can keep refining it that way. So I think it's, it's been really fun. I have no idea where this is going to fit in my arsenal of tools or in the DIY woodworking world, but it's a great sketch pad.
+
+It is, if you are totally, have no ideas. On how to start a project, you could just have it spit out some images. It could be your Pinterest. It could be your, your, you know, I have a library of books that I use as, as reference all the time for, for inspiration. It's a great starting point. And my brother, who, who is helping me with this project this week.
+
+He has, he says he has no design skills. That's where he, he lacks. So he has to use other people's plans or he just kind of works on the fly. He doesn't sketch things out cause he just doesn't know how to do that. And he's like, this would be an amazing tool to start my projects with. So I just, I don't know if you guys have any experience with this, or have any feelings towards it, because there are some strong anti...
+
+[00:31:13] Jimmy: I think it's really cool, because like, I like to type in like, pair of shoes and towel holder, and then see what comes out, or you know, alligator tail and towel holder, and just like, that's how I would have a lot of fun with it. The cool thing is you can, 
+
+[00:31:25] David: in Midjourney, you can also upload a photo. So I took, in playing around trying to get this, I took a Sam Maloof table, which has no flat surfaces except for the top.
+
+Everything is all, you know, Sam Maloof style. And, and then you upload that image. And then you say, Tile Holder. It tries to take elements from that image and bring that into the Tile Holder. So you can, you, it's, it's, it's like, it's like you're a DJ and you're remixing things to get what you want. 
+
+[00:31:57] Bob: I think one of the, so I'm not a, a, an opponent of the AES stuff.
+
+I want to make that really clear. But, I do understand some of the differences that in people's like, You know, it's not art sentiment. So one of the things that I think is a little bit different about the music analogy, like with sampling and stuff, is that when that started happening in hip hop, um, a lot of the complaint was that you were taking somebody else's creative work, right?
+
+So you're trying to make a derivative work, um, and that was bad because you were starting with somebody else's work. And eventually, you can modify somebody else's work enough that it becomes your own, or it's a derivative of. And that's really common, that's what music has been, right, for the past, since music began, I guess.
+
+It's always a derivative of the previous style and everything. And so the difference here, I can see the complaint with people saying that you have... Something that is not, you're not taking someone else's work and working from it. You're, you're basically just throwing a bunch of ingredients into a bowl and then taking the things out of it.
+
+And that's your air quotes art. Now I could see that complaint. Like I kind of get that, but at the same time, it depends on what you're going to do with that air quote art. If you're like. Imagine you're some, you know, super well known painter or artist and you've got this big following and you get paid for all your, you know, this art that you've created and then all of a sudden you switch to, I'm gonna run Midjourney or whatever, I'm gonna take the output of it and sell it and that is now my art.
+
+That seems a little, eh, I don't know, that seems a little weird because you're not putting your touch in it at all. You're googling things, you know what I mean? I feel that. Yeah, so I think that's probably the complaint, but at the same time, the other side of that is what you're talking about with like creating your own Pinterest and getting ideas, getting a springboard, a launchpad for an idea, not using the output, but like using that as a place to start.
+
+And that seems like a hugely helpful tool to people. But I would imagine a lot of the opponents of AI stuff... Whether it's art or writing or writing code, they're probably just assuming that people are going to take the output of the AI and just like, this is the final result. 
+
+[00:34:23] Jimmy: Yeah. And that seems... Well, that, that being said, it's funny because going into the Christmas season, I heard more about AI than I've heard in the last many, many years, obviously with all the pictures that everybody's been posting.
+
+I just heard last night, Ryan, the kid that lives here, he told me that there's AI programs now that will put, will spit out 3D. Uh, file for you to 3D print. Have you guys heard about this? It's the same exact thing. It'll create a 3D model for you. Say, you know, in minutes. Um, now, there's also, you could say, I need a, I need a term paper about XYZ.
+
+And it'll spit out a term paper. And you could submit that as if it's schoolwork. So, that's the other scary thing that everyone's worried about. Also, news articles. Write a news article about this thing. And this AI will put together. And you just gotta proofread it to make sure there's no... Weird dead ended sentences and stuff, then you publish it as if you're a journalist.
+
+So no one's going to be able to really tell unless the really keen eye can tell against previous works you've written, if you've ever written anything. 
+
+[00:35:28] David: It's, it's funny you, uh, you say that Kelly is getting a new vehicle. It's a, like a RAV4. So she did a, she's done some research, and apparently there's this auto website, um, that would start showing up in her news feed.
+
+And she was reading these things, and she's like, it just feels so... Robotic. And, and then she started reading the other articles on this website, and she's like, I'm pretty sure this is all AI generated stuff. Because it's, there is no human touch to it, there's just like this formula that it's using. And I think, you know, it's, it's important that we add the human touch to everything, but it's only gonna get better, and it's only gonna get harder to...
+
+Deciphered between the two. 
+
+[00:36:21] Jimmy: It's like those news articles that started becoming advertisements. John, uh, John Oliver did a big piece on that. You know, these news, you think you're reading a news article and it's really just an advertise, a placed advertisement. You know, you always get it. By the end, you're realize you're being skewed or well.
+
+Usually pretty quickly. But another funny thing just to personalize it is when the TV show came out within a month of the TV show coming out last March, there was tons of articles on all five of us. And a lot of them are written by AI because you could read them. And like, that's why I said, there's like dead ended sentences that just don't finish and there's.
+
+There's stuff that, uh, there's, there's a lot of stuff about me and, uh, my ex girlfriend, uh, on there. There's recently, I noticed a Google search that says, is Jimmy Durest a single? So there's a couple of AI articles written about that, because you read it and it just doesn't go anywhere. It just like talks in circles and, uh, it doesn't give you any specific information.
+
+It just, you know, it just uses bits and pieces from my wiki and different bits and pieces of other. AI articles that are written. So it's almost like word soup that occasionally references me. It's really bizarre. 
+
+[00:37:34] Bob: So one of the other things that I guess is attached to this, but it never got a whole lot of attention that I saw was, um, Like a generative design component to a bigger design tool, Fusion specifically.
+
+I remember a couple years ago they released a generative design, I don't know if it was like a whole section or a tool, I never used it, but I watched somebody else use it one time in New York. And the whole idea of it, as I understood it, was if you have kind of like a structure that you, like a, a, Tensile structure that you need to exist, and you don't know the best way to create the strength across point A to point B, you could let it generate a structure between these two surfaces, really not points, but between two surfaces, and it would look all crazy futuristic and kind of had holes in it and was like curvy and stuff, but it was mathematically trying to find a structure, the minimum structure in that space that would give you the strength or something to that effect.
+
+And that's, Basically the same thing, but I think the difference would be when you walk out of that saying I used math to make it something structurally sound versus I used math to make something, uh, pretty. But the reason, the time that I saw somebody do this, I think one of, I don't know if you guys were there or not, but it was at a makerspace in New York City.
+
+During one of the, uh, Maker Faires, and there was this guy who was like a fashion designer, I think, and he was talking about how they were making, uh, I think it was shoes, I, I, I don't remember, it's been quite a while ago, but they would come up with the necessary fit components of shoes and then they would generate Infusion, the rest of the surface and so he was using the same tool for like a non structural purpose but it would end up creating this kind of lacy, curvy, futuristic pattern that was the body of the shoe and I remember him specifically pointing out that a lot of people didn't like what they were doing because they didn't think it was true design.
+
+Oh wow. Same thing, you know, it's using a tool to fill 
+
+[00:39:47] Jimmy: a visual gap. It's funny, when I was at, uh, when we were up at Formlabs a few weeks ago... And I noticed the same example they showed me in person, it's on their website, so people could look this up. There's, they're doing a bicycle frame, but it's miniature, it's like a child's bike, but just so they could print it on a small machine.
+
+And they said, we have, this is where the neck goes, this is where the rear wheel goes, and what is the most efficient structure in between those two points. And they let the computer design it. And it looks like something from like a skeleton from an alien, you know. It looks really cool and sexy and really all these curves and loopholes.
+
+It looks like something like, it looks like the skull of a dinosaur, basically, but morphed into a bicycle frame. And that will, based on that resin, based on that shape, based on several things, it designs this beautiful oddball shape. And I think that's pretty cool. It's obviously really cool. But is it design?
+
+I, personally, I never even thought for one second that that's unethical. Personally, but I could see how people would be upset by that. But at the same time, you know, computers are a lot smarter than me, so I might trust them. 
+
+[00:40:57] Bob: Yeah, it feels like a, it feels like a really futuristic version of the same conversation of, you know, chisels versus bandsaws.
+
+You know what I mean? It kind of does. Uh, I mean. 
+
+[00:41:11] Jimmy: It's, but it's like multidimensional, which just makes it more 
+
+[00:41:13] Bob: complicated. Right. It seems like a totally different problem, but I don't 5D. Yeah, it seems like, not problem, it seems like a totally different discussion, but I really don't think it is. It's like the tool is smarter than the bandsaw was to the chisel, you know, the tool is more capable and maybe like, I don't want to say creative, but has more potential.
+
+For variety than, you know, going from hand tools to power tools did, but it's basically the same thing. You're taking a tool that, that just adds capability and you're working it into what you're doing. I think for me personally, it would come down to that thing I said earlier about like, are you using this thing as a component of design?
+
+Are you using it as a springboard for design or are you using it to like make yourself look like you are capable of more than You actually are? Mm, yeah. In 
+
+[00:42:10] David: this particular project that we're working on this week, uh, I am trying to do exactly what it sped out that's not, nor just for the video, just to make it fun.
+
+That's not how I would normally use it if I was. There's, there's definitely some interpretation involved, but I'm doing these, there's no flat surfaces on this thing. It's all, it's all curved. And I would never do that on my own unless I was prompted to by, by the computer gods. So I, I'm, if I was going to use this in the future, I might have it spit out some images and I'm like, Ooh.
+
+I would never think to do that. So I'm going to pull that element out and use it in my project just as I would with, with Pinterest. I still take a lot of pride in my design and that's some of the funnest parts of, of woodworking for me is coming up with the idea and coming up with the design and drawing it up and all the, uh, the, the, the woodworking part and the assembly, that's just all.
+
+[00:43:14] Bob: Work. Yeah. It's 
+
+[00:43:16] David: like just the mechanics of it. I like the beginning and I like the end. That's my 
+
+[00:43:19] Bob: favorite part of the project. Let me ask you this. Is this any different? So, okay, let me start over. Take the idea of you put in, you know, three keywords into a thing. And it spit out some images. Or spits out a text idea or something.
+
+Is that any different, really, than you taking three terms, writing them on a piece of paper, and then you hand them to your brother or to a friend and say like, draw me a sketch based on what you think the intersection of these three things is. And then you take that sketch back and you use that as a way to get started on something.
+
+Is there a difference? Really? 
+
+[00:43:59] Jimmy: Maybe, because I think the computer thinks it through. Your brother might take that sketch and draw it 8%, 10%. The computer will draw it 2000%, and that's the scary part. Maybe, 
+
+[00:44:14] Bob: but I mean, it's, it's based on experience, right? Like, machine learning, AI, is all based on experience.
+
+What it's been fed. So are we. Like, every idea we have ever had is based on what we've been fed throughout our life. The things that we've been exposed to, the things we've seen, the things we've done. And I mean, your completeness in design and the output of the thing is really just based on like, what you've been given.
+
+If you had an AI engine that only had two images to reference and then you told it to, you know, draw me a car, it's not gonna be a complete picture because it doesn't really know what a car is. I don't know that there's a difference there in that you're, you're handing off ideas to have someone else or something else sketch and then you take that sketch back as a jumping off point.
+
+I don't know. 
+
+[00:45:04] David: I think, uh, and it goes, we've talked about Jeff Koons, uh, as an artist coming up with ideas but then not actually doing the work and having other people do the work and that rubs people the wrong way. Is he still an artist? Because it's almost, it's almost the reverse. Instead of he's generating the idea and have somebody else doing it and then it's known as his work.
+
+[00:45:29] Bob: I think that's the part that bothers me, as personally knowing two people who have worked in his shop, who are incredible artists on their own right. They do amazing work for him, or have done amazing work for him, and then he sells it with his name on it, and they have no credit. That is problematic to me, but, yeah.
+
+Now granted, they took the job, they knew what they were getting into, but... It just seems like a weird way to do it. Um, and I think it's the same thing for like, you know, taking the straight output of Midjourney or whatever and like putting your name on it. Look what I made. Seems cheap. 
+
+[00:46:05] David: As we were talking, I just put Making It Podcast into Midjourney and uh, it, um, it spit out an image that, Makes no sense.
+
+So cool. It needs, it needs a little bit refinement. I'll text this to you guys, 
+
+[00:46:20] Bob: so you should put in all three of our names and see if it can generate a person based on the three of us merged together. Hmm. Oh, I, 
+
+[00:46:27] David: I can upload three images and, and see what happens. . 
+
+[00:46:31] Bob: Oh, I wanna see that so badly. . 
+
+[00:46:34] David: I'll work on it.
+
+I'll work on it. Okay. , I, I'm not good at doing two things at once, so we'll do it after 
+
+[00:46:38] Bob: the podcast. Gotcha. It can be for the after show. You can describe it in detail to us. Um, I had something else I was going to talk to you guys about and now I don't know what it was. 
+
+[00:46:51] Jimmy: Can I say the three of us are the worst at writing things down after eight years or nine years or ten years?
+
+We keep coming up with ideas and we never write them down. It's like we start before we get together before we hit record and we're like, I had a really good idea but I forgot it. Well, that's 
+
+[00:47:06] Bob: the thing, like, I have a notepad right here. 
+
+[00:47:08] Jimmy: Great, I had a great idea but I didn't write it down. I am writing things down.
+
+Dave's like, I had an idea too but... You get it. 
+
+[00:47:16] Bob: Well, I think maybe it was, uh, when I was talking earlier about the kind of, you know, wanting to practice certain things this year. Have you guys spent any time, or do you spend any time at the beginning of a year, not making resolutions necessarily, but like, Here's a goal for this year.
+
+Here's a thing I want to do, or a thing I don't want to do, or a... Well, you know what 
+
+[00:47:37] Jimmy: I did? Instead of specifically writing down resolutions, or... I wrote down a bunch of... I refined my pack of cards, and I talked a little bit about it on social media. I have a big thick pack of cards, just index cards, and I write down the ideas on that.
+
+So I have that pack of index cards. So when I'm feeling low, I talked about it with you guys, in fact. And, uh, I just write the ideas down, but in... Between like Christmas and New Year's, I refine that pile, and I went through all my idea dumps that I talked about, put them all together, and I keep refining that pile.
+
+So, I just, in some place, somewhere, because it always changes for me, I'm going to find a wall and just lay them all out on the wall with blue tack or something. And I don't necessarily like doing a wipe off board because the idea is like, I like to move them around in relationship to one another. So, by doing a bunch of index cards stuck on tape wall or something, for me seems a little bit, a little better.
+
+And so, that's what I did, this in between, this work on my index of ideas. And there are ones that have to get done, and there are ones that are just ideas to inspire. So, I have to prioritize them. Hmm. 
+
+[00:48:48] Bob: David, do you have anything like that? This year that you're trying to do more of, or less of, or different, 
+
+[00:48:53] David: or anything?
+
+I don't have anything, there is no New Year's resolution, there is no, nothing written down that I want to do. It's just the tired old thing that I say every year is that I want to be more creative. But I think this year, what makes it different is... I'm kind of in a place where I need to force myself to be creative, otherwise I won't be doing this for much longer.
+
+Um, that's just my personal feeling, I'm just using my, how I feel about my place on YouTube as motivation to do bigger and better. So, um, I mean, I could probably keep doing the same thing and I'd be fine for a couple more years, but I want, I want to be bigger and better. So I just want to do more creative stuff.
+
+I want to, um, I, I want to make sure that if I do have to make a boring towel rack, that I turn it into something that's bigger than, than the project. So this is, you know, this was an experiment and I just want to do more experiments and get more playful and more creative. And I say that every year, but this is.
+
+I, I, you know, and I mean it, but this year, I think you'll actually see that. 
+
+[00:50:07] Bob: Well, and that's a relative thing, so you can say that every year and it'd be absolutely true, you know. Yeah, 
+
+[00:50:11] David: and I, and I do think I've progressed every year, otherwise I wouldn't be in this 
+
+[00:50:15] Bob: position.
+
+Yeah, I think for me, uh, you know, kinda like, like I said a couple weeks ago, last time we recorded, I think I'm trying to let myself off the hook for accessibility for people, some. You know, I wanna, like I, I just. Got the Wazer working and I'm I've already started using that. I started 3d printing pieces yesterday that I don't necessarily need and I could get away with not having them but I'm like I have I've been blessed with an abundance of capability.
+
+Not me personally. I mean like in tools and stuff and There's no reason that I shouldn't be using those I think a lot of times I've just held it off at a, you know, like only use it when it's the only way to do something and I think that's, I don't know, I think it's making it less interesting for me because I'm putting that constraint on myself in a way that I don't really need to instead of taking advantage of it as an asset and so I think I'm trying to switch my, my thinking about those tools and, and I, I think I want to try to figure out ways to open up more Opportunity for myself, rather than I feel like I've been trying to narrow things down.
+
+Don't hold back. Yeah, 
+
+[00:51:34] Jimmy: I think that's... 2023. That's the name of the episode. Don't hold back. Just do it. Life's too short. I mean, Bob, I mean, I don't mean to get morbid, but Bob, you just talked about, uh, uh, I'm blanking on his name cause I didn't know it till this week. I knew who he was. You talked about the car driver.
+
+Block? Is it Block? Yeah. Ken Block. Ken Block just died. You know, doing his thing, and Jeremy, uh, the guy from some, another actor, Jeremy Renner is injured, you know, who knows what's going to become of his physicality after this whole situation, you know. Don't hold back. I don't mean don't hold back in danger, I mean just don't hold back with your ideas, don't hold back with, you know, whatever you want to do.
+
+You know, we've said it before, when King of Random died, it's just, just... Do it. Just live your life. You know, and I've been trying to put those little silly inspirational notes in my, in my Instagram. Suddenly, on Instagram, it's like, talk to everybody. It's like, wait, I don't necessarily want to talk to everybody, but they give me this Hey, look, we're Twitter now.
+
+[00:52:34] Bob: Yeah. 
+
+[00:52:35] Jimmy: So it's like, we're Twitter to our, you know, it's like Twitter to like the internalized uh, email group. So I've been just trying to put little inspirational quotes in it. They're there for me more than they're there for everybody else. But it's, it's, it helps to write them down, but, you know, seriously, it's just crazy.
+
+You know, it's just crazy. Whatever this trip we're all on, you just gotta make it, make it. Make it have fun for yourself. Yeah. Bob, 
+
+[00:53:02] David: Bob, I kind of feel the same way about tools and, and techniques where in the past I've not used the CNC or I've not used the laser because I know Oh yeah. The, my, most of my audience doesn't have these tools and I'm trying to.
+
+Teach somebody how to make something and I, and now that I've decided I'm not really teaching. I'm just, we're just, it's inspirational and it's entertaining. I'm free to use whatever I want now. 
+
+[00:53:28] Jimmy: And well, you guys saw the tweet this morning. The gentleman tweeted at us. I can pull it up so I can give him credit.
+
+He, uh, he tweeted at us and he said, Hey guys, don't feel constrained by this type of conversation because you could just have people send stuff out to SendCutSend and so on and so on. Uh, let's see, Bob, you mentioned, so this is from Pajamas, uh, MOOC, I don't know how to say his whole, his, his moniker, but...
+
+Pajamas, said, uh, Making It 382, which is a, what episode are we on now? 383. Oh, so this was last week. Bob, you mentioned you're hamstringing your ideas because you're worried that people don't have the tool, but if it, if it helps your mind, remember that there's so many services to order, at least laser cut and so on.
+
+So us plebs will find our way. He says it as a joke, but it's totally a great point. 
+
+[00:54:18] Bob: Yeah. The next video, if we end up releasing it, I may not release it. Just have to see how it turns out, but I used the waterjet to cut some pieces, and I made the point of, look, I, I use this, a waterjet, I understand that nobody else has one of these, like, it's not something that people have, but you can cut the same piece from SenCutSend for 10, because I did, and then I hold it up, and I'm like, it's 10, right there, you know, it's not a big deal.
+
+Yep. So, yeah. I'm gonna try to do more of that type of stuff. Um, what you were saying, you mentioned, uh, I was gonna actually bring this up, that Uh, Ken Block died, and I talked about him in the last couple episodes, uh, and it was weird. I know we run into this every few months or year, whatever, and we're going to continue to run into it as we get older and our peers get older and stuff.
+
+It was really strange to just be looking at the news and to see, I follow Ken on, I've never met him, don't know him. Um, follow him on Instagram, and I was watching his stories about going snowmobiling with his family. And, I went to bed, and I woke up and saw a news story that he had died. Yeah.
+
+Snowmobiling. Tragic. And I went back and looked at his Instagram, and the stories were still up. Yeah. Like, 24 hours since he said, hey, we're about to go out and do this fun thing, and look at these crazy conditions, and whatever. And I don't know what happened. I, like I said, I don't know him, I had no personal connection to him other than I really thought he was awesome at what he did, and I liked his demeanor, um, and it was the first time in a long time that a person that I have had no dealings with whatsoever, that's kinda like a pop culture, you know, out there famous type person, has died, and I, it, It like sunk my heart 
+
+[00:56:13] Jimmy: a little bit.
+
+Oh, yeah, it sunk my heart and I just said, this is the guy Bob was just talking about the other day. And of course, I've been following him and and when he said DC shoes my friend's ex husband I know knows him and when they said he's the founder of DC shoes, I'm like Oh my god, I know exactly who this guy is now.
+
+Like, I didn't put it all into context because my friend has been divorced from his buddy for a long time. But in the city, he, my buddy, every time I went to his apartment, he had brand new DC stuff. He wore a DC ring. He's like, Oh yeah, my buddy's one of the owners of DC. He's talking about him. So I had a closer connection to this guy that I didn't knew nothing about then.
+
+So it's, and he's my age, you know, so it's like also that, like, you know, get you, get you thinking. But, you know, obviously you play dangerous games, you get dangerous results, but. But he obviously had mastered it to some extent, but you just have that freak accident, which any one of us could have at any time.
+
+You don't necessarily have to be tempting fate, 
+
+[00:57:08] Bob: you know. Yeah. Yeah. Um, but anyway, I, I just, I feel terrible for his family because I know he's got a couple of daughters and a son, I think, and, you know, young family and, uh, he's, he was listening to him talk and post about his daughter, his oldest daughter.
+
+She's like a race car driver and she. Tore a car apart recently and rebuilt it and she was just about to put out a new video about this car and drive it for the first time and all this stuff and like, man, I don't know, it was tough and as I get older and my kids get older and I see them becoming teenagers and on the way to adulthood and then I see something like that happen, I have a much more Internal response to what that must feel like for the family, you know, so anyway, I don't really have anything to say about it other than it's just super sad and I feel terrible for his family.
+
+And, um, I think the world, especially the automotive world is, is, is less now, which is, is a bummer. 
+
+[00:58:10] Jimmy: No, he was, he was the premier top number one guy, as YouTube, that could do what he could do. Like that latest video with. With the electric car and Vegas was unbelievable how many people could do that. Yeah, I mean there's got to be somebody underneath him, but You know and everything else he did 
+
+[00:58:33] Bob: So, I mean that's just one more like you were saying one more thing don't hold back just Live live the life as much as you can 
+
+[00:58:39] Jimmy: live it and you know like in you know I've tried to inspire you guys gently, but the both of you guys, I wouldn't for one second worry about who can do what and who can't do what because people, we look at someone like Ken Block and go, wow, I would want to do that.
+
+I don't own a 1 million electric car with four wheel drive. I don't have the ability to lock off Las Vegas for 10 hours to do a 60 camera shoot, but. I can get on a dirt bike in my own backyard and pretend to be Ken Block for two minutes, you know, in my own little fantasy world. And, you know, it'll inspire you and anybody watching just to do like 2 percent more than you would have if you hadn't seen it.
+
+And you'll trigger that person to be like, you know what? I've been on the fence about a laser. I'm going to get a laser. I could see what everybody else is doing with a laser. We have an opportunity, you know, one thing, one door might shut for one reason or another. And then you're like, Oh, I want to do what they're doing now.
+
+I want to get a laser. I want to get a CNC. I want to, you know... It's there for the taking, and if you think about it, all three of us... It started with nothing. It's not like we were born into the electronic digital laser family and we could, you know, if you listen to episode one or two, I think I'm on there talking about, because you guys had had laser experience back then.
+
+I'm on there going, yeah, one of these years I want to learn how to use a laser. I might as well have been saying I want to learn how to fly a jet. Because to me, that's how overwhelming it was. 
+
+[01:00:08] Bob: You spent Christmas setting up a resin 3D printer all by yourself and got stuff printing, so I mean, 
+
+[01:00:13] Jimmy: that's... Yeah, that's what I'm saying, you know, it's like baby steps, you know, we all started with nothing, so...
+
+I remember 
+
+[01:00:20] David: sitting at my old job, and, uh, Bob emailed me, I think about my, my, my YouTube channel, about the, when I used to do the wrap up or whatever, and it started a conversation, and I was like, yeah, I want to get into CNCs. But I can't afford it right now. And then Bob's like, Oh, you should check out this company.
+
+I just ordered, uh, this Inventables machine. And that is how I got into the digital world of making. That's crazy. Somewhere I 
+
+[01:00:53] Bob: have that email. So, last week, uh, to change gears a little bit, but not really. Um, last episode I was talking about wanting to learn how to drift. Remember that? I've always wanted to do that.
+
+So one of our patrons, Arrow Woof, sent me a link to this racetrack, or it's not even a racetrack, it's like a series of tracks all over the U. S. and they do drift training. And so I looked it up and there's one like just over an hour from here. You can rent a car from them or you can bring your own car and you can do kind of a mixed day with It's several people going in and out or you can pay for a day where just like one person teaches you how to drift I smell a vlog video.
+
+Yes 850, 850 to use their car for a day's worth of drift training I'm all over that. Nice. I'm gonna do that sometime this year. I don't know when, I don't know how, I don't know how I'm gonna justify 850 to pay for it, but that sounds awesome. So, Airwolf, thank you for sending that. I really do appreciate it.
+
+I'm pretty excited about it. Very cool. Gotta make that happen. Um, while we're talking about Patreon, you guys got anything else? I don't wanna cut it short, but... 
+
+[01:02:12] David: Drink more water in 2023. 
+
+[01:02:15] Jimmy: Oh, I'm getting a Peloton tomorrow. 
+
+[01:02:18] David: Oh. It's funny, there's uh, there's this, cause it's 
+
+[01:02:22] Jimmy: too cold out to exercise, it's too cold out to exercise, it's like I need to keep physical cause I'm like turned into a, turned into a potato, so.
+
+[01:02:31] David: Just down the road, massive building being built, just like, it's, it's like the biggest building. I've ever seen in this area of the world. It's got no windows. It's only one floor, but it takes up a huge space. And I kept going, I was like, I wonder if that's going to be an Amazon warehouse or something. And then somebody is like, Oh yeah, that's a Peloton building.
+
+But they, they're going down, they're going under and they pulled out of the building. So now this massive brand new building is empty. So it was 
+
+[01:03:00] Jimmy: gonna be like a Peloton factory or a Peloton office? Yeah, 
+
+[01:03:03] David: apparently like during, during COVID times everybody wanted to exercise and their business just shot way up and everybody's going back to work and then their business just took a huge hit and now there's this big empty building outside 
+
+[01:03:15] Jimmy: of...
+
+I hope I'm not staring at a non usable computer when I'm doing my Peloton. Oh, you'll be, 
+
+[01:03:20] David: you'll be, you'll be fine. There's, there's millions of users. So, uh, is that a New Year's resolution thing or just a... 
+
+[01:03:26] Jimmy: Well, really it was... It was just the timing thing because like I said, Bob, you always said, you go, what are you going to do when it gets cold out?
+
+I'm like, ah, I'm going to work out. No matter what, you know, my workouts always begin with a long walk and I come back and then I do everything else. And that kind of threw off my rhythm. And then we had a Christmas party at a friend's house nearby. And so my friend had just, she had gotten a Peloton about three months ago and she was showing it off.
+
+And I was like, that's it. I'm buying one. The next day I ordered one, I think in the middle of December and it shows up tomorrow or Friday. Cool. So you have a. 
+
+[01:03:57] David: I, I, I think you're gonna look good in skinny pants. I wanna, I wanna see you wear skinny 
+
+[01:04:01] Jimmy: jeans. . My friend's, uh, my friend, one of my, one of my, my new friend, she says, what, what are you gonna wear?
+
+I was like, what am I gonna wear? I'm gonna wear. I'm gonna wear jeans, or, she's like, you can't, you gotta wear workout clothes. I'm like, I, I wear sweatpants, I'm gonna, you gotta wear my... Order that spandex, man! No, I said, I'm just gonna wear, I'm gonna wear exactly what I'm wearing, I might put on the shoes, and then I'm gonna get on the bike, that's it.
+
+Okay, 
+
+[01:04:25] Bob: I'm gonna go, just, what's your waist size? 32? 33? 32? Okay, cool. I'm gonna search for size 32, hot pink lycra shorts. Oh 
+
+[01:04:36] David: my gosh, imagine, your Instagram would blow up if you started wearing these shorts. New York. 
+
+[01:04:43] Jimmy: I'll wear them when I lose, like, 15 pounds. I'll put them on. I'll show them 
+
+[01:04:47] Bob: off, rather. Do you want women's or men's?
+
+[01:04:49] Jimmy: Uh, unisex. Do not buy me those. Too late. Feed them to the dog. 
+
+[01:04:56] David: You must buy him those. I'm 
+
+[01:04:57] Bob: gonna buy him those. I have your address, too. I can just have them sent to your house. Okay. Anyway, well, good. I'm glad you got the bike. Oh man, okay, I've found some that have,
+
+they have a denim print on them. 
+
+[01:05:17] Jimmy: Oh 
+
+[01:05:18] Bob: man. So they're pink lycra that look like pink jeans. 
+
+[01:05:22] Jimmy: Oh that's perfect. 
+
+[01:05:25] David: You can wear them in the shop or on the bike. Oh my 
+
+[01:05:28] Bob: goodness. Do they have 
+
+[01:05:28] Jimmy: pocket holes for 
+
+[01:05:29] Bob: tools? I don't think so, but there's a project right there. You can add pockets to your, to your like, shorts.
+
+Okay. These are for swimming in, so we won't actually get you these. 
+
+[01:05:42] Jimmy: I'll find you some, don't worry. If you find me something, I'll, I'll, I'll, I'll, when I get to my goal weight, I'll show, I'll send a picture of me wearing them. 
+
+[01:05:50] Bob: Okay. He said it. It's recorded forever. 
+
+[01:05:52] Jimmy: That's it. Alright, um, 
+
+[01:05:56] Bob: I wanted to say a big thanks to our Patreon supporters for supporting the show.
+
+We also got some new members at the beginning of January, which was just a couple days ago, and so I want to give them a shout out, um, Adam, Kyle, Matt, Sean, Aubrey, thank you, thank you, wait, are there more? There are more. No, there are not, that was just a 
+
+[01:06:15] Jimmy: button that didn't do anything. Hopefully that's Aubrey Plaza.
+
+Yeah, 
+
+[01:06:18] Bob: I'm sure it is. No, big thanks to jumping on board, I appreciate that. Um, but we all have, you know, lots of other people, all the same crew has continued to support us for a really long time, and we're very grateful. Um, our top supporters are the Webb Ranch Woodworks, Gretchen Hofer, Michael Menegin, Warren Works, Scott Orum, Odin Leather Goods, Rich at Low End Designs, Funkist, Artistic Creations, You Can Make This Too, Chad from Mancrafting, Works by Solo, Albers Woodworks, and Corey Ward.
+
+Um, but also, you know, same gang that's been around for a long time, and those new people. Thank you. Very much for your support, and thanks for sending messages. I know I don't always respond to the messages, but we do see them, and I pass them along to the other guys and stuff, so, you know, feel free to send us messages through Patreon.
+
+It's awesome. If you want to join that crew, you want to get the after show, which is something everybody gets at every level, go to patreon. com slash making it and jump on board for any amount. We're just grateful that you're there, and... Even if you're not paying on Patreon, we're grateful that you're listening.
+
+So thank you for that. I've got a couple of things to recommend this week. Do you guys have anything? That's a good question. Okay, go ahead, Jimmy. 
+
+[01:07:31] Jimmy: Uh, Warrenworks. I talked about Warrenworks on, I think I might have talked about him last night on my live stream with WorkbenchCon, but Warrenworks took one of my ideas that we talked about where we said you put 52 ideas on 52 playing cards, a brand new deck of playing cards, and he's gonna make one video every week.
+
+He's going to randomly pick one of the 52 ideas and make that video each week. And he's going to pick the video for the following week at the end of each video so he has time to get the materials. So check out Warren Works and he stole an idea we discussed on here and he's, he's a great dude. He's a guy, he's come to the work, he's come to the go kart thing, he lives in Connecticut so shout out.
+
+Awesome. Warren Works. I'll send you the link.
+
+[01:08:17] David: Uh, I am going to go with, I don't really have, I probably have mentioned this channel before. I don't really have anything new. It's called Technology Connections, uh, this, this guy, he makes random videos about, sometimes, a lot of times it's old technology, and his most recent one is movies made with sound.
+
+Uh, uh, on the film, which is, uh, it's a, he, I don't know how to describe it. He just goes into deep dives into various old technologies and it's really good. It's really soothing. I think years ago he had a video on the color brown and somehow I got sucked into this video and I was like, that was absolutely amazing.
+
+And it's just one of those channels that every time he puts out a video, I watch it no matter what. So technology connections. Wow. 
+
+[01:09:10] Bob: Um, so I've got two, and they're both, uh, car related, and one of them is welding related, I guess. Justin Voss? You ever seen Justin Voss videos? It sounds 
+
+[01:09:22] Jimmy: familiar, I think I might have.
+
+[01:09:23] Bob: I feel like I had seen him before when I saw his face and like heard his voice together, but I, I wasn't subscribed, so. Anyway, he has, um, welding and fabrication videos, and they're just really nicely made, very well paced, and I was looking up TIG stuff and found a really good video from him about just the mechanics of, of, you know, moving your arms and everything with doing TIG welding, so I watched a couple, and just really good videos, um, lots of fabrication stuff, so go check out Justin Voss, and then I also randomly ran across Grindhouse.
+
+Um, P. E. and the P. E. stands for performance something? I don't remember. Um, the reason I saw this video was, or the video that popped up was a video about this guy 3D printing a die for metal shaping. And so he was 3D printing the kind of top and bottom of this press die and then he was filling the model or the print with resin.
+
+to make it solid. And he was doing some tests on how, what kind of metal you could, you know, press with this thing and how long it would last. And it was pretty interesting. And then I started looking at some of his other stuff and he definitely knows what he's doing. And he's real easy to listen to. And, um, another one, he built this kind of workbench that's, I don't know, 20 feet long or something.
+
+So it has like a butcher block top and it's on top of, um, tool cabinets, you know, just like pull out drawer tool cabinets. But then he modified, took off the casters and modified legs, leveling legs. And then he bought these like little containers to go in and made a 3d printed tool to hold these containers, to put them through the table saw, to cut them down to the right height, to fit in the drawers.
+
+And he like really went all the way with it. Um, and it was just pretty cool. So he's, he's got some good stuff. So go check out Grindhouse and Justin Voss. My recommendations, you guys got anything else? Oh, you're muted. Jimmy, you're muted. 
+
+[01:11:30] Jimmy: Did you guys know, do you guys ever hear of Steve Mould? He did a viral video this week, but it's the first time I've found him.
+
+I've met Steve before. Wow, so you guys are lucky, I had no idea who this guy was. At least I wasn't subscribed to him, I am now. Steve Mould does how gas pumps know when to turn themselves off. It's a little of a lengthy explanation. I think he could have probably cut out some of the fat, but when he explains it, it's pretty cool.
+
+Check it out. And he's got a lot of stuff 
+
+[01:11:58] Bob: like that. Yeah, yeah. Lots of great explanations on, like, simple things that you just assume they work and you don't really know why. Yeah, he's got some good stuff. Cool! Well, uh, good to be back. Glad we're back at it. And, uh, thanks for listening, everybody. Thank you, thank you.
+
+[01:12:16] Jimmy: Thank you, thank you, I love you, I love you 2023.
+

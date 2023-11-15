@@ -1,0 +1,609 @@
+380-Making It
+===
+
+[00:00:00] Bob: Had a little trouble getting started this morning, but we got the recording going. And I have to just go ahead and say that we missed last week because of you two. Not because of me, just want to be really clear. The band, you two. 
+
+[00:00:15] David: Bono is such a jerk. Yeah, 
+
+[00:00:17] Bob: Bono. Now, you guys were both sick last week.
+
+Everybody feeling better? Over about 
+
+[00:00:22] David: 96%. I'm gonna be a little stuffy and sniffly, and I apologize. But, Brandon is going to edit out every single little sniffle. 
+
+[00:00:34] Bob: Excellent. He can put on the Bono filter. You can sound like 
+
+[00:00:37] Jimmy: Bono the whole time. I'm feeling good. Feeling good. I had that one day I was really knocked out just the day before.
+
+I was okay to record last week, but not gonna lie, it was a welcome break. Yeah. Yeah, but last Monday and Tuesday I was knocked out pretty hard. 
+
+[00:00:51] Bob: Well, I'm glad it's, glad it's better. Everybody around, I haven't gotten sick, which is great, but everybody around here, it's just... Moving through the community is crazy.
+
+Like all of, you know, one kid, all of his friends, and then the next week it's like all of her friends. And then the next kid, all of their friends, and it's just going through the classrooms and then going through the parents. And yeah. 
+
+[00:01:11] David: Thing is you can't even complain when you're regular sick. Cause it's, cause it's not COVID.
+
+So it's not, you get no sympathy for 
+
+[00:01:18] Bob: regular sick. It's interesting though, because this like flu thing, whatever it is, that's going around right now. All the people that I know that have been sick with it have been way sicker than they were with COVID. Now, I personally didn't know anybody who had COVID really bad, so that's, that's why that is.
+
+But, um, yeah, it's, this one has affected them more. But either way, glad you guys are feeling better and back. Welcome to be back. Yeah. Well, uh, have you been doing anything or have you been recovering? Have you been working? Last 
+
+[00:01:48] David: week, I did absolutely nothing, um, so that put me really behind on the guitar build.
+
+But, uh, I'm almost done. I gotta do some wiring today. 
+
+[00:01:59] Jimmy: What is the facade of that? I wanted to ask you last night in our chat. What, how are you, what did you do to the facade? It's so beautiful. I'm 
+
+[00:02:05] David: not saying I invented a technique, but I may have invented a technique. So, uh, the main body of the guitar... is out of mahogany and then on my inkjet printer i printed out this pattern that i made in photoshop and so i've got an inkjet printer that can print off of rolls and really big uh so uh i i printed out the pattern on my inkjet printer and then attached that to a piece of 1 8th inch acrylic and then attached that acrylic to the mahogany and then poured epoxy over the whole thing.
+
+So I, it's almost like a vinyl wrap because I can print out anything that I want and put on this guitar and I got inspired. I saw this guitar on Pinterest. This guy used Formica as the face of his guitar and I was like, that looks really cool. I think I want to do that. And then you can only buy Formica in 4x8 sheets or bigger.
+
+And so that gave me the idea. I wonder if I could just... Print out something. So I made up a pattern that I liked, and it came out really, really good. I poured some... 
+
+[00:03:15] Jimmy: Looks like Mother of Pearl, at least in the photography. Yeah, it's, I 
+
+[00:03:19] David: am, I am so thrilled with how this came out. Uh, that's... TotalBoat Tabletop Epoxy on there, and I did a whole bunch of tests.
+
+I use a regular epoxy, but it's not as tough and scratch resistant as their tabletop epoxy, and then to polish the front, I used what would be used in like the automotive industry. I got this, it's called Norton Liquid Ice, and so When you go to, uh, buff a clear coat, usually you use different compounds for each stage.
+
+This Norton system only uses one compound and three different buffing pads, which just simplifies the whole thing. So, sanded the whole face of the guitar all the way up to 2000 and then buffed it with this Norton liquid icing. And, I am... I'm so thrilled. I just have to get past this, this, the wiring. I got to figure out the 
+
+[00:04:13] Jimmy: wiring.
+
+I did my wiring last night, but right after we're done, I'm going to go test it with a little battery amp. Hopefully I did the right thing. The humbuckers 
+
+[00:04:21] David: make it a little bit more difficult to wire because more wires come out of there. It's not that much more difficult. You just got to figure out where they all go.
+
+Bob, 
+
+[00:04:30] Jimmy: you did your wiring, right, Bob? Did you notice that every wire goes to the soldering dot on the back of one of the pots? It's like, I'm like, oh, that's easy. I'm like, oh, that goes over there, too. Oh, that's, so that wire goes, like, every other wire is a ground, 
+
+[00:04:43] Bob: it seems like. Right, yeah. Yeah, each one of the components is going to have to have a ground connection somewhere.
+
+But it can be a little bit confusing if you, I've run into this before, when you look at a wiring diagram, if you're trying to follow it, like, okay, it's the left terminal on this pot. Well, if, are you looking at the top of the? Pot from the diagram or the bottom of the pot because I've run into that and ultimately it doesn't really matter You're just changing where the zero where the low and where the high, you know of those pot is But it could be a little bit confusing.
+
+It's I've wired a bunch of guitars over the years I've had a bunch of guitars over the years and they are All different. And that's the most frustrating thing about doing that is you can't look at one and say well I'm just gonna like follow what this one is and match it over here because if you have any variation, if you have a different kind of switch, if you have different kinds of, you know, maybe you have two volumes instead of one volume or whatever, It just, and then if you get into a strat where you have a 5 way switch and you have 3 pickups or something, it's just madness.
+
+That stuff is, it's crazy. 
+
+[00:05:46] David: You see how the, uh, I don't know if you can see, but the acrylic layer on top of the mahogany makes it look like I have banding all the way around the guitar. 
+
+[00:05:54] Jimmy: Yeah, I was gonna say, how did you make that little, like I'd like to see that really up close, like how did you do that detail, the 
+
+[00:05:59] David: white line?
+
+So, that's just... Uh, I mean, so, the mahogany started off with a 14 by 20 inch piece, and then I just cut a 14 by 20 inch piece of acrylic, glued it on top of that, then glued the printout on top of the acrylic, and then poured the epoxy, and then that all got cut out, so it has this really really cool 
+
+[00:06:18] Jimmy: layer effect.
+
+Oh, so the acrylic is not clear, the acrylic is white. Yeah, 
+
+[00:06:22] David: yeah, yeah, it's 
+
+[00:06:23] Jimmy: white acrylic. Ah, okay, I'm thinking the image is trapped under the glass, but the image is only trapped under the epoxy. 
+
+[00:06:29] Bob: That's what I thought too, and I couldn't figure out why the epoxy was even necessary, but now that makes sense.
+
+Yeah. 
+
+[00:06:35] Jimmy: I am... I... 
+
+[00:06:38] David: It was very frustrating cutting it on the CNC because there was a couple little hiccups, but I was able to restart and Well, actually the first epoxy pour didn't go well. I didn't mix it good enough or it was too cold or something happened. So I had to redo everything and I can't... 
+
+[00:06:53] Jimmy: What's a project if you don't have to do it twice?
+
+Exactly, 
+
+[00:06:56] David: you know, and it's sitting right over there, so I'm actually going to try to fix it. I'm so, it's so upsetting that I have to give this guitar away, because it's one of the coolest things I feel like I've ever made. And so, the other blank, I'm going to have to turn it into my own guitar. I'm not saying I invented this technique, but it came out really good, and 
+
+[00:07:19] Jimmy: maybe I invented it.
+
+Did you get this mahogany from the guys over at Crimson, or did you get your own blank? I got, 
+
+[00:07:25] David: uh, I, I bought it from Kencraft, my local dealer, and then, uh, it was only seven inches wide, so I had to glue up a couple boards. Yep. 
+
+[00:07:35] Jimmy: Very cool. 
+
+[00:07:36] Bob: Yeah, that's awesome. I, in the video for our, for my guitar, I actually said at the beginning, like, I'm kind of interested in doing this shape because it's not my personality.
+
+It's not a guitar that I want to have, but I want to make it. So I'm happy that somebody else gets to take it. And then. By the time I got finished with it, I'm like, I really hope I get to somehow keep this guitar. Like, it's, it's not perfect. It's got its problems and everything, and it's not, it's not something I need.
+
+It's not something I'll play very much, but, I don't know. Like, I made a guitar. I don't want to keep it. Well, 
+
+[00:08:07] David: Kelly said last night, she's like, well, you could always bid on your own guitar. I 
+
+[00:08:12] Bob: thought about that. Yeah. I mean, it's, you know, it's giving money to the charity that you picked. I mean, there's, you know, yeah.
+
+[00:08:18] David: I love how you did something that was unexpected, and then when I texted you a photo last night, I said, there's no walnut in this guitar at all, because I didn't want Bob to predict that I was gonna use walnut again. 
+
+[00:08:31] Bob: I mean, it could be in there. I don't know, you covered up the entire front Maybe it's a walnut blank with a mahogany stripe around the outside 
+
+[00:08:38] David: of it.
+
+Yeah, yeah, I made it real, real difficult for me. Yeah. So, I was, I was gonna put the, the little portable amp, battery powered amplifier into it and then I got sick last week and I was just way behind so I didn't do it for this project. And I'm actually glad just because of the, the... The way it came out. I did cut the, um, the pit guard on the laser, and I'm not sure, it didn't list what type of material it was, and I'm not sure that I should have done that because it stunk really bad.
+
+Yeah. I it on the 
+
+[00:09:09] Bob: CNC. I was worried about that as well. Uh, I thought about it, but I couldn't figure out what it was, so I didn't. But, yeah, I went ahead and did it with a router. Which is always a little bit scary, because you can't, you know, come back from that. Any little jitter, uh, anything that the guide bearing picks up is...
+
+Yep, yep. Yeah, that's a big deal, but I finished mine except for, I'm waiting on a neck plate and a nut to show up today and then I can actually get the entire thing assembled and test the electronics. I have them in there, but I don't know that they work, 
+
+[00:09:41] Jimmy: so. Yeah, I'm going to find out soon enough.
+
+Hopefully 
+
+[00:09:44] Bob: they do. So I've been working on the guitar. I also am building some floating shelves for our kitchen to kind of go on top of the tile that I did last week. And I'm trying something, I don't know that it's really new, but it's new for me, uh, with the floating shelves. I'm trying to make them really strong.
+
+So... Today, I'm gonna actually get them installed and see if it works like I think and if so, it'll be kind of neat That's pretty much all I want to say about that Jimmy, what have you 
+
+[00:10:13] Jimmy: been up to? I got the guitar done I'm part of the Secret Santa, the European Secret Santa crew So I'll be in that and I had to get my Secret Santa Put together and in the mail, I think, I'm not sure, I gotta double check with Ruth who's running the show, Ruth from Kids Invent Stuff.
+
+I think we're supposed to get ours in the mail, open it, and that's part of our video, is us revealing what we got. I think that's how that works, but I got mine in the mail last night, which was a nice relief, because it was hanging heavy on my head. What to make. It's, it's difficult because you get the person who you're supposed to make for and then you got to like, do a little research on them, try and figure out what you want to make for them.
+
+But my, I'm happy with what I made. Came out well. I just showed you guys. So that's out and that'll be revealed. I think I got to publish that video on the 18th. I'm very happy my guitar is done. That's another weight off my shoulders. And, uh. Did you guys happen to see the metal, this crazy metal thing I made?
+
+I got a, just a private client job for a florist that does very pricey installations for weddings and ceremonies and stuff. I made this big, big giant metal tree. My friend Eliza works for them and she said, can you make this? And I said, sure. And then last night she sent me, and I might be able to post it today.
+
+She sent me pictures of them having had used. The, the tree. So I can show you guys. This is one of the installations. This is, this is like eight, ten feet tall. See all those branches? So I made like a, basically a skeleton of a tree made out of thick steel tubing. And then they bolt stuff to that. And, and then it's recyclable.
+
+So they take all the flowers off and they use that framework again for another event. Oh, that's cool. So I made that. And, uh, I kind of showed some cryptic Instagram stories on it because I don't know what she wants me to reveal, but I think at one point I might be able to even make a reel of all of it with some of her finished beauty shots, so she's waiting to give me the go ahead.
+
+So that'll be a quick little reel, because I did film some of the process, and, uh, she's giving me another gig to make these arches, so making cool things with florists is fun. 
+
+[00:12:20] Bob: Look at you, back into client work. 
+
+[00:12:22] Jimmy: Yeah, this is good client work, because this is like a framework for the artist to do something fun.
+
+Oh, yeah. It's a substantial piece of welding. And the material's substantial and heavy. And, and they, you know, they, they, they're in settings where there's people, so we wanna make sure nothing's gonna droop or bend. So that, that was fun. And, uh, my road, a lot of people saw the road I made last. I didn't make it, but I'm paying for it did the road that goes, it's basically the same thing, , I, I enlisted the guys, these local guys to build a road.
+
+They did a fantastic job. So we went through the woods. Around the black barn and back up to the new barn. So there's like a big jug handle in the woods so that we don't have to drive across the lawn anymore. And a lot of people were wondering how much that was going to cost. And I found out yesterday that it's going to be somewhere in the 30, 000 range.
+
+It's. 800, 000 pounds of rock and gravel, which brought to my property, 800, 
+
+[00:13:19] Bob: 000 pounds. Expensive jug handle. 
+
+[00:13:21] Jimmy: It is a very expensive jug handle. And it's about, it's about a hundred, it's about 200 yards long. So it's a pretty substantial road. So 30, 000 road. The good thing though, I mean, it's obviously a lot of money, but these guys take payment over time, so I can give them bits and pieces of it, they don't need to write it, so as my YouTube wealth rolls in, I can give it to those guys.
+
+[00:13:45] David: Any kind of lights that line the outside of the road? 
+
+[00:13:49] Jimmy: Well, we have, the main road that goes right up to the front of the barn has a row of lights along it, and me and Patrick are talking about running another row of lights around it. So, yeah, we're talking about it. I have in my video to do list doing these, uh, I don't know what you would call them, like, these driveway lights, like stanchion lights that come up out of a steel tube and the top has like a glow on it.
+
+I have a couple of ideas, that is something that I definitely want to make, and that would be a video. Because we made these driveway lights when we built the building. But they're just on 2x4s stuck in the ground. Everything is there for me to make them. But, uh, when the design committee lived here, it was always difficult to decide how we should do them, so it just became a 2x4 with a lightbulb on it.
+
+So without the design committee, I think I'm going to be able to make fast decisions on that. So that's, that's gonna probably, uh, I don't know, might make that over the winter and then I'd establish a style and we can make that same style around the other new road, but it's, it's incredible. The potential, when you open up the back door to the barn, you used to open it up and be 10 feet from the woods.
+
+Now you open the back door to the barn and there's like a, I joke, I say, I feel like I'm in like a. James Bond 007 villain lair. Like you open it up and there's roads, like I need like guys in the same suits just walking all around doing nonsense, you know, like walking around. You should 
+
+[00:15:07] Bob: totally do that, that'd be 
+
+[00:15:08] Jimmy: awesome.
+
+It's, it's crazy, like you open, it's like this whole complex, it's like waiting for like, you know, something to be happening, it's crazy. You need henchmen. I need henchmen, you know, like my, my, my own, my own minions, wearing like mandarin suits and like little fin hats, doing like nondescript evil stuff. And 
+
+[00:15:28] Bob: they all have a little wire hanging out of their ear, and they're just like looking around, putting their hand to their ear, that'd be awesome.
+
+Yeah, you should definitely do that. 
+
+[00:15:37] Jimmy: That and the guitarist is, oh, and um, my boat, the boat's ready to be glassed on the bottom, I'm going to do that after the weekend, and that's going to be fun. 
+
+[00:15:50] Bob: I was getting ready to ask is it too cold or is it getting too cold, but I guess the barn is heated. 
+
+[00:15:53] Jimmy: The barn is well heated, yeah, it's always like a constant 65, 70 degrees in the barn no matter what.
+
+And not to mention, it's 60, it's almost 60 degrees right now, it's crazy. I remember when, this is right when we did, it's December 7th, 8th, right now is when we did the concrete floor in the barn five years ago today, this week, and it was...
+
+It's crazy how right now here it is, you know, global warming, whatever you want to call it. Here we are, and it's 50 degrees right now. 
+
+[00:16:29] David: Do you enjoy having five projects going at the same time? 
+
+[00:16:33] Jimmy: I have nothing else to do anymore, so that's like, I'm looking for a sixth project. Okay. It makes sense. 
+
+[00:16:40] Bob: Hinchmen.
+
+That's your sixth project. 
+
+[00:16:42] Jimmy: No, I mean, I have more free time on my hands than I've had in 12 years. It's crazy. It's funny having all this free time on my hands and having this new career that I didn't have when I didn't have the free time on my hands 12 years ago, if you understand what I'm saying. It's like, my whole life has changed while I've been in a union and now I'm out of that union and suddenly it's like, whoa.
+
+My life has changed and now I have so much free time. So let me make two guitars. Let me make two 
+
+[00:17:11] Bob: steel trees. I should have just hired you to make my guitar for me. 
+
+[00:17:14] David: Just don't burn yourself out, 
+
+[00:17:16] Jimmy: that's all. No, no, I've been taking some time off and I've been exercising a lot and doing my long night walks, as the weather permits, I've been doing these three to five, three to four mile walks every night.
+
+I got a couple of like milestones in the road where I walk to and, and the funny thing is every time I say I do walks... Everybody, I, I, you know, I always say don't tell anybody what you do because they have a bad opinion about it or they put their fear into you. Every time somebody's like, what are you doing for exercise?
+
+I go, I go for long walks at night and they're like, oh, I hope you're wearing a flashlight. I hope you don't wear antlers on your head. I hope you don't run in the red line down the middle of the road. I hope you know what a car is. You know what a car is, right? You don't jump in front of them, do you? You don't wear a deer suit.
+
+Like, I walk in the middle of the night in the country where I could hear a car coming for about 10 minutes before it comes near me. And I'll walk for an hour and a half, two hours at night, and I will see one car in that much time. And I will see the headlights for about 20 minutes before they get near me.
+
+And as soon as they get near me, I jump in front of the car. 
+
+[00:18:24] Bob: I'd say as long as you have a blinky red light on your nose, the antlers are not a big deal. People, they know what that is. I 
+
+[00:18:31] Jimmy: bounced off a few fenders, but I'm okay. It is so funny, it's like, everybody in the audience do this as an experiment.
+
+Say I go for long late night walks to anybody, and immediately the first thing they're going to say is, Oh my god, do you know you can get hit by a car? 
+
+[00:18:48] Bob: More likely to get hit by a deer. 
+
+[00:18:50] Jimmy: That's exactly right! That's exactly right! One, this is last summer, I was walking, I don't know if I told you guys this, I was walking, and I was fiddling with my phone, trying to reset a book on tape as I was walking, so I was looking down at my phone, so my face was lit up.
+
+Pitch black. Pure pitch black. It was an overcast night, so I was just, the only thing that was keeping me... On my path was obviously I knew where I was going and the fog line in front of me, no cars, and I got hit in the head but it must have been a bat. Flew directly into the side of my head. Oh my goodness.
+
+I literally, I jumped around and I was like, I thought somebody snuck up on me and slapped me because I was listening. I did my, all my senses weren't available. So now whenever I walk to everybody that's afraid I'm going to get hit by a car, I only leave one earbud in so I could hear the cars approaching.
+
+And so that night I had both earbuds in. So I thought somebody had snuck up to me and slapped me in the back of the head and I immediately spun around. There was nobody near me, but the only thing I could think of is the light of the phone on my face attracted a bat or something. That flew into the head, flew into like my forehead.
+
+What came 
+
+out 
+
+[00:19:52] David: of your mouth? 
+
+[00:19:55] Bob: What did you say? Yeah, 
+
+[00:20:02] Jimmy: but that was scary. That was the only, so like, don't say anything about cars. Just say, do you know there's bats out there? I hope you're wearing a helmet. 
+
+[00:20:11] Bob: That's right. Uh, a lot of headphones these days, I want to throw this out in case people don't know this, a lot of headphones, the AirPods do it, but other ones, my Raycons do it as well, they have like an awareness mode where it lets...
+
+The outside audio in while you're listening to something. So if you are running, like when I go run, I run when cars are driving around next to a road. So I can hear all of the cars. And I think that's a good thing that people may not know about. If you're looking for earbuds or something to exercise with, get somewhere you can turn that on.
+
+So 
+
+[00:20:41] Jimmy: you're not as close. I use, I use like the, the beat. So I always have one in one out and like my ear gets irritated. So I switch ears. I pull one out and put one in. I'm always, I always got one ear on the road. Like a Native American listening to who's coming. Seriously, I'm always looking. Well, that's good.
+
+Yeah, so that's what I've been doing. Um, I 
+
+[00:21:02] Bob: ran into, or I had a pretty cool thing. I don't even know how to say it. Experience this week. I did something that is not cool to anybody else in the world, and I've told a couple people and they were not very excited for me. I was very excited about it. Great setup.
+
+So I'm going to tell you guys, yeah, because you will be as equally not excited for me. So my, uh, my old GreenLine Cruiser that I've talked about on here a little bit. Has been, you know, back and forth between working and not working. And like, I drive it for a couple of days and then something burns and whatever.
+
+So last week, a couple of weeks ago, um, did I tell you about the ignition switch going out and then I hotwired it? I was able to hotwire it and I thought that was really cool. It dawned on me after the fact that by hotwiring it, I was actually connect... I don't think I did anything bad to it, but there was potential for me to get really hurt doing that because I was jumping wires that carry a whole lot of amps.
+
+And if I had gotten shocked with that, it would have been deadly, probably. So don't do that. At least the way I did it. I don't know. Find some professional hotwire and have them teach you how to do it correctly, like a criminal. But anyway, so I'm not saying do that again. That was an interesting thing for me to learn and I got an understanding of the car through that a little bit.
+
+But I drove it home the day that I hotwired it and then I went to start it up again and it wouldn't start. After I replaced the switch and everything, it started blowing a fuse. So, I spent, uh, about a week, like, just going out and looking at it and trying to figure out, like, all of the components that hadn't been replaced in the electrical system.
+
+Long story short, for the first time, I spent a long time with a Haynes manual and a multimeter at a car. Going, okay, this wire connects to that thing over there. What else does it touch? Okay. So, you know, and I was following the wires and so much of that is hidden, even in old cars, it's a bundle of wires wrapped up in tape and you can't really see anything.
+
+And so. I, through that process, I understood a lot more about where things went, what was connected, the process at which electricity comes out of the battery and goes through this thing and follows this and goes through this voltage regulator and all that. So I got a better understanding of it. And using a multimeter, I was able to start checking the ends of wires, but, you know, from, I know this goes from this point to this point, so I'm going to check the end of them and see if there's continuity.
+
+See if that wire is connected inside. And I was able to find... A single wire that went from one point to another point. It didn't branch off into a bunch of things. And it was not connected. And so then I took the end of one of those wires and I checked it against the ground, against the block. And it was connected.
+
+And that's not supposed to happen. So the cool thing was that I spent the time, piece by piece, going through and I found a single wire in the wiring harness that was broken somewhere. I don't know where the brake was, but I was able to identify like this wire is the problem. This is what's causing a short.
+
+It's blowing the fuse. It's stopping the car from starting. And I, my dad has electrical background stuff. So I, you know, was, I asked him about it. Like, does this make sense to you? Does it sound like I'm on the right track with this? And I showed him what I was thinking. He's like, yeah, I mean, it seems to.
+
+So I was able to create a new wire that went from point A to point B. This is from the regulator, the voltage regulator to the alternator. And just took a new wire and laid it on top of the engine. You know, like it wasn't like I was feeding it through. And I just went from this point to this point. And double checked all my connections and made sure everything was covered and you know sealed and everything and then I went and replaced the fuse and it cranked right up and it felt so amazing to isolate the problem yeah to know exactly what the problem was fixing it cool that's great but to have a serious understanding a specific understanding of you What was causing the problem and and to diagnose it.
+
+It's not like somebody just said well, here's your problem Yeah, getting to the bottom of it felt really really good and Gave me I don't know like another boost with the car stuff like this is not it's not black box work You know It's not an impossible thing to diagnose a problem in something that you don't really know much about no matter what it is and for Me it happens to be cars right now.
+
+It felt really really good Once I knew it I just had this like jolt of energy and so I I was taking the things off that I had put on and routing them correctly and, you know, zip tying them to the other wiring harness and labeling things end to end and just put it all back together and I'm like, okay, surely.
+
+Now it won't work. I probably did something wrong in that rewiring, you know. It cranked right up, and then I drove it, and it cranked right up, and then I got it home, and it cranked right up, and it just felt so good to be like, I fixed the thing. That's cool. Um, and so I told my, and I, and I was working on this like, For a week, I would go out and just stare at it and be like trying to follow things and my wife Would look out our kitchen windows like right above where the cars parked and she would just be up there and like look out and I'd look up and I'd see all the kids just staring at me from the window You know for a week at a time and so when I went in and I told them that I got this thing fixed They're all like Like 
+
+[00:26:41] Jimmy: I fixed the car They already thought you knew you were going to do it, you didn't know you were going to 
+
+[00:26:45] Bob: do it.
+
+Yeah, that's, that's possible. Yeah. I think, honestly, I think they're probably like, yeah, sure you did. Give it a day and then something else will break. I think that's probably what they were actually thinking. But, anyway, it was, it was really, it just felt really good. It's a win, a big win. Yeah, yeah, and it made me like, now looking at the, the Karmann Ghia, when I get to the point of running new electrical, which I have an entirely new wiring harness, brand new, that I have to run everywhere, and that's always been like a, man, in a couple of years that's going to be really hard, but I don't have to worry about it now, it's that kind of a thing.
+
+But just having explored that a little bit, now I have a better understanding of at least what the components are, and how things are connected, and maybe the order in which I go connecting those things and testing those things. So, it was good. But, I guess I don't have a point for listeners in that, other than, you know, being diligent.
+
+Sticktuitiveness. Yeah, like being diligent and just... Like methodically looking for the problem and and testing individual things and checking them off the list. It's not that it's not that it's not that It worked out. It felt really good. So 
+
+[00:27:56] Jimmy: you know the another good point to make there is I see Occasionally I see people in my environment get super frustrated with stuff And I'm like, and I would say, there's got to be a solution.
+
+It can't just be magic that it doesn't work. There's something, there's a mechanical reason why. Just be patient and figure out what the mechanical reason why you are not getting the results you expect. And if you're patient, you can zero in as opposed to getting frustrated and throwing a hammer or kick on the side of it.
+
+Occasionally the Fonzie Slap does work, but... 
+
+[00:28:29] Bob: I think, I've always looked at cars specifically as like, as just a big thing. Right? Like, the car doesn't work. In reality, the car is a collection of systems. You have a fuel system, you have an electrical system, you have an air system, you have tires, you have a brake system, you have all these systems that work together but are kind of independent in that if you break a brake line it doesn't
+
+And I think from the last couple years of just dipping my toes into car stuff, I'm getting a better understanding of this one big thing is actually just a bunch of smaller things and if I can, if I can put aside the rest of it and just think about the brakes or just think about the electrical, it feels a little bit more attainable.
+
+Um, yeah, and I think you could apply that to, you know, any sort of thing that you were making or fixing or whatever. I mean, I'm sure you've run into that with like, Getting into working on the backhoe and stuff. I feel like even if you understood cars, looking at a backhoe would feel like, Oh, that's a whole different thing.
+
+[00:29:37] Jimmy: Oh, it's crazy. It's like, it's like, it's like the enormity of like a cruise ship. You look at like all the different things that have to happen then. And it, yeah, definitely, uh, yeah, thank God for Google. Because I kept spewing, I kept spewing hydraulic fluid and I couldn't figure out where it was coming from.
+
+And I think Rob Rojas figured it out. He goes, Oh, that little sight window, when the thing is in this position, you're only supposed to see half of the, And that was from Google, and what I had done was, when the thing was all extended, And I filled it up to the top so that when everything contracts again, all that fluid has to go somewhere.
+
+It just squirts out of the cap. And I didn't realize I was squirting it directly out of the, the vessel, you know, so I learned a lot about hydraulic systems that day. I learned lessons I'm 
+
+[00:30:26] Bob: never going to forget. Another interesting thing that's come out of the car stuff recently is, uh, uh, an awareness of how different cars are now to 50 years ago or whatever and how Because the cars themselves are so much more complex, passing on knowledge about cars to younger people is more difficult.
+
+My dad was telling me about how, when he was a, I guess he was a teenager, like nine, ten, something like that. Um, he had two younger brothers, has two younger brothers, and his dad, my grandfather, would go to work and tell them, while he was gone, to like, change the points and change the oil and, you know, here's a list of stuff to do to the car.
+
+while I'm gone. And they would do that on their own. And I can't do that. All of that. I wouldn't know where to start. I much, I definitely would not tell my kids to go do that, because I wouldn't trust that they would do it correctly, because they don't have the history of understanding what the thing is.
+
+The thing about my dad and his two younger brothers at that age, at least, at the very least, knew where the things were. Even if they didn't understand what they did. They knew what it was, and what it wasn't supposed to look like, and how it was supposed to be set, and they could go in and change those things, which they had to do as more regular maintenance than you have to do now, um, and You know, it was just like part of their chores, like, go fix the car.
+
+That's funny. 
+
+[00:31:59] David: The battery in Kelly's car died last week, and it had to jump it, and I was like, man, I really hope we don't have to replace this battery, because it is so buried. It's a Ford Hybrid Fusion, and it's just so, like, if I have to replace this, this is going to take all day. 
+
+[00:32:16] Jimmy: Yeah, I had to change the battery in my 2018 Chevy, and you got to take a cross member off.
+
+I was like, are you kidding me? What? I gotta take like a cross member off of like the frame to get at the battery. You gotta take off like a 20 inch piece of steel to get at the battery. And, and so I just was telling Dave this while we were busy switching around the, the browsers. I, the other day I get out of my 20.
+
+23. It's not even 23 yet. I have a 2023 Chevy 3500 that I bought in September and I get out of it and I'm fiddling around in the yard and I look back and the headlights are still on. It was like 20 minutes later and I'm like, how long does it take the headlights to turn off? And I got in the car, I started fiddling around, I started it again, and it's elect everything's electronic.
+
+Nothing makes a positive click, everything's like a, you know, some sort of secret soft switch everywhere you go, delayed reaction. And, start started the car, shut it off. And then, you know, it doesn't shut completely off, you know, it's like, I'm going to do what I'm going to do in my own time. You go in the house, I'll be fine, you know.
+
+Processing. Yeah, and, uh, I couldn't turn the headlights off. They, they wouldn't go, and then I, I, I zeroed it in after playing with it. The bright lever, the lever on the Blinker switch, I push it forward to turn the brights on and off and they wouldn't turn off. I turn the brights on pulling into the driveway and now they were stuck on and the car was completely off.
+
+I'm like, now I'm going to have to open the hood and try and figure out where the batteries are because the car, I think the car has two batteries and I got to disconnect the batteries and that means every other setting is going to have to get reset. Because once the car has no life at all, it goes back to being a dead body.
+
+And so I said, before I open the hood, let me keep fiddling with the switches. And then ultimately the high beams went off. And the next morning I got on the phone with Chevy. I was like, this truck, I couldn't turn the high beams off last night. They're like, really? And I go, I'm on the phone with you now.
+
+And I'm like, Oh, I turned the high beams on. And now I can't turn them off. The car is turned off and the high beams are on. I can't turn them off. And they said, bring it in. So I brought it in, and after some troubleshooting, they changed the blinker lever. Because that does, changes the wipers, the blinkers, and the high beams.
+
+And that switch was defective. 
+
+[00:34:32] Bob: Are you sure? Because I know that you paid for like the full package on that thing. Are you sure that the AI in the truck just didn't think that you still wanted the Lights on like maybe it was like, Oh, he's still out here in the yard. 20 minutes later. No, no, 
+
+[00:34:46] Jimmy: no, they Might that's what I thought I'm like There's a thing like think I'm like busy fiddling around in my garage and it means that thinks I need the lights because it knows I'm nearby.
+
+No, they they said that so they replaced the lever Whatever, it's just the beginning of a waterfall of electronic problems, I'm sure this and many other new vehicles have. You get in the thing and it's just like everything is a soft touch electronic thing. And I was talking to a friend who, the guy who's going to detail my car, I just became recent friends with him, he's going to detail it and put a ceramic coat on it.
+
+In the next couple of days, he said a lot of new cars are having problems because of some, I guess some of the chip, the chip shortage and how the chip, that whole chip situation. I said, we were talking, I go, could you imagine in 40 years from now, finding this truck in the weeds and trying to start it being like a kid, you know, imagine being a kid, like, Oh, look at this cool truck.
+
+I found, I'm going to pull it out of the weeds in my YouTube channel, you know, my YouTube channel in space and try and start this truck. You'll set the thing on fire trying to start it. Because you'll melt the wiring harness. Yeah, the battery will 
+
+[00:35:56] Bob: just explode. 
+
+[00:35:57] David: But we, it's almost like we stay in the same plane, but these kids, they have an advanced knowledge of things.
+
+So 40 years from now, when they go to dig that out of the weeds, they may know what they need to know. 
+
+[00:36:12] Jimmy: He's going to walk up to it and pull his phone out and hover his phone over the engine compartment and it's going to go, this car starts! 
+
+[00:36:17] Bob: Yeah, yeah. It works! I mean, it's one interesting thing about the, like the old cars that I've been dealing with lately.
+
+Uh, like this FJ40, I can get in the engine bay, with the engine in it. Like, I could climb in there. When I replaced the starter... I didn't have to take anything out. And it's at the bottom. I reached in with one arm, unscrewed a thing, and pulled it out, and then put the other one back in and unscrewed it. I didn't have to move anything.
+
+When 
+
+[00:36:47] Jimmy: I open the hood of this car, you open the hood, and there's like a whole nother hood. It looks like you're looking at like a piece of, the piece of paneling, like when they pull it off the side of like a Rolls Royce jet engine, and it's just completely packed right up to the inside paneling of tubes and wires.
+
+You open the hood of this car, it's the same thing. It's like I don't even know where the battery is. 
+
+[00:37:08] Bob: I mean, I guess there's a, you know, there's definitely a good and bad for both ends of that spectrum. Surface ability is a big problem, I think, with current stuff. But at the same time, you know, unlike the old car, like my old Land Cruiser, the heater is a circle of metal.
+
+Sitting in the floor between the two seats. So, I mean, there's a trade off between having, Oh, I got like a nice heater. That's going to heat my seat or whatever. And this like, there's a hot piece of metal in the back. That's supposed to warm the car for you. 
+
+[00:37:40] Jimmy: Well, when I pulled in, I asked the service manager, I was going to show him that the lights stay on.
+
+So we started fiddling with the switches and I said, by the way, how do I turn on the fog lights? And he goes, this button here, and I'm like, that didn't work, that's the button I thought it was. And I go, hmm, I don't know, and he's pushing buttons all over the dashboard. And we finally figured it out, it was a different button that was not where you would expect it to be that turns on the fog lights.
+
+It was the first time I turned the fog lights on since I got the car, because I didn't know where the button was. I might have been turning them on and off, but I didn't realize it because it wasn't the right button. And the button that's supposed to be for fog lights, I go, what does that turn on? He goes, hmm, I don't know.
+
+Nothing seems to 
+
+[00:38:18] Bob: be changing. Turns the truck into a helicopter? 
+
+[00:38:20] Jimmy: Yeah. Oops. 
+
+[00:38:21] David: It's funny, you say all that, and I'm going to pick up my new truck today at 1230. Oh yeah? What are you getting? My lease ended on my current one, and I'm getting another one, and it's the exact same thing. It looks exactly the same on the inside.
+
+Uh, except I'm going from black to white. I could have got another black one, but I'm like, it looks exactly the same, I should pick a different color just so it feels new. What is it? What kind of car? It's a Honda Ridgeline. Oh yeah, that's like the smallest pickup truck you can get. Yeah, that's 
+
+[00:38:53] Jimmy: cool. I could, I can give you a pickup truck a ride.
+
+[00:38:58] Bob: Yeah, you could, for sure.
+
+That's funny. Well, um, we didn't really have a topic, but I did want to bring something up. Um, a couple days ago, the Hacksmith channel posted a video about, uh, James, the guy that's been the Hacksmith, but it's a company with a whole bunch of people, and basically it was him and a friend of his from school started the thing, the other guy didn't want to be on camera.
+
+So, they posted a video basically talking about the fact that James has been dealing with depression for about 10 years, and is taking time off, an indeterminate amount of time off to just get better, because he's not doing very well. And, so the video is about... him, what he's been going through, what he needs.
+
+He's, they're asking for people to, you know, hang around and support the new people that are going to be on screen and what they're trying to do and everything. And it was a really good, I thought it was a very classy way to say, look, he's having some trouble. And he needs time, we're going to give him the time, um, so just hang around for us, you know, while we're letting him get better.
+
+And, uh, one of the things that was interesting about it though, outside of that, I think that that part is important, and that's what made an impact on me. But I don't have much to say about that. The thing that, in addition to that, that kind of stuck out to me was... They started describing in this video the last couple years of YouTube for them and how they've been trying to change stuff and it felt so familiar to me that it was a little bit disconcerting.
+
+Um, so they were talking about how, obviously they're working at a whole different scale, they have like 10 million subscribers, they have like Crazy number of views. I'm not saying it's the same thing, but it was interesting to hear. The disconcerting part was that a channel that's that big and that prolific felt the same thing that I think a lot of us have been feeling over the last couple of years.
+
+But anyway, they talked about how doing the weekly video thing was really exhausting, especially for him. And was, as they were building up this, like, viewership and everything, they had to make more money to cover the more people they needed to be able to make the videos they needed. They started taking on a bunch of extra sponsors, and then that brought a whole different set of, um, constraints to the whole thing.
+
+The thing that really stuck out to me was, they were doing the weekly thing, and they said, this is not allowing enough space for us to do the videos that we want to do, because it's just... It's not enough time. So we're gonna switch to a, uh, schedule where we do like one or two a month, but they're bigger.
+
+And so they tried to do that, and then they immediately saw that if one of those, if you put your eggs in fewer baskets and one of those videos doesn't do well, it hurts more. Then if you have four videos a month and one doesn't do well. And as soon as he said that, I'm like, oh, yeah. What do you do when 
+
+[00:42:15] Jimmy: you do four videos a month and none of them do well?
+
+Did he have an answer for that? 
+
+[00:42:20] Bob: But I mean, I've thought the same thing. We've, we've thrown that idea around of like, well, maybe we do like the, you know, one a month and it's bigger. But then I've always worried about the sustainability of that. Uh, because, specifically because when we do four a month, I don't know if any of them are going to do well.
+
+[00:42:38] Jimmy: Let me, this goes back to the topic that we could talk about next week, but. Is it not doing well and it feels like a failure because of your ego, or is it not doing well and it feels like a failure just because not enough people watched? And if not enough people watched, I know ultimately long term it does affect the bottom line, but in general I think our ego is more damaged than our finances.
+
+In general. Yes. 100%. Because when you look at the year, you have videos that don't do well and you're like, uh, you know, but you're like, oh, what I, you know, that video did 300, 000, you know, in all, in my little world, you know, each one of us has our own, what's good, what's bad as far as ratings go, you know, he's doing millions of views, him and like Colin and those guys, you know, they, they do very, very well.
+
+Like I said, when, when you get a, a, a kick in the gut, is it, is it our ego? More than our finances because we're worried. It's our finances, but initially it's our ego. Yeah, 
+
+[00:43:35] David: it's definitely the ego It's some you know some projects just require more of your attention and energy and you become really attached to them for a week or two whenever you're working on them and you just feel like this is amazing like the This current project, I'm like, this is so good, and then, if the video doesn't do well, it's like, oh, does the audience think what, maybe what they think is good is different than what I think is good, now there's a disconnect.
+
+I'm gonna 
+
+[00:44:02] Jimmy: go back to that old, that old adage of like, if those 40, 000 people that you think is a failure showed up at your house, you'd be like, I wish I had more friends. There's only 40, 000 people here, mom. The party was a failure. 
+
+[00:44:18] Bob: I think, I mean, I totally agree. Ego is a big part of it. I think it's a little bit different.
+
+My ego is heard in a different way than what I think you guys are saying. I'm not trying to get out of the fact that my ego plays a big part in it. Yeah, no, because I don't mind it. When something underperforms, well, I rarely make anything where at the end of the video, I'm like, man, this thing is so good, people are going to love this, because I just don't have that confidence in my own ability or my finished products.
+
+It's just not where I land on that stuff, but I think the ego in that I feel like I've done something that will be useful for people. And then when people don't watch it, I'm like, well, I guess they didn't think it was going to be useful for them. And then the next stage of that is, well, if they don't think that's useful, like you said, David, what if we have really different ideas of what's good or what's bad?
+
+And does that mean I'm wrong? Does that mean I'm out of touch? Does that mean I have a future in this? You know, it's, it's like that cascading, like, that extrapolation of if I failed here, am I failing at large? Or am I on 
+
+[00:45:28] Jimmy: the way out? Time to be honest with myself. Yeah, 
+
+[00:45:32] Bob: and that's, that is definitely an ego thing where you start to like, say, you question your ability and your, how relevant you are and things like that.
+
+Um, I think having employees and having, and this was another thing that resonated with me from watching that video from Hacksmith, was when you have people that rely on you. Specifically, like, for, in my case, people who have moved to the town. Three of the people that, of the four that work for me, did not live here before they came to work here.
+
+They have moved their families to the town, and I have a huge sense of responsibility to those people to make this thing work, and to not, not screw up to the To the level of, it's going to affect their future. And so, not that we've ever gotten to that, but I do worry about it. I mean, I worry about the potential, not the...
+
+Maybe it's not a realistic potential right now or anything, but when I see those numbers start to fall, or when I feel my ability to keep up with the schedule start to fall, or any of those things, I don't feel like that's ego so much in that particular case, as just, I have a responsibility to these people.
+
+And, and if, if I'm out of touch with the audience, like that's a problem for these people, you know what I mean? It's not so much about like, the audience isn't getting what they want from me, or like, I'm not good at making guitars, or whatever. Um, I don't know, it just brought, watching their video, it's, it's a very different situation.
+
+I'm blessed enough not to be dealing with those same mental health issues that James is, and I hope that he's getting the help that he needs. But it was interesting. And disconcerting to see a different group of people at a different scale deal with some of the same stuff. You know what I mean? Yeah. Um, but the cool thing about it, about seeing that video, and it's, and I think this is one of the really big benefits of them putting that video out to the world.
+
+Not only are they bringing awareness to like, this can be really bad for you if you're not taking care of yourself. Um, but as soon as I watched that video, I'm like, you know what? There's a couple people, creator friends of mine, who I need to check in on. They've gone through some stuff, I need to check on them.
+
+And I sent out two texts to two people in that very moment, just saying, Hey, how are you doing? Everything okay? And within 30 minutes, I got a text from somebody else checking on me. And I was like, that is so cool. And he said, I just watched this Hacksmith video, it made me think about this time that we were together and I wanted to check on you and see how you're doing.
+
+And so it's, it spurred a group of conversations between, you know, me being on the input and on the output side of that, of other creators, knowing what each other's going through, knowing the difficulties that can come with this whole thing sometimes. Just checking in and it felt really, really cool, you know, to be part of a community like that.
+
+[00:48:45] David: What sucks is for the, you know, if we are working too much and we're dealing with stuff, you know, we can, we can take a couple days off or whatever it takes or we can, we can slow down because we're in control. Uh, I have been in situations where I've had jobs where I don't have that control. And you are working for somebody else and you have...
+
+Huge deadlines and big clients and you're, you're overworking yourself. Plus you have to deal with your own personal stuff at home. And, uh, I, I, I wish there was good advice for, for people who don't have the luxury of slowing down, you know, just, uh, except for just talk to loved ones and, and reach out and hopefully other people are reaching out to you.
+
+[00:49:32] Bob: Yeah. I think, um, you know, taking time off. Can be difficult in any situation, for exactly what you're saying, but I do think that even in the time that you're not doing a thing, a job, or whatever, being able to actively reach out for a resource to people, just to have somebody to talk to about it, can do a, even if they're not like a I think getting help, professional help, can be huge.
+
+My mom was a pastoral counselor for years and I saw the effect that that can have on people's well being. Even if you can't do that, being able to just voice frustrations and talk about what's going on to somebody who just cares about you, even if they don't have anything helpful to say. Is a first step.
+
+And so I think that can be huge and I would encourage people to do 
+
+[00:50:21] David: that. I started watching this last night. This wasn't going to be my pick, but maybe this would be one of two picks. Uh, there's a Jonah Hill documentary on Netflix. And where he is interviewing his therapist, because he thinks his therapist has some good techniques that he wants out in the world.
+
+And it turns out, uh, like during this interview, the therapist is also asking Jonah Hill questions. And it turns into this therapy session for both of them, that's kind of live on camera, that takes place over a period of time. I haven't finished it yet, so, um. But it might be something worth checking out.
+
+There's no, there's no funny business. You know, it's not, it's not Jonah Hill being Jonah Hill. This is like serious conversations. And then, uh, there's a, there's a couple moments where, uh, Jonah is asking his therapist some, you know, some real questions and his therapist actually responds with, with comedy.
+
+And they're like, hey, let's not respond with comedy here. Let's, you know, and I, I realize I do that all the time where I'm like, Oh, somebody asked me a serious question and I'll just say something that I think is funny and I'm just really avoiding 
+
+[00:51:34] Jimmy: the question. Yeah, it's a good voiding technique. 
+
+[00:51:37] David: Yeah.
+
+And, um, so I guess what I'm trying to say is this might be a great documentary to, to watch and I don't remember the name of it, but we'll put it in the show notes and I'll find it before, um, we, we come time to. Give our picks. 
+
+[00:51:52] Bob: Jimmy, you brought up the ego thing, I wanted to jump back to that. Did you have, did you have like a, was there a catalyst that made you think about that or is there something going on that you want to bring up about it, specifically?
+
+Uh, 
+
+[00:52:03] Jimmy: well yeah, specifically my, my recent, uh, becoming. I'm single. There's a lot of times, and I remember thinking, well, trying, I don't journal per se, but occasionally I write down quotes, and, uh, I wrote down a quote that said, your ego doesn't have your best interest in mind. And your ego is the... Your ego is going to be like the thing that gets you in trouble by either being a tough guy in a road rage incident, your ego is going to get you in trouble when you might say something you can't take back in an argument with someone you're in a relationship with, your ego's going to be the one that burns a bridge, your ego is going to be the one that gets you in hot water.
+
+And so I wrote that quote down to try and remember what I'm going through right now. You know, me and my, my ex talk from time to time and The whole time my ego is really talking, and I'm trying to remember not to let that happen. And, you know, on her side too. So that's why I said, uh, you know, when it comes to work and business and relationships, your ego doesn't always have your best interest in mind.
+
+And it's really important to keep that in check. And I'm just... Brought it up. We could talk more about it next week if it's still a subject. It's really important to remember that and that's something I've been trying to remember going through what I'm going through, you know, regardless of what ended our relationship.
+
+Me and Taylor had a wonderful 10 years together and I got to remember that and not let current events, current moods, current ego stresses speak for me. So it's, it's very, it's really difficult to Keep that in mind and I'm not one to typically hold grudges I hold a grudge and then I had this conversation with a friend.
+
+I was like something about grudges I'm like, yeah, I hold a grudge right up until like a week goes by and then I'm like I'm like, oh wait, wait, I forgot I was supposed to be mad at you. Right, right, right. I'm sorry. Nevermind. Nevermind. You know, I, I, my grudges go through me and I forget. When I grew up with people that remember everything, like that's the time, you know, he handed me the wrong end of the hammer.
+
+And I'm like... You still remember that? Don't you have other things that happened since then? You know, there were people around me like that. And maybe that's my reaction. My personal reaction is to mentally block that. And so what I'm describing is a good trait of mine. Where I, my family... Dynamic and my, you know, my cultural upbringing with my friends.
+
+It's like, yeah, F that guy. I'm never going to talk to him again. And then I see him at the AutoZone store and I'm like, Oh, hey dude, what's going on? I'm like, Oh, wait, wait, I'm supposed to be mad at you. Sorry. Nevermind. Nevermind. You know, like, so that's. That's a good thing, that I always forget I'm supposed to have a grudge, because it helps me get past this ego from time to time, and you know, like, going through the break up, there are times when I'm so ridged up and I'm like, I can't even talk, and then I have this moment of clarity where I'm like, I get a text from Taylor about something technical and I'm like, oh yeah, oh, well let's handle it this way, let's do it that way, I'm sorry, Sirius is trying to...
+
+Extend the life of my new car. They're like, we need to get you on the credit card. Your trial period is over. They call me about four times a day. Uh, no, so it's, it's just important to remember, like, when, when you're taking on a client job, or you're arguing over the color of something, or you're arguing over the price of something, you're like, I'm not gonna do it for that, they're taking advantage of me.
+
+It's, your ego is making these decisions and you gotta be, you just gotta be aware of that and I'm going through that, so I just figured I'd share that with you guys. 
+
+[00:55:59] Bob: I think, I, a few weeks ago, I don't remember exactly the situation, but I remember something about me feeling, uh, not hurt, but just like, there were, there were some situation where I felt a little attacked, like, within my circle of friends.
+
+And I remember thinking in the moment, like, I'm being prideful. There's nothing, there's nothing attacking me right now. I'm, I'm being a baby. I'm, I'm being hurt. I'm letting myself be hurt and I looked at it as pride, but I guess that comes from ego or your ego is attacked and you feel like you have to stand up for that thing within yourself.
+
+And I remember, Like, in the moment thinking, look, I can either let this irritate me and be hurt, or I can just get over it and know that there was nothing, there was no ill intent with any of this. And I can decide how the rest of my day is gonna go by whether I'm gonna, you know, let myself be hurt about it or not.
+
+And it was a realization moment. And it was nice to be able to like, okay, uh, I'm just going to step aside from this. The cool thing about it was that a couple of days later, one of my kids was going through a very similar situation. Totally different situation, but the same things were at play. And I was like, okay, so I ran into this the other day and I got to tell them that whole thing about, you know, like, your pride is what's injured here.
+
+Like nobody was trying to hurt you. And so you can decide whether that pride is more important than that person. Do you want to be hurt or do you want to be okay with people? And they were like, Oh, um, so it, it was nice to have that lesson taught to me. And it was also nice to be able to like share that lesson 
+
+[00:57:43] Jimmy: on.
+
+A funny thing, and I grew up with a parent that. Would occasionally be like my day is ruined now because of this incident my day is ruined And that's somebody that is just like has their ego on their head like a helmet And it's just like my day is ruined, and I'm not gonna. I'm not gonna let go of this incident I'm not gonna let go of this anger this ego damage.
+
+I'm not gonna let go of it. I'm gonna carry it around I'm gonna remind everybody that my day is ruined Because I had a bad interaction with X, or I had a bad interaction with Y, or I had a bad service phone call, or a sales call keeps trying to call me, or I keep getting a call from S, Sirius XM, my day is ruined.
+
+So I kind of grew up with a little bit of that, and being like, when I hear somebody say my day is ruined, I'm like... Get over it, you baby. Because that incident is off the phone and put to bed. 
+
+[00:58:37] David: And I need somebody to tell me to get over it every once 
+
+[00:58:40] Jimmy: in a while. And for your ego to carry around that upset all day long and making this declaration that my day is now ruined, you might as well just go climb into your crib and pee in your diaper because get over it.
+
+Your day is not ruined. It's ruined because you're letting your ego ruin it. So, there, I said it. My day is now ruined. 
+
+[00:59:05] David: I think I just put so much importance into the thing that's in front of me right now. Like, what's on my workbench right now is like the most important thing in my life. In reality, it is nowhere near the most important thing in my life.
+
+It just feels that way. So when something goes wrong, it's just like... Why? Why? Now I gotta spend, it changes everything. And then uh, I just need uh, I just need Kelly to remind me every once in a while that it's just a thing. It's just, it's just a thing. It's just that thing, you know. It's just that thing.
+
+[00:59:40] Jimmy: This is a stupid example, but you know, I might be in the shop frustrated that maybe, you know, I chipped off too much of the carving I just did. And I'm like, ah, I didn't mean to cut that tooth completely off. And now I got to glue it back in and, you know, I might be annoyed at the moment, but then I go to go to the shop to go up to the house to eat something.
+
+And then like the three cats are waiting for me. And I'm like, Oh, Hey, what's up? You know, butterfly lands on my nose. And it's like for me to go. You cats, you know I just chipped a tooth off of the Skull Guitar? It's just, it's so annoying! They don't care. 
+
+[01:00:11] Bob: So, one of my kids the other day, one of my kids the other day went on, uh, like a weekend away kind of thing and he came back and realized that he left something there by accident, and when he realized it, he got real kind of frantic, and was like, oh, it's gone, like, they said they were throwing anything away that got left, and I just now realized I left it, and it was like right before everybody was going to bed, so he was getting, like, worked up about this thing.
+
+You know, from my perspective, it was like a thing. It's like, it doesn't matter at all. Like we were blessed enough. I can buy you another thing and it wasn't expensive. It's fine. In his mind, in that moment, he was so focused in on that one thing that it became like you're saying, David, it became a really.
+
+Big deal right there. It was the thing and you know I tried to kind of talk him out of it and he just wouldn't kind of change his focus on it And so I set him down and I had him say out loud what the problem was and like what the context was And he said it and I'm like, all right now zoom out from this moment this place this thing that you're thinking about To the weekend that you had, and how much you enjoyed it, and to school tomorrow, and, you know, zoom out to the week, and Christmas is coming up, and zoom out to the year, you're this age, and...
+
+You know, and I try to like, it's all about perspective. If you are only hyper focused on that thing in front of you, Yeah, you lost the only thing in your mind. But if you can zoom out a little bit, you see that that was one of many, many things. One of the least important of many, many things. Yeah, and uh, it still took him a little while to kind of let himself, you know, back off from that and be like, oh, okay, I see, it's not really that big of a deal, because in the moment he just like really got hyper focused on that.
+
+And I guess I probably do the same thing in a different way. But as an outsider, it was easy for me to like, hey man, like, you gotta chill out. Like, this is not that big of a deal, you know. but Anyway, any other thoughts on, on this? I hear a saw in your background. Oh, yeah, the, uh, 
+
+[01:02:24] David: I'm not in my office today.
+
+I'm in the shop. for this podcast because they're renovating the bathroom and i thought it would be quiet out here in the shop but apparently they have to cut down trees or something right outside so i apologize this is going to be like this for the next six weeks 
+
+[01:02:43] Bob: Cool. Well, I'm gonna thank our Patreon supporters.
+
+We have a new supporter on Patreon, uh, this time, the Webbranch Woodworks. So, welcome. They actually joined up, uh, a couple of weeks ago right after we recorded the last episode, two weeks ago, so it's the first time we've gotten to talk about them. But they are one of our top supporters on Patreon in the group with Warren Works, Michael Menedjian, Scott Oram, Albers Woodworks, You Can Make This Too, which is Caleb Harris, Chad from ManCrafting.
+
+Works by Solo, Cory Ward, Rich at Low End Design, Odin Leather Goods, and Funkiss Artistic Creations. But they're just our top supporters. There's a whole bunch of other people that support us at different levels, and we are seriously grateful for all of the support. Every bit of it helps. Thank you for that.
+
+And they all get the after show, which we're gonna record now, in just a minute. And they get that through Patreon. Once you sign up on Patreon, it's a separate podcast feed. Uh, it's linked right there on your Patreon page, so you can put it in your podcast player and you get the after show where we talk about more stuff.
+
+So we're going to do that. So if you want to join up, go to patreon. com slash making it, help us out. Big thanks again to all of them and welcome. Webbranch Woodworks. Appreciate the support. Alright, you guys got anything to recommend? 
+
+[01:04:01] Jimmy: Yeah, I got, I got something cool to tell you guys. Something keeps popping up and it's really awesome.
+
+I screen grabbed it so I wouldn't forget. Um, here it is. Anthony Ryan Schmidt is an Instagrammer who takes photographs of models that he makes of cars in settings that are either real life So it'll be a real life old courthouse building in a real town that maybe he lives in, but he sets up this little diorama and photographs it with the iPhone in such a way that it looks like an old timey photograph of, say, like, Stanley Steemer style cars from the 19 teens.
+
+Or he'll make a, you know, 1970s Can Am and put it in a little barn setting and blow smoke and take pictures with lights. It is unbelievable. He has a calendar out. He's 12 years old. It's unbelievable what this kid does. He's 14 now. He, apparently he has Asperger's or something, it says it in his description.
+
+And he does these incredible, beautiful photographs of miniatures that he makes. He makes the miniatures and then he photographs them. What? Isn't that insane? Wow. And I don't know if he has a YouTube channel, I've just been following him on Instagram, so I don't know if he ever shows the details of him making some of these dioramas.
+
+But you would be hard pressed to tell that these are not real. Yeah. Images. From real scale. 
+
+[01:05:28] Bob: I would not know that they were... I see nothing in this entire page of images that would say that they're small. Yeah, so check him out. He has like, he has like tiny, tiny little parking lots. Yeah, he makes, 
+
+[01:05:40] Jimmy: he makes a little parking lot and puts like four or five vintage style or whatever period piece cars on that and then photographs it in front of Town Square and then suddenly it looks like he's back in that era and he'll black and white the pictures and give haze and lens flares all natural in the camera.
+
+Crazy stuff. Say the name again? Anthony Ryan Schmidt with a hyphen between each word. And 
+
+[01:06:06] Bob: there's a lot of them. 
+
+[01:06:07] Jimmy: Yeah, I showed Derek the other day. Derek right away bought his calendar. I think I might buy one too, just to support the kid. 
+
+[01:06:13] Bob: Wow, that's amazing. Yeah, he sells greeting cards and posters and, or prints 
+
+[01:06:19] Jimmy: of some sort.
+
+I know, you know, all the camera, all the, he's, he often shows him in his Instagram reels of him taking the picture and then it shows their final result, but he's using his iPhone. 
+
+[01:06:30] Bob: Yeah. 
+
+[01:06:32] David: Sweet. Uh, so I got to, uh, I'll mention that Jonah Hill documentary. It's called Stutz, which is the name of his, uh, psychiatrist.
+
+Uh, so I've, I'm only halfway through, but. It seems like a very good documentary. And then my other pick this week is, hopefully I'm saying this right, Padula, Padula, Padula Studio. Um, this guy, he made this bench, and it's got some crazy, crazy curves in it. The video's titled, What Isn't Supposed to Do This?
+
+And a couple people sent this to me. And um, You know, like when you get a link to a video, you're like, uh, I'll have to watch this later. I can't, I can't do this now. So I kept putting it off and putting it off. And then I noticed that I got tagged in the video description and I was like, holy cow, this is absolutely amazing.
+
+He said my, uh, Extreme Curves and Woodworking Video inspired him to do this, so he took what I came up with and did something completely, like, off the charts. Um, so it's like, so you're not using forms, you make your own vacuum bags that are kind of temporary just for the project. And, uh, he took it and just went nuts with it.
+
+So, uh, it's so... amazing to just actually see somebody being inspired by something that you did and then just like blow you out of the water with with what he does 
+
+[01:08:06] Bob: it's so cool so yeah he's some gorgeous stuff yeah Wow awesome um well I'm gonna put a link to the video from the Hacksmith I think it's You know, he's a member of the community.
+
+I think it's good for everybody to kind of know what's up. And, um, also just to see the perspective of how they've grown and what they're going through and what the next period of time for them is going to look like. So I'm gonna put a link to that and shout out to James. Hope he's doing all right. Um, you guys got anything else for this week?
+
+[01:08:41] Jimmy: That's good. That's it. 
+
+[01:08:44] Bob: That's it. All right. Well, thanks for listening, everybody. Thank you, everybody. We'll see you soon. 
+
+[01:08:50] Jimmy: Thank you. Love you. No ego.
+

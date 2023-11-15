@@ -1,0 +1,667 @@
+400-Making It
+===
+
+[00:00:00] Bob: You know something that's really frustrating? The other day, we recorded, uh, an episode of No Instructions, and we recorded that face to face. Whereas this one we record online, and we're all talking to each other over video and stuff. Josh and I do that one at a table, across the table from each other, and we have a roadcaster.
+
+[00:00:19] Bob: So we've gotten rid of video on that podcast, and we just do audio. And so we have a roadcaster that records all the audio, and we've only done it that way twice. And so we sat down... We hit the record button, it changed colors, and then a timer started rolling on the little screen there. And we're like, 
+
+[00:00:37] Jimmy: don't 
+
+[00:00:37] Bob: tell me it didn't record.
+
+[00:00:39] Bob: Cool. So we talk for about an hour and 15 minutes. No way. About parenting and about all sorts of good stuff. No! And we hit stop. And then we went to take the SD card out of the back of the machine, and there was no SD card on the machine. So apparently this thing will just create a timer on the screen, but the button is blue instead of red.
+
+[00:01:07] Bob: If there's no SD card. No indication. Not at all. That is 
+
+[00:01:11] David: not cool. Bad 
+
+[00:01:14] Bob: Rodecaster, bad. Very bad Rodecaster, but it made me thankful for this thing but that we use because I hit the button and then these big like a countdown Numbers show up on the screen for us and then we know that it's recording because it says, you know, there's a red dot and it's counting 
+
+[00:01:32] Jimmy: up.
+
+[00:01:32] Jimmy: When it's, I, I, I can't say I do this a lot, but every once in a while, I'll just run a GoPro or something, you know, whatever the DJI. I'll run, I'll run two or three things just to make sure I have an emergency backup track in case like the main thing somehow fails or falters. If it's, you know, if it's something that's hard to do twice.
+
+[00:01:56] Jimmy: Yeah. 
+
+[00:01:57] David: I know we're recording when Jimmy stops cursing and goes into baby voice. I'm like, oh, we must be recording now. 
+
+[00:02:07] Bob: Yeah, we talked about next, like, at least until we get used to that setup, you know, putting our phones on the table and doing voice memos or something, just so we have some sort of backup.
+
+[00:02:18] Bob: But it's really irritating because, I don't know, a month ago or so, we recorded And we had a much more complicated setup, and it recorded, I think it was 11 minutes of perfect audio, and then we turned into robots for an hour, and then it went back to normal audio. So we completely lost that show, too. And it wasn't the Roadcaster's fault, it was because we were running into a computer and using OBS and whatever, whatever.
+
+[00:02:44] Bob: So we've pared down the whole thing to try to get rid of that, and then we just forgot to put an SD card 
+
+[00:02:48] Jimmy: in it. You guys should just also both put your iPhones on near you so you have a close track to each one 
+
+[00:02:53] Bob: of you. Or we could just sit in opposite room, like different rooms and do this recording that we're doing right now,
+
+[00:02:59] Bob: And it would work flawlessly. Like it always does. You know what works 
+
+[00:03:02] Jimmy: really well, it's much better than I expected. My, I have the, the iPhone, uh, what is it? The iPhone watch, what is it called? The iWatch, the big one. The iPhone. I wear an iPhone on my wrist. Such 
+
+[00:03:14] Bob: an old man. You haven't, you haven't named it yet.
+
+[00:03:17] Bob: Yep. The iWatch, right? A, it's the A watch for Apple. It's an Apple. 
+
+[00:03:23] David: It's 
+
+[00:03:23] Jimmy: the Apple Watch. Apple Watch. It's not an iWatch. It's the big one. The bigger one. The newer one. I have that, and I always, I have right on the screen the, the squiggle marks for the audio app. The sine wave for the audio app. So, if you notice here on my watch.
+
+[00:03:40] Jimmy: So, if I interact with someone that I can tell is probably going to go south, I'll immediately hit that and hit record. And. Believe it or not, I've done that a couple of times on my trip because I've interacted with so many people during my, my Australian trip. In one point, my passport was getting checked just randomly in the airport, I think I talked about it.
+
+[00:04:01] Jimmy: And um, so I just hit record on my watch just to see how the audio, even when my hand is at my side or, you know, under my sleeve, and the audio is pretty amazing. You could crystal clear hear everybody in the conversation, even if I'm not, even if my watch is at my side. And maybe under my sleeve. So I just did that more of more as a test.
+
+[00:04:22] Jimmy: I mean, I didn't catch anything that was critical that I would need to bring to court, but I just know that I can, and it's on my wrist. I just summon, I had a weird thing the other day, really weird thing the other day, and I'm saying this publicly in case I go missing. So, I'll say this and then we'll get into it, just since I'm here.
+
+[00:04:42] Jimmy: So the other day I was, I got a phone call from a friend in Canada who always FaceTimes me, he's an old friend, so I pulled over to talk to him on FaceTime, in a little town near me, a town called Norton Hill, and I'm on FaceTime talking and holding my phone up trying to get a good angle so I don't look like a 65 year old man on the phone.
+
+[00:05:04] Jimmy: I was finishing up the call and I noticed behind me, somebody's behind me, like, very, very explicitly holding their phone up, taking pictures of my car. And I was like, oh, this must be a fan. And so I put the car in reverse and I go to back up to say hi to him. And he immediately does like a really hesitation, really, really like, haphazard three point turn and backs out and pulls away really fast.
+
+[00:05:26] Jimmy: And I'm like, this guy's like, up to some no good. So I immediately pull out behind him, because it was a... It was a parking lot with two exits and he went out one and went in the same direction as me. So I came up right behind him and I followed him. I followed him for like five miles and the whole time he's doing like 60, 70 miles an hour.
+
+[00:05:43] Jimmy: I'm like, all right, if I'm F this guy, I'm going to follow him and see what he's up to. I followed him all the way to, I guess what was his house, which is about three miles from my house. And he pulls into the driveway and then realizes, Oh, I just pulled into my driveway, I gotta get out of here in case this guy is crazy talking about me.
+
+[00:06:01] Jimmy: And he makes a quick turn and goes to pull, he has like a two entrance driveway, and goes to pull out the other side, and just as he comes up, I kinda, I don't cut him off, but I come up to him and he stops, and I go, What was that all about? I go, What are you taking my picture for? He goes, Well, why are you filming traffic?
+
+[00:06:16] Jimmy: In this day and age, why are you filming the cars driving by? I said, I was talking on FaceTime. How am I supposed to know that? I go, what difference does it make if I was filming cars? Like, I was talking on FaceTime. I go, I wasn't, I was not taking pictures. I go, did you think that you drove through my, my field of view and you thought I was taking a picture of your car?
+
+[00:06:36] Jimmy: He's like, yeah, that's what you were doing. You were taking pictures of cars. I go, okay, so the solution to that was to take a picture of my car? Who's, I go, I, I go, I go, I wasn't taking a picture of your car, that being said. A thousand times a day your car is photographed. By retail shops you drive in and out of, everything, cops, everybody's photographing your license plate all day long.
+
+[00:06:57] Jimmy: What does it matter if I did it? I go, which I didn't do. Well, I guess I'm just really paranoid and da da da da. I was like, I go, well, I didn't take your picture, if it makes you feel any better. I said, I just needed to know why you took mine in case you wanted to talk. I said, we could have talked like man, but you, you...
+
+[00:07:12] Jimmy: Like, man, but you ran away. And he's like, well, I'm just paranoid. And he's like, I'll delete the picture now. I was like, I don't care if you delete it. I go, you can look me up. I go, I'm popular on the internet. I said, a lot of people know who I am. I just said it like that. I go, you can look me up if you want.
+
+[00:07:26] Jimmy: And I drove away. And yesterday I went to pull into a parking spot at the milk run with my trailer, but when I went to pick up wood yesterday, and as I pull into the parking spot, the person right next to me, I pull up and I'm like, Oh, this guy looks familiar. How do I know this guy? Oh, that's the camera guy.
+
+[00:07:44] Jimmy: And I just drove right past him. Oh, 
+
+[00:07:46] Bob: you should have taken his picture. Yeah. We were 
+
+[00:07:48] Jimmy: gonna be, we were gonna be like
+
+[00:07:54] Jimmy: x carve, Inventables, NEMA, v carve, Arduino, X Tool, Y Axis, So, I don't know if he noticed me or recognized who I was, but when I pulled up and pulled past him, he immediately put the car in drive and drove away semi fast, which maybe that's just his way of driving, or maybe he noticed who I was. That was right across the street from my house, so, now I'm like, and he was faced towards my house, I'm like, now this guy's stalking me.
+
+[00:08:17] Jimmy: But, that's just my paranoia, but the milk run is a popular place that everybody in the whole county goes to all the time. So, that's my little weird story of pointing my camera out the window, talking innocently to my friend about how to build a barbecue. Hmm. You've got to be careful where you point your phone, you're going to get in trouble.
+
+[00:08:35] Bob: For nothing. 
+
+[00:08:36] Jimmy: That's so crazy. For nothing. So now, I don't know if this guy's up to any weird, weirdness, but... I'll just watch my back. 
+
+[00:08:44] Bob: Hmm. Careful. Be careful. Yeah. Seriously. 
+
+[00:08:47] Jimmy: So, so what have you been up to, Bob? 
+
+[00:08:52] Bob: What have you been up to this week? Well, I like took pictures of him, and, uh, man. I'll go first. I haven't really been doing anything.
+
+[00:09:02] Bob: I was telling you guys earlier, like, I, I've been working on the Ghia. Which is good, and feels like progress, but also kind of doesn't feel like I've been making anything. Like, I haven't started any new projects, I haven't... Learned anything especially new, I don't know, the last week or so I feel like I've just been kind of in between stuff you know and it's a little bit weird.
+
+[00:09:28] Bob: It's also summertime and every, from like a school perspective, so my kids are home which changes our day dynamic and our schedule and stuff and so the summers are always a little bit weird for me because They're around and I want to hang out with them, you know, and I want to like be a part of the stuff that they do, and I see them more, but it changes like how I put my time into my days.
+
+[00:09:54] Bob: So, it could just be transitioning from one part of the year to the other for me, but I don't really feel like I've been doing much. I got my, I told you I got my plasma table put together. Oh yeah, did you get it shooting yet? No. Um. So it's running and I, like the machine, the table moves, but the plasma part is not hooked up yet.
+
+[00:10:15] Bob: And that's because as I went to hook it up, I feel like I told you this already, but maybe not. The breaker panels are in one corner of the shop. I had the table in the opposite corner of the shop. And then I went to look up, you know, what kind of, uh, power does this thing need? What kind of plugs, what kind of everything?
+
+[00:10:37] Bob: And was really surprised that it requires like six. I thought it was six, three wire. But ended up getting six, two, because I'm not going to run it in three phase. But my first impression was I have to have an 80 amp breaker, 75 feet of six, three wire, which is like 800 bucks. Um, you know, these, some sort of a receptacle, which apparently there's not an 80 amp receptacle that I could find.
+
+[00:11:05] Bob: And anyway, it was going to cost like over a thousand dollars just to run power to it and its location. And so I started trying to figure out how to do that cheaper. Um, Actually put the whole machine on casters and rolled it from one corner to the opposite corner. So it was right next to the breaker boxes thinking, well, now I need five feet of, you know, cable instead of 75 feet.
+
+[00:11:28] Bob: Then I didn't really like it over there because it would like put it in the wood shop. And even though it's going to be wrapped in welding curtains, I just was kind of like, I don't know. It just didn't fit over there. It was kind of weird. So I started looking at how to get it, like another way to do. The power to it turned out, I only need at most like a 60 amp breaker if I'm running it in single phase, um, and six, two wire.
+
+[00:11:58] Bob: And if I take it down to a 50 amp breaker, the worst case is I'll blow the breaker. But for my research, it sounds like that even doesn't happen on this machine for people. So anyway, everything ramped down a little bit. And so I got all the stuff I needed for the other day. It was like 400 bucks. Way cheaper than I thought to put it in the corner where I prefer it to be.
+
+[00:12:19] Bob: So today, hopefully I'll be able to roll it back across the shop and start running wire and get it. You have a project in mind for it? I do. And I'm not going to say what it is. Cause it's cool. Pretty cool. All right. I think it'll be fun. Still got a couple actually. Um, one that's going to be kind of a fun.
+
+[00:12:38] Bob: It's an idea we've had for a long time that I don't think anybody would replicate, but it's going to be a fun one. The other one is, uh, I'm actually also not going to talk about that one, but the other one, they're both fun ideas. They're both like... I have a really good idea. I'm not going to tell anybody.
+
+[00:12:53] Bob: Yeah, they're both like silly... Impractical, you know, kind of overbuilt things that I just have been wanting to do. So, I don't know. What I, also though, having that tool, like having it available has gotten me, well, I mean, when I have it available, it's gotten me thinking a lot about, is there a thing that I could make on that machine, taking advantage of the machine, that I could make to, Uh, like not a, not an end product, but is there a piece that I could make that would help somebody else be able to make a thing in their shop?
+
+[00:13:31] Bob: So I could sell like an unfinished, and I can't think of what this is, but the idea, the feeling of it is in my head. It's almost like a, I don't know, like a flat packed jig that somebody could take and bend into the final shape. Borer. A bracket that just needs to be, 
+
+[00:13:55] Jimmy: you know, I've been thinking about this for years trying to come up with a cool flat pack thing you could send in an envelope and then you get it and bend it into shape.
+
+[00:14:02] Jimmy: Yeah. The most important the, the coolest thing I keep coming up with is a little step stool. And I'm like, No, that's a steel step stool. I get it something like or a cow coo. I've thought of code hooks and 
+
+[00:14:13] Bob: I'm thinking of something like for a wood shop or for a metal shop like a Bracket or a mount or a I don't know, you know somebody something that somebody with an angle grinder and a welder Yeah, not a lot of other stuff could could then turn it into the thing that they would take advantage of so So i'm trying to brainstorm there, but I haven't really come up with anything yet.
+
+[00:14:34] Bob: Um Past that, I mean, I've been out at the farm working on the Ghia. It's making some good progress, which is really nice. And, um... 
+
+[00:14:44] Jimmy: You're just doing sheet metal and body work on it? 
+
+[00:14:47] Bob: Yeah, I've got, um... I don't know if I told you all about the plan, but... I went out a while back and took the afternoon and walked around the entire...
+
+[00:15:00] Bob: Vehicle with Sharpie and like anywhere that there was, uh, No it's black, the whole car is black. Yeah, pretty much. Uh, Looks like a key pen undrawing. Yeah, I'm not going to paint it. I'm just going to Sharpie it. Now I went around and drew a circle around every piece of metalwork that had to be done. Not bodywork, but any pin holes, any, you know, rust through spots that needed to be, a patch needed to be put in and I went around the entire thing.
+
+[00:15:29] Bob: Uh, kind of the top half because the front and the back bottom have to be completely replaced. There's just, there's just not enough metal there anymore. And I have panels to replace most of that. So I kind of ignored the bottom half of the front and back, walked around the top. The inside, and just drew circles around everything, and it was really tedious to go around and, you know, do everything.
+
+[00:15:55] Bob: And then, in the last week, I've been going around, and I started in one corner, and I just looked for black circles. And then I went in and I patched it, or I welded, filled a hole, or I used, like, there's this, uh, Kind of like steel, epoxy mixture stuff. I don't know. It's kind of like J. B. Weld, but it's, there's a, it's a metal version.
+
+[00:16:18] Bob: I guess J. B. Weld is metal too, but anyway, it's a filler and for really tiny places where I didn't think I would be able to. You know, fill it with weld, because some of the places, if you try to fill it with weld, you end up making a bigger hole. Yeah, if you can't back it with something. So I did a combination of all those three things, but it took me an afternoon.
+
+[00:16:41] Bob: It was so wild. I got all the way around the car. I'm like, whoa, the metal's done. I mean, you know, for the top half. 
+
+[00:16:49] Jimmy: And how, how are you filling them with like dots of weld? Yeah, 
+
+[00:16:52] Bob: it just depends on what, like some of the places I had to, you know, cut a patch, a little square out, and then beat it into shape to follow compound curves and re weld that in.
+
+[00:17:02] Bob: Some places I could back it with a piece of, um, copper, and then just like fill it really tiny with enough weld just to kind of fill the pinhole. Um. Yeah, and there's still tons of surface where the, you know, the surface is not flat because the rust ate into it. So it looks like there's some sort of crazy texture in it.
+
+[00:17:23] Bob: That's all stuff that's going to have to be body filler. Um, but I've got basically the entire. Car now ready, the body now ready to be epoxy primed. And so that's been my goal is the longer it sits out there, the more rust is just showing up on the surface. So after all of this work, I covered the entire thing with a product called rust mort, which is like a rust converter.
+
+[00:17:49] Bob: You know, it's like Ospo or any of those other ones where it turns the surface into like a black primer, paintable primers thing. I did that. Let that dry for a few days, and then I went back yesterday and basically just sanded the entire surface of the car, like everything, uh, which took forever, but just enough to, when you use a product like that, it converts the rust into an inert kind of black primer stuff, but it also is this, creates like a flaky surface.
+
+[00:18:18] Bob: It's really strange, but you have to get rid of that. So I kind of real lightly sanded the entire surface of the car, cleaned it off. And so now today or tomorrow it's ready for primer and I'm going to get it coated and then it's going to be sealed up and then I can start doing the body work on top of that for his body filler.
+
+[00:18:38] Bob: So it's been really good. It's progress. It's like significant progress moving forward and getting it all one color is going to be great. Pretty wild to me because I've been looking at it like it is for so long, but it's not a lot to show off either, you know, so it feels productive in one way, but not productive in another way.
+
+[00:19:00] Jimmy: So, you know, I found that it difficult to make videos about cars. Interesting. Yeah. Even I just, I published a video of me and Rob fixing up a John Deere tractor and I just put it out documentary style. I mean, I try to get creative, but. It's hard to make the visual not look exactly the same in every frame.
+
+[00:19:23] Bob: It's been weird thinking about this, uh, the process of this car going forward. How do I, you know, I don't want to do like... Sheet metal video and more sheet metal, bending a piece of sheet metal, welding. You know, it's like, I don't want to do the same thing. So I'm going to try to bounce around between this one to get it ready for primer.
+
+[00:19:44] Bob: That's going to make it look significantly different. Then I'm going to jump over to the chassis where I have to cut out the floors and put in new floors. That's totally different. And then I'm going to jump back to body filler, which is totally different. Then I'm going to go back to engine work, you know what I mean?
+
+[00:19:58] Bob: And try to really. every video like jump around it all has to be done but i want to keep people's attention and interest and stuff so right now is it 
+
+[00:20:09] David: is it hanging 
+
+[00:20:10] Bob: on your rotisserie oh that was another big thing i took it off the rotisserie oh which is pretty wild so when i was putting in the new um like heater channel bottom section underneath the door when i did the second one of those to do that i had to level the car So I bought this like, you know, like a square rolling frame box, I don't know what you call it.
+
+[00:20:37] Bob: And so I put that, I built that underneath the rotisserie and then was able to lift that thing up to meet the car and then leveled it. So the rotisserie has been attached but not really doing anything for a while. And so yesterday I was, I was really anxious about it because I, I didn't think it was doing anything for the car, but I didn't know that for sure.
+
+[00:20:59] Bob: I couldn't prove it. And so I was worried that I was going to like undo a bolt and then the car was just going to like taco itself in half and, um, but I was able to unbolt it and just pull both sides out of the car and it was still there and nothing creaked and nothing, it was so weird, but really cool.
+
+[00:21:17] Bob: Nice. So. So I've got to use the rotisserie if anybody wants it. I don't think I'll need it again. Oh, wow. Until the next one. And it takes up a lot of space. Actually, it's not too bad because I made it so that the, the two ends. Um, are kind of like standalone. And then the bar that runs across the center was, you know, like bolted in.
+
+[00:21:38] Bob: Um, and so, and each end has three wheels on it. So it stands up by itself. You can take off all of the sticky outy parts. And then it's just like a thing that you can roll around. So, um, not too bad. Not bad enough that I would want to cut it up and get rid of it. You know, I can keep it around just in case I need it or somebody else needs it.
+
+[00:21:58] Bob: But nice. That's what I've been up to. David, what have you been up to? I 
+
+[00:22:02] David: don't have a lot to report on this week. I'm still finishing up a couple of previous videos that we talked about last week. I started getting supplies for the next couple of videos that I want to. I don't want to get too involved in just yet.
+
+[00:22:17] David: Um, not that they're super secret. It's just that they'll, it'll take a few weeks for them to come out. But we went to Ikea up near Detroit and got a couple future project modifications that I think should be fun. So yeah, that's, I don't. I think we're going to have to just skip what I'm working on this week because there's not much to report on.
+
+[00:22:40] Bob: Oh 
+
+[00:22:40] Jimmy: boy. Oh boy. Oh boy. It's up to me. 
+
+[00:22:44] Bob: Yeah. Jimmy's just been taking pictures of traffic. That's it. 
+
+[00:22:48] Jimmy: Yeah, I've been sitting in traffic taking pictures of random cars. Cool. Uh, what have I been doing? I'm working on the pool table and I've made some pretty good headway. This time last week I had a pile of walnuts.
+
+[00:23:01] Jimmy: And poplar. Poplar is sort of the substrate wood. And the poplar is the skin. And I got it put together pretty good. Just the top, the rail that goes around the three slabs of slate. So this is a proper pool table where it's a slate top. And the slate tops always come in three pieces. And today I'm going to begin the, uh, research on the legs.
+
+[00:23:27] Jimmy: So it's going to be, it's a walnut top which bolts onto the slate, and the slate sits on top of the base and the legs. So when you see a pool table, this is something I never knew, I always thought the slate drops into it like the pool table's a big frame. That's what I always assumed. And the slate drops in it like a piece of glass, underneath the bumpers, and then you put the bumpers on.
+
+[00:23:50] Jimmy: But the construction of a pool table is, there's a base that's smaller than the slate. The slate sits on the base, and you attach it and level it. And then the frame sits on the slate. So the slate is sort of the, uh, the in between the base and the frame, the rails. So the rails attach to the slate, and the slate attaches to the base.
+
+[00:24:09] Jimmy: So the, 
+
+[00:24:10] Bob: so when you gotta move it, you're, are you separating it in that way? 
+
+[00:24:13] Jimmy: Is that how you Yeah, yeah. To move it, unfortunately, you gotta probably take it mostly completely apart. Mm-Hmm. But yeah, you, so if you grab a pool table from its corner and go pick it up, you're literally like putting pressure on the slate.
+
+[00:24:25] Jimmy: You're putting up the slate where it's attached to the base and probably could break it unless you pick it up from the base completely underneath with like a pallet jack or something. But this table is. Each one of those slate, there's three of them, are at least a hundred and something pounds, maybe 150 pounds each.
+
+[00:24:43] Jimmy: Like I could not move one alone. There's no way I wouldn't be able to move it. How thick is the slate? It's at least one inch thick. And then it's about one and a quarter inch thick. Wow. Maybe one and an eighth. And it's got wood underneath it glued to it. And the wood is part of the substructure of keeping it all together.
+
+[00:25:02] Jimmy: So it keeps it from breaking right? Um, potentially, I think it's really more like it's like the wood is glued to the slate and then onto the slate, onto the uh, the wood you wrap the, you staple in the So the felt, so the felt gets stapled to the wood, which is why the wood is there. Anyway, after all is said and done, I'm happy with the progress.
+
+[00:25:23] Jimmy: I got all the pockets in place. And now today I have, you'll see on Instagram, I have the frame lifted up. And now I'm going to drill through and put the pocket screws. And then I got to put it back onto the slate. And mark all the holes where the bolts come up through the slate into the rails. So I'm taking it step by step and the guys over at Blatt Billiards is guiding me through it.
+
+[00:25:43] Jimmy: Jeff over there, he's guiding me through it. And around the same time, Jeff asked me to explore making a badge for them. So that's what I've been showing on Instagram, this badge. For their custom pool table set. So I've been CNC ing these custom badges. I've made three of them so far as a test. So I'm gonna be experimenting with that.
+
+[00:26:01] Jimmy: And then, oh, uh, July 1st, if anybody wants to come to our go kart race day, it's July 1st here at the go kart track in East Durham. And I'm, today I think I'm gonna break ground and start working on my go kart. I'm gonna make a go kart that looks like an old school, like a 1920s go kart. It has like wire wheels that I got at Tractor Supply, and it's gonna have like an hokey old Model T wheel, and it's gonna maybe look like it's on a pallet, because the theme this year is wood, so I'm gonna use like pallet planks, not necessarily, it's not gonna be the proportions of a pallet, it's gonna be long and slim like a proper go kart, but the top will have pallet decking on it.
+
+[00:26:42] Jimmy: on a steel frame so i'm going to work on i'm going to start working on that today i bought an engine from harbor freight and i'm going to cut i'm going to cheap out just to see if it works i'm going to have the shaft of the engine just lean on the wheel and see if i can have the thing propel like that.
+
+[00:26:58] Jimmy: So I'm going to have the engine shaft lean on the wheel and propel the car like that. Just because, you know, there's some guys like my buddy Art comes, Art Clement comes to this thing with like a rocket. Like his whole thing is like, literally like, I just want to be like, do do do do do do do do do. I just want to Oh, I made major moves this week, by the way.
+
+[00:27:21] Jimmy: I keep talking about using the racetrack building for my printing press. On Sunday, Rob was here and we got inspired and I put nine printing presses in the side room over at the racetrack building that I prepared that room three years ago before COVID to do this. And we finally did it 
+
+[00:27:36] Bob: the other day. I was actually going to ask you, like, what was up with the racetrack?
+
+[00:27:40] Bob: Cause we haven't heard about it in a long time. Yeah, 
+
+[00:27:43] Jimmy: no, I mean, it's just, I got so many other financial obligations and now with the new house. Oh, by the way, this Friday, I'll put up a video of me introducing the new house that we got, the restoration of the new house, you'll see the beginning. And I found, I found a listing online of the house before it was purchased by the owner we got it from.
+
+[00:28:01] Jimmy: And it's incredible. I interspersed the walkthrough with the pictures that I got online. of this house. And the house, by all accounts, looked like it was in really good shape. Not, not laid out well, but some of the rooms look really good. But the house is completely gutted down to the last nail. There's nothing in there now.
+
+[00:28:23] Jimmy: But I interspersed the walkthrough with pictures from the past so you could see what the place looked like four years ago, five years ago. No, that's cool. Yeah, so you get a chance to see where it was, where it is, and obviously where it's gonna be going is, I described the vision. I don't really, I only show one CGI that shows what a porch would look like.
+
+[00:28:41] Jimmy: But going forward we're going to tackle a lot of the different things. I think the next video might involve flooring and wiring because Patrick wants to strip the wiring out of the house entirely and just start from scratch. So we're gonna rip every wire out of the house and start over. 
+
+[00:29:00] Bob: I mean, I guess, yeah, you're in a position where you actually can do that because everything's exposed, right?
+
+[00:29:06] Bob: Totally. 
+
+[00:29:06] Jimmy: 100%. Yeah. 
+
+[00:29:07] Bob: Wow. That's pretty cool. Yeah. It doesn't happen very often. Yeah. I usually have to work around walls 
+
+[00:29:14] Jimmy: and stuff. Yeah. And you could see too, like, I, I don't really know how big the property is on the north side of the road because there's no tree line at defining anything and there's a neighbor on the back and a neighbor on the side, but it's just farmland.
+
+[00:29:27] Jimmy: It's not. There's no houses or structures that define anything. There's no fence or anything. So the house just looks like it's on 500 acres, sitting alone. Well, the neighbor is nearby. There's one neighbor on one side, but on the other side, it's just a huge open field. And when you see the pictures in the listing, you could see where the property line is defined by the tree line, which is completely gone now.
+
+[00:29:45] Jimmy: He cut the trees, completely gone. So it gets a better idea. And I didn't know any of this till I was doing the edit yesterday and looking at all these pictures up close. So, it's interesting. And then of course the graveyard is prominently featured in the video, you'll see that. So, that's what I'm working on, and then, uh, Yeah, I'm excited to start the go kart today, because it's, it's something I've been thinking about.
+
+[00:30:08] Jimmy: And I have, I found myself with a little window of time. The pool table build was going to go to a woodworking show in July. It was going to go and sit in the type on booth, but that's not happening now. So the pressure was off a little bit. Everything had to be done and ready to go like by first week of July.
+
+[00:30:25] Jimmy: Is the show still 
+
+[00:30:26] Bob: happening 
+
+[00:30:26] David: or just the booth not happening? 
+
+[00:30:29] Jimmy: No, just the budget for moving, moving and set it up. It would have been like a big. Debacle, because to move this pool table it's not, it's not like a piece of furniture, it has to be set up properly and if it's set up in a booth they're going to send the guys from Black Billiards to set it up properly and I would have to be there to set it up properly.
+
+[00:30:45] Jimmy: I think they all just like realized what a time commitment it was and they said forget it. Where's it going to end up when it's all done then? Probably in the, in the new farmhouse. Possibly. Wow. 
+
+[00:30:58] Bob: Yeah. I mean, I can probably find room for a pool table. You know, if you need to get rid of it. We have 
+
+[00:31:05] David: one, it never gets used.
+
+[00:31:06] David: It's a place to fold blankets. 
+
+[00:31:11] Bob: Yeah, I don't know that I would use it. Yeah. Although we did play pool when we went on our retreat this, uh, in January, we played a lot of pool because there was a pool table at this place and we ended up coming up with a new game. And, um, since then, uh, Anthony's been going to the arcade here in town.
+
+[00:31:28] Bob: There's like a local arcade and they've got a pool table and he's played that game a couple of times there. And I've never been able to make it over there to play with him, but we keep talking about it, so. I think we probably would take advantage of a pool table, but... You know, I'm not going to buy one just to find out, so.
+
+[00:31:46] Bob: So we don't really have a topic today, uh, at all, but this is episode 400. Which is kind of wild. And I think it's also kind of interesting, uh, that we don't have a topic and we're 400 episodes into this show. We've run out of ideas. Eight, nine years. I don't even know how long we've been doing it. How 
+
+[00:32:10] Jimmy: come I can't remember when we started?
+
+[00:32:12] Jimmy: I know I asked that question a couple weeks ago and 
+
+[00:32:15] Bob: I think it's like eight. 
+
+[00:32:17] Jimmy: No. So it's 14, October 14, right? Sounds 
+
+[00:32:21] Bob: right. Maybe 13, 14. I don't know. Let's 
+
+[00:32:24] Jimmy: ask the 
+
+[00:32:25] Bob: chat. Yeah, but so like, it's kind of interesting. Not, I'm not promoting that we stopped doing the show in any way whatsoever, but it is kind of an interesting thing to think about, like, how long do you do something like this?
+
+[00:32:39] Bob: How long do you have, and not, not like for money or not for, you know, keeping a thing alive, but how long do you, do you have, continue to have things to talk about on a subject before you're beating a dead horse? 
+
+[00:32:59] David: I go back and forth and I always feel like I am out of ideas. And I have so many ideas and I just like what we've done pretty darn good without having a topic for 386 of those episodes and and people enjoy just hearing us chat or at least say some there's been people that have said that so and we keep We don't seem to lose that many listeners.
+
+[00:33:33] David: So I'm assuming they enjoy just us chatting. Um, but we almost every single time we get together in the morning to record, it's like, what do you guys want to talk about? And then there's like this 10 second pause. Nobody has anything. And, but it always seems to work out. And I feel like that that's just my life.
+
+[00:33:56] David: Like I don't have any ideas. But things just keep working out and I still somehow come up with good ideas at the last second. 
+
+[00:34:05] Jimmy: I think the way we can continue to keep talking is there's so many new Problems to solve on the regular. We're always challenging ourselves. Bobby talking about the car, I'm talking about how not to be misconstrued filming people in public, how to be a creeper better, how to be more conspicuous creeper, inconspicuous creeper.
+
+[00:34:26] Jimmy: No, just, you know, like it's just life. And I think hopefully that's how people identify listening if life just rolls on. Keeps changing, and it's funny how, you know, we, we never, what's amazing about us three is that we never have to make a plan. We've decided, because we're three responsible adults, we've decided that this is the moment we record.
+
+[00:34:48] Jimmy: And if ever there's a problem, we'll discuss that. But when there's no problem, the plan is the plan, just keep going forward. And every Wednesday, every Tuesday night, I think, oh, I can sleep late tomorrow, like that means I can sleep, I can get out of bed at like 9. And I'm like, oh, I've got to do the podcast, which means get up at 8, today I have the dogs, I've got to walk the dogs, and feed the chickens, so, it's funny, even though we're on a crazy schedule, every Tuesday night I forget we have the podcast in the morning until I go back to bed.
+
+[00:35:16] Jimmy: And I'm like, laying in bed, I'm like, okay, what time should I set my alarm tomorrow? Ah, podcast, gotta do the podcast. Again. Again. 
+
+[00:35:24] Bob: Those 
+
+[00:35:24] Jimmy: guys. Again and again. Dave, do you wanna, do you wanna talk about what we talked about on our Zoom call? Do you want to talk about that? Like just bring that up and see if the fans have any interaction?
+
+[00:35:34] Jimmy: I think it would 
+
+[00:35:36] David: be fun. Is it, it's so early in the process. Is it 
+
+[00:35:39] Jimmy: okay to talk about that? I think so. I mean, we can get some feedback and it's exciting to announce for 400. Yeah. Okay. Sure. Yeah. Dave's getting nervous. Well. It's so because it's so early, but I mean, it could be fun, probably take 
+
+[00:35:55] David: at least a year and a half to happen.
+
+[00:35:57] Jimmy: We, we don't hide anything from anybody. Okay. So it could happen probably faster if we, you know, if we come up with 
+
+[00:36:04] David: the ideas. 
+
+[00:36:05] Bob: Well, we have to do our Christmas postcards that we're all going to print first and send those out from four years ago. 
+
+[00:36:10] Jimmy: Yeah. Yeah. Well, I'll, I'll introduce the idea. So we've been approached just to keep the details easy to understand.
+
+[00:36:17] Jimmy: We've been approached by basically a producer. That wants to produce a live show for us. And we want to do one episode, one live show. And if that goes well, that might lead into other live shows. But in general, the producer is asking us to come up with an idea. The three of us to come up with an idea.
+
+[00:36:35] Jimmy: That's kind of like, for lack of a better description, the practical jokers live show, we're not jokers in that way, but we would be more. A show that has three or four parts. In this part, we're gonna do Q&amp; A. Obviously, we'll always be probably toward the end, but in the beginning, we're gonna talk about this problem solving event, and then part two, we're gonna play ping pong, and the winner wins.
+
+[00:36:59] Jimmy: I don't know. I'm just thinking out loud, but that's what we need to sit down, and we need to come up with like a three or four part 90 minute show, and part of that will be Discussing podcast topics potentially and Q and A, but to come out and just do a live podcast, we feel we need to, we need to do more entertainment, edutainment.
+
+[00:37:19] Jimmy: Yeah. I 
+
+[00:37:20] David: feel like to answer Bob's earlier question, like, when do you know when to stop doing something? And we kind of have this running joke in our marriage where like, if we plan something for. August or September. I know that I'm at least going to be married up until that point, right? So if we are planning to making a podcast tour, I w I know that this show is going to at least last until that particular point.
+
+[00:37:47] Jimmy: So that first, that first test show, I think 
+
+[00:37:50] David: for the listeners. It, what would make you leave your house to go watch a live version of the Making It podcast? What, and it's, and it's gotta be more than just, just us talking without a topic. I think there, it'd be fun to have this interaction with an audience.
+
+[00:38:08] David: What 
+
+[00:38:09] Bob: makes it live? One thing that I think would be fun live, and it would take advantage of our skill sets and the impromptu nature of this conversation that we always have, is to do like an interactive thing with audience members where they're building a scenario for us to solve. And so, I don't know the mechanics of this, but it would be like, you know, a A comic who's up, like, asking for, like, leads to, to get to a joke, you know, they ask somebody's job and whatever.
+
+[00:38:41] Bob: So maybe it's something like that where you, um, you know, you ask people to like throw out some kind of mad libs, like, give me a noun, give me a verb, give me an adjective. And then you figure out, you feed those into some sort of a problem system. Then then we have to solve the problem on stage. Um, some sort of interactive thing where they are causing us to work, you know what I mean?
+
+[00:39:06] Bob: Not work, but they're causing us to have to. Do what we do together. And I think that would be really cool. And then maybe along the way, there's more drawing them in to solve parts of it, or I don't know. 
+
+[00:39:19] Jimmy: The idea, though, of being blindsided with problem solving, I think, is really, really important because it's what this whole culture is about.
+
+[00:39:28] Jimmy: Yeah, for sure. That, that, we're thinking about potentially, this has just been thrown out as a brainstorm, doing the first, the first, the test show, what's called the test show, in Chicago area. Right? Isn't that what you said Dave? Yeah, 
+
+[00:39:44] David: something, something central, something, a bigger city that we know we could, we could get some people to fill some seats.
+
+[00:39:50] Bob: Yeah, easy to fly into, something like that. Yeah, I had thought, when we talked about this a couple years ago, I had thought about, Chicago or Atlanta. Atlanta being like a good hub for getting to, but yeah. 
+
+[00:40:03] Jimmy: And then I would want to give away like a... Heavy piece of equipment at the end, there's a draw. Makes you 
+
+[00:40:09] Bob: fly home with one of your trucks.
+
+[00:40:11] Jimmy: Yeah. Somebody gets to win the band saw or saw stop or something, you know, just, to give some real value to potentially buying a ticket for the show, if we can figure that out. Did I ever tell you guys the story when I was at the, I probably told you the story. I was at. I went to Daytona Beach in 2006 with my, I don't ride a Harley anymore, but I used to ride a Harley with some friends and we all traveled down to Daytona Beach and it was like five of us in Harleys driving all around Daytona Beach and the Everglades and stuff.
+
+[00:40:38] Jimmy: We had fun. And we kind of wandered into this thing called the Rats Hole where they, it's all, beat up motorcycles. It's like an adventure. Part of the event, it's like not necessarily a place, but they call it, like somebody organizes the rats hole and it's usually really custom motorcycles that you have to kind of pay extra to look at.
+
+[00:40:57] Jimmy: And so we went into the rat's hole, and as we walked in, we had to pay like two bucks to get in, and as we walked in, the guys all handed us tickets, and they're like, Don't, you know, don't lose these tickets, you could win a motorcycle, and we're like, okay, whatever. And we were with one guy that smoked so many cigarettes, nobody could remember his name, they just called him Cigarettes.
+
+[00:41:12] Jimmy: So Cigarettes was with us, and we were at the event, and we sit, we sit inside the thing, and now it's like, and me and my buddy Dave kept joking, we're gonna win this motorcycle, we're gonna win this motorcycle. And we're sitting, we... We've been there for like an hour, and then we finally go into the auditorium, they need to keep the announcement, we're going to draw the motorcycle, everyone get in the auditorium, so we go in the auditorium, we sit down, me and Dave, and our other crew, they're outside, they're like, don't take this thing serious.
+
+[00:41:39] Jimmy: And, we had to write our name on this ticket as you walk in, so, the drawing, the guy will announce your name, so. Big build up, some, they get some sexy girl to come up and pull the ticket, and she reads the name. Leaf. Leaf was his name. He was a Swedish guy. Leaf cigarettes was, they didn't say cigarettes, they said Leaf cigarettes.
+
+[00:41:58] Jimmy: And me and Dave stood up, we're like, whoa that's, that's, they're like, did you win? Is it you? I'm like, no, no, it's our buddy, but he's outside smoking cigarettes right now. Because as we walked in, Leaf goes, I'm gonna smoke a cigarette, I'll be right in. But they drew his name, and he was outside smoking a cigarette.
+
+[00:42:15] Jimmy: everybody's like screaming his name from the thing we got this like everybody's whooping up leaf come inside you want a motorcycle because the guy goes I'll give him 90 seconds to get in here 90 seconds then big countdown 5 well okay we're gonna draw another one and the girl gets back up on stage and she's reaching in the bucket leaf walks in and sits down next to us he goes what I miss oh man you just miss winning a iron horse it was like a 1200 CC sports to that year 2006 Bordster 
+
+[00:42:44] Bob: And that kids is why smoking is bad.
+
+[00:42:47] Jimmy: We go and like, and, and like, we scream to the announcer. Like, this is Leaf, he's, this is him. Like, they're like, too late. Sorry, it's too late. Oh man. And man. And everybody was like saying, see, you gotta, it was just like the J, same joke. That's why smoking is bad. So he lost, he didn't believe, he didn't believe it like the whole week.
+
+[00:43:04] Jimmy: And like we were talking a stranger like. Didn't this guy, didn't they call the guy to leave? Like we were pulling strangers over to make him believe. Cause he thought we were pulling his leg and cause we got everybody engaged. It was like maybe a hundred people in the audience. It was a really small thing, 
+
+[00:43:18] Bob: but that was 2006.
+
+[00:43:20] Bob: Yeah. Daytona beach. So I'm trying to figure out if that was the year that I was at bike week, because I went to the rat's hole as well. No kidding. Yeah. Did they have the big, uh, motorcycle cage thing in the back? But the guys, 
+
+[00:43:35] Jimmy: like the, it was there. I don't honestly don't recall. 
+
+[00:43:38] Bob: So they had the like wheel of death or ball of death or whatever they call it.
+
+[00:43:42] Jimmy: There's always the ball of death is always those things. But I don't remember where it was in relationship to that event. I just remember walking in and there was like a motorcycle, like was like made into like a skeleton motorcycle, like coffin y thing, which I thought was cool because it's my, my jam.
+
+[00:43:55] Jimmy: And then there was like. A bunch of motorcycles that were like really decrepit and like the whole goal is like how many trinkets you can hang on it and how dirty you can keep it and still drive around the country with it. Those are all there. So rad 
+
+[00:44:08] Bob: bikes. Um, when I, my previous life, when I was, um, in the hell's angels.
+
+[00:44:16] Bob: Yeah, no. Um, we, so I had a, a web design company and we made websites for a bunch of like the bike builders. All right. Uh, yeah, we worked with Billy Lane and did his website for a long time. No kidding. Billy 
+
+[00:44:32] Jimmy: Lane was there. I met Billy Lane on that trip because my buddy was producing Blood, Sweat, and Gears for him.
+
+[00:44:37] Jimmy: Okay. 
+
+[00:44:38] Bob: Yeah, we were there. We were in the same room as his crew. And then, unfortunately, 
+
+[00:44:43] Jimmy: six months later, Billy Lane got arrested for drunk driving and killing somebody. Yep. 
+
+[00:44:47] Bob: Yep, we were there. We were building the website for 
+
+[00:44:50] Jimmy: the chills. Did you remember them pulling Leaf's ticket for the motorcycle? 
+
+[00:44:54] Bob: No, no, I don't know that I was there in that moment, but, um...
+
+[00:44:58] Bob: Did you see 
+
+[00:44:58] Jimmy: them push start on my motorcycle every five minutes because I blew the starter gear? 
+
+[00:45:02] Bob: That one motorcycle? Yeah. That one guy on that one motorcycle? 
+
+[00:45:05] Jimmy: My, I had a brand new, my motorcycle had just been rebuilt so the engine was breaking in and like the compression was getting stronger and stronger and stronger and stronger.
+
+[00:45:13] Jimmy: And one time I went to start it and it backfired and stripped the teeth off my starter gear. And so from that point on everybody pushed start and then we went to Everglades Harley Davidson and they changed it for me. We all waited around and then when we left Everglades Harley Davidson we drove all the way back to Daytona.
+
+[00:45:28] Jimmy: Same thing. I went to start it and it backfired and stripped all the teeth off my starter gear. So from that point on, every time I had to go somewhere, everybody had to push start me. 
+
+[00:45:37] Bob: There you go. So I'm trying to find pictures to see if I can, I'm looking at these pictures of 
+
+[00:45:44] Jimmy: Billy Lane. you know Ed, um, uh, I can't remember Ed's name.
+
+[00:45:49] Jimmy: Uh, he was the producer of Blood, Sweat Gears for, he was the producer of my first TV show. That's how I, I went over and I was hanging out with Billy Lane because of, uh, my buddy Jason. Jason Edwards was the producer of. Oh! Do you know Jason 
+
+[00:46:03] Bob: Edwards? Uh, I don't remember the name, but I might have, yeah. 
+
+[00:46:06] Jimmy: He was the southern guy.
+
+[00:46:07] Jimmy: He had a southern accent. We always picked on him because he had a southern accent when we met in L. A. He was the only guy in L. A. with a southern accent. Yeah. And so when we went to Daytona, we went over to Billy Lane and, and Jason was there and we all met and, and I was really surprised, I mean, I'm not like such a teetotaler, but I was really surprised that Billy Lane was like living so hard up to his character of like squigging Jack Daniels out of a bottle while he's like holding one mic, one hand has a microphone, the other hand has a bottle of Jack Daniels and then unfortunately it all came crashing down when he drove over a state Employee on his moped and killed him.
+
+[00:46:40] Jimmy: Yeah. And he ended up doing eight years in jail. Yep. 
+
+[00:46:43] Bob: Yeah. So we used to work with him. Um, we worked with Mitch Bergeron, do you remember Mitch name? Bergeron remember? Um, and they did the, the biker build off thing. I think they were both a part of that on discovery. Yeah. Yeah. There was somebody else that we worked with, but we were there for at least one year, maybe two years at bike week.
+
+[00:47:03] Bob: I don't really remember, but we did the Choppers Inc website and then. Blood, sweat, and gears is going on at the same time. Anyway, that's so weird. Small world. Yeah. There's a picture here of Billy and I think we were at this event and, um, Paul, the leather dude. Oh, Paul Cox. Yes, is right behind him and now that I see that I remember, oh yeah, I met Paul Cox that one time.
+
+[00:47:29] Jimmy: Yeah, Paul Cox is online. He's on Instagram. 
+
+[00:47:34] Bob: But anyway, tell us one of your motorcycle stories, David. 
+
+[00:47:39] David: Well, I had a Honda Rebel at one time. Um, and oh yeah, that's as interesting as it gets. No, there was , is that like the 
+
+[00:47:47] Jimmy: little scootie 
+
+[00:47:48] David: one? It's, it's, it's um, basically one of the smallest motorcycles that you can get.
+
+[00:47:53] David: It's, 
+
+[00:47:54] Jimmy: it's the starter motorcycle. It's with the guys in New York to deliver 
+
+[00:47:56] David: food on. Yeah. Yeah. When I was working at the ad agency developing websites to tie this all in, um, there, at that time there was maybe six or seven of us working in there. And the one boss. Just decided to get a motorcycle which then the other boss also decided to get a motorcycle and and then The first boss wanted to sell his motorcycle to get something bigger and I bought his and so like there was this motorcycle trend at the at the ad agency and I went through and it was so fun I went through the motorcycle course here in town.
+
+[00:48:37] David: It was like, it's like a free thing or maybe like 10 bucks or something. But for a week you go every day, uh, for an hour or two. And I've never ridden a motorcycle in my entire life. And they just start you off from scratch. You, you, they, you sit on a motorcycle. You don't even turn on, you just walk it down to the other end.
+
+[00:48:56] David: And then, 
+
+[00:48:58] Jimmy: and then you slowly work your way up. If you want to learn, it's really smart to do it. And it was, 
+
+[00:49:02] David: uh, I learned so much. It was so fun. And one day I want to do it again. So I got the motorcycle and I had it for a couple of years and then I sold it and got a, uh, I downgraded to a scooter, which was a little bit more fun and got like.
+
+[00:49:19] David: 80 something miles to the gallon. And then I, I sold that and now I just have a bicycle. I keep, I I, I started with a motorcycle. I went to the scooter going back. Now I have a bicycle. Yeah. 
+
+[00:49:32] Jimmy: Big wheels. Next. 
+
+[00:49:34] Bob: It's funny because around the time that we were talking about in our company, there was also like that little motorcycle craze where like my business partner got a motorcycle and then another one of the guys did.
+
+[00:49:46] Bob: And then another one of the guys did. And I always had the Vespa. So it was like all of these guys with like Hondas and Harleys and whatever. And then. Me, I'd putter up on my old 1962 Vespa, but Jimmy never had any interest. 
+
+[00:50:01] David: The funny, you mentioned the big wheel because I just bought a plastic big wheel.
+
+[00:50:06] David: Uh, so I could use that as a model to turn into a wood version of it. Oh, very 
+
+[00:50:13] Jimmy: cool. 
+
+[00:50:13] David: So yeah. Spoiler 
+
+[00:50:15] Bob: alert. 
+
+[00:50:18] Jimmy: So yeah, so that was, uh, that was my thing. So if, if you decide to come to our live show and we're going to give away a saw stop or something, we're going to pull a ticket. We're going to get a sexy girl up on stage to pull a ticket.
+
+[00:50:28] Jimmy: Sexy woodworker girl, like holding like a saw in a bikini. It's going to pull 
+
+[00:50:32] Bob: a ticket. No, we're not. I'm going to 
+
+[00:50:34] David: run this by your wife and see. Don't even joke about it. And, 
+
+[00:50:39] Jimmy: and, uh, you know, don't be outside smoking. No one smokes cigarettes anymore anyway, thankfully. 
+
+[00:50:45] Bob: Okay. So this is really cool. Uh, just, you sent me down memory lane.
+
+[00:50:48] Bob: Now I went to the Wayback Machine. You ever used the Wayback Machine? No. So the Wayback Machine is a, it's an internet archive of old websites. And so I went there and looked up Chopper's Inc and actually found the websites that we did for them. And you can look at it like. Took snapshots all the time. Um, so you can see them in different dates and stuff, but I'm going to put a link in the chat so you guys can see what the, the site was, there was a flash version of the site, which probably is not even there anymore, like probably not accessible, but this is the low bandwidth.
+
+[00:51:24] Bob: Maybe it is. Of course, I don't have a flash player, so I wouldn't be able to play it. But, anyway.
+
+[00:51:35] Bob: My son just walked in and yelled at me. Because he didn't know I was recording. Sorry. Anyway, this is pretty wild to see, because this was a very long time ago. There was another, um,
+
+[00:51:49] Bob: Did we do the website for the rat's hole? I think we did. I think we did because they have like the, the show there, right? Like the, it's like a competition, like a motorcycle, yeah, you got to vote 
+
+[00:52:04] Jimmy: on what's the best, coolest. Yeah. Okay. Yeah. So the Rats Hole is like, it's Rats Hole is like its own brand that goes to all motorcycle 
+
+[00:52:10] Bob: shows.
+
+[00:52:11] Bob: We did the Rats Hole website too. Did you develop and flash as well? Oh yeah, I did flash development way back, oh yeah, uh, from the very beginning. Yep, this is it. So weird, man. So weird. 
+
+[00:52:29] Jimmy: So
+
+[00:52:33] Jimmy: Bob's yelling at his son with the audio off. He just hit him. He's like, 
+
+[00:52:36] Bob: get out! The kids know that I'm recording, but just walk in and start talking for some reason. I don't know. This is one of those summer things I was talking about. Oh, yeah, yeah. During the school year, like, it's quiet. There's nobody here.
+
+[00:52:48] Bob: I can just, whatever. Meanwhile, Jimmy's phone is ringing. 
+
+[00:52:54] Jimmy: Yeah. Yeah. 
+
+[00:52:57] Bob: Well, anyway, thanks for taking me back. We um, 
+
+[00:53:01] David: that took a left turn. We started talking about how are we going to do a live show to motorcycles. 
+
+[00:53:09] Bob: Yeah, well, I think having motorcycles on the stage is probably a necessary part. 
+
+[00:53:14] Jimmy: Yeah, well, now it is.
+
+[00:53:15] Jimmy: Let's give away a motorcycle at the live show. That'll bring them. Yeah. That'll bring them. This 
+
+[00:53:18] David: is supposed to make us money, not cost us money. 
+
+[00:53:22] Jimmy: No, but if, let's say, like, if we give away, like, a Honda. Like a Honda, like a 72 Honda CB400 or something. 
+
+[00:53:30] Bob: Sure. Those are cheap. You get to buy it and give it away.
+
+[00:53:35] Bob: Well, back to the show idea though. It would be really cool to hear from people about what might be interesting. You know, what would be worth, other than just like listening to us talk, you can do that for free right now. So, what would be a fun way? To interact and to do something creative and have an evening of stuff, not just an hour of us talking, I think.
+
+[00:53:57] Bob: I'd love some ideas. 
+
+[00:53:58] David: When we were brainstorming with the producer, Jimmy came up with like some sort of game show idea, Plinko, blah, blah, blah. Something where it involves the audience. And that could be fun if we... Um, because we, we talked about bringing, we're not going to do any, any, uh, tool work on stage.
+
+[00:54:19] David: There's too many, too many weird things that could happen, but we could build pieces at home and then bring it to the stage. So building some. Somebody builds a Plinko and somebody builds the little, what's the little yodel y dude from Price is Right when he went up the little mountain. Remember that?
+
+[00:54:39] David: Yeah. I don't know what that's called. I missed that game. I don't even know how, how, how that game was played, but that could be fun where we build something, bring it there. And then there's, it's something that involves the audience. Yeah. You win a motorcycle. We could 
+
+[00:54:55] Jimmy: do, you know, we could, we could play a guess how wide that is.
+
+[00:54:58] Jimmy: That's something that, There's a, I, I, me and Dave Weld used to play it all the time. How wide that is. And so it's like, we just literally look around the room and be like, okay, um,
+
+[00:55:13] Jimmy: and I'm about to do this with no ruler. Oh, I have a ruler. So Dave, Dave, Bob, how, how big is this? That's three and a half inches. 
+
+[00:55:21] Bob: From corner to corner? 
+
+[00:55:23] Jimmy: Yeah, from extreme wide. I'm holding up a knife. That's a folded knife that's folded shut. Four and a quarter. Closest without going over. Would you be willing to put 200 on the table?
+
+[00:55:31] Jimmy: I'm putting 200 and 
+
+[00:55:32] David: three 
+
+[00:55:33] Jimmy: and a half inches. Okay, all right. What's, uh, Bob, what's your guess? Four and a quarter. Dave? Three and a half. Three and a half? Bob, you win. It's four and, uh, seven eighths. Oh, 
+
+[00:55:47] Bob: man. All right. Closest to that going to win. So, you owe me two and a half. 
+
+[00:55:49] Jimmy: Yeah, then Mo. So, we could play, and I, I, the one time, it was a funny story.
+
+[00:55:56] Jimmy: One time, me and Nick Offerman were online at Starbucks in Manhattan, and we're online, and, and we started playing Guess How Long That Is, and we were just like pointing at, like, a brownie. I'm like, guess the brownie. He's like... 3 inches, and it'd be like 2 7 8. Then I'd measure it and, like, everybody online got in, nobody even knew it was Nick, but all the guys on the line, there was 4 people, got into it with us and we were like, How tall is that cop?
+
+[00:56:18] Jimmy: Like, 10 inches. And then, when we got to the register, Then when we got to this is the funny, cute part, we got to the register, the girl goes, you're Nick Offman, right? And he goes, yes, I am. And she goes, Your dad was my high school teacher. That's how I know who you are. Oh, it was weird. It was so touching.
+
+[00:56:34] Jimmy: Weird turn. Yeah. The next dad was a high school teacher, high school math teacher, I think. And she's like, your dad was my teacher in Minooka. It was so cute. It was such a cute little moment. You know, it wasn't just like, Oh, I like you on TV. Huh? Yeah. Crazy. So we could play a game of how long is it?
+
+[00:56:53] Bob: Yeah, I'm sure that would be fascinating to watch and people would probably pay money to 
+
+[00:56:57] Jimmy: watch that. And then, you know, like, then the machinist version is how thick is that? You play, like, with pieces of paper and, like, wrappers and stuff. You, like, hold it and you'd be like, okay, this is three thou. And then if it's, like, over, you lose 200 bucks.
+
+[00:57:11] Jimmy: It's like 3. 2 thou. Yeah. So we could play that. When just now I did the live show in Australia and I doing live builds is fairly boring and people just, but the culture there, everyone just sat and spectated patiently and enjoyed it. I tried to make it as exciting as possible. We all did like in any time there was a learning moment.
+
+[00:57:33] Jimmy: I carved a ditch in a bowl and. I actually ended up coming out really nice, almost nearly perfect, but I free handed it and I described all of what I was doing while I was doing it. I was stopping, I was showing the audience. Instead of just powering through it, I kept stopping and showing tips that came up as they came up.
+
+[00:57:49] Jimmy: So that's another thing we could demo something, but to demo something really just in the name of tipping, giving tips about not necessarily trying to show the finished part but that's the type of thing like you can't write all these tips you have to do it and then while you're doing it you go oh here's an interesting way of holding it so that's another thing it's like demoing a tool but really just for the tips involved But I don't know, we could, we'll field some ideas and I think if the show has like five good parts, up to five good parts, it could be good.
+
+[00:58:23] Jimmy: That's a lot of wardrobe changes, yeah. We could give away a motorcycle in the end. 
+
+[00:58:29] Bob: That's all you. Well, let us know. Send us an email. Um, let us know on Patreon, Twitter. Just give us some ideas for what would be fun for you to see. Something you would be interested in checking out. Because we might make it happen.
+
+[00:58:44] Bob: Um, speaking of Patreon... Big thanks to our Patreon supporters, who make the show happen. They're awesome. Remember last week I was joking about, um, I was, well, not joking, I was talking about the names, how cool the names are. And one of them was, uh, Patchy Cahooters. Well, Patchy sent us a message and said that's not their real name.
+
+[00:59:07] Bob: So still gives me the giggles. Happy to get the little, yeah, happy to get the little shout out. Big thanks to everybody over there that helps us out. Even, I mean, especially people at the top level, but also everybody else. Like, I'm looking at the list for a really good username. I don't see a really good username off the top of my head, but, uh, Michael Metz is on there.
+
+[00:59:35] Bob: Michael has Uh, been around for a long time. We used to hang out at some of the woodworking shows. Good dude. Still helping us out on the podcast. I'm really grateful for that. Um, but we have a top list of supporters that kind of go above and beyond and always want to thank them. That's Corey Ward, Albers Woodworks, Works by Solo, Chad from ManCrafting, Chad's Custom Creations.
+
+[00:59:58] Bob: I really should change the order because there was two Chads right in the row and that just like seems unnatural. Rich at Loan Designs. Odin Leather Goods, Scott Oram, The New Janky Workshop, Stu Morrison, Warren Works, Michael Menedjian, The Web Ranch, Woodworks, and Crabtree Creative. And them, and everybody else, they all get the aftershow, they all get more of us, as if 400 episodes of us yammering is not enough.
+
+[01:00:24] Bob: Have we been 
+
+[01:00:24] David: doing the aftershow since day one? 
+
+[01:00:27] Bob: No, I don't remember when we started. I think it was in, it was after a hundred maybe. Okay. I don't remember exactly when it was. The other day, I got a message from a guy that I don't know that you've ever met, David, but Brandon Franklin. Jimmy and I both have met him.
+
+[01:00:50] Bob: He came to visit Jimmy one time. He's a blacksmith, really nice guy in Tennessee, but he somehow didn't know that we had this podcast. I mean, there's a lot of people that don't know. I don't want to sound like everybody should know, but he didn't know. He found out recently and went back and listened to all of them in like every episode in sequence over a short period of time, which is really weird to think about the, the type of changes that all of us have been through in the last eight years for somebody to listen to all those changes within a short amount of time, like he would really hear.
+
+[01:01:24] Bob: Uh, uh, you know, a big lifespan there. Yeah. Um, but anyway, he sent me a message and was talking about that. It was pretty cool. Anyway, big thanks to our Patreon supporters. We are grateful for you. And um, they'll get the after show and I don't know what we're going to talk about in the after show today, but we never do.
+
+[01:01:42] Bob: And it's always funny. 400. 
+
+[01:01:46] David: Yeah. 400. 
+
+[01:01:47] Bob: 400. 
+
+[01:01:48] David: Yeah. I haven't done 400 of anything in my life. 
+
+[01:01:54] Jimmy: You have 400 videos up, don't you? You must. 
+
+[01:01:56] David: Um, I think 300 and something. Maybe it's 400. It used to say right on the whole, I guess it still does. I don't know. Does 
+
+[01:02:04] Bob: it? I don't know if it does or not. Well, anyway, do you guys have anything to recommend this week?
+
+[01:02:11] Bob: I do. I'm 
+
+[01:02:12] David: really obsessed with this channel. I, I'm actually, I got distracted. I have to go to my channel and see if it says how many videos that I have. Three? Oh! Get this. 398. 399.
+
+[01:02:27] David: No way! 398 videos. There's... 
+
+[01:02:30] Bob: You're right. You've never done 400 of 
+
+[01:02:32] David: anything. 400 of anything. Um. Alright, back to my pick. I'm really obsessed with this guy named Jake Carlini. Have you seen him? He does these ridiculous builds. Uh, his latest one is I built a go kart that drives in third person. So he made a go kart, and then has a camera.
+
+[01:02:53] David: Behind his head and then wears the the VR goggles. So when he's driving he sees the Mario 
+
+[01:03:02] Bob: view. Oh, 
+
+[01:03:03] David: yeah, and He does crazy builds like that. He built a secret arcade in public build a tank out of trash They're so well done. He's not just building to build something. He's, he's, he's telling a story and he's hilarious.
+
+[01:03:25] David: It's just so good. I'm really obsessed with this channel and He, let's see, his videos do very well. So a lot of you probably already know, but they all get like over a million, sometimes 2 million views. So it's just really, really good videos. And he's only got 44 videos. So I beat him in video count. He win.
+
+[01:03:49] David: I win.
+
+[01:03:53] Bob: Cool. 
+
+[01:03:54] Jimmy: Jimmy, what you got? So, I might have mentioned him before, but I think people could take a look, it just popped up while I was fiddling on Instagram, and it's an educational look see, and it's a quick look see. Peter Quinn on Instagram, P E T E R Q U I N E. . S-T-A-G-R-A-M. Peter in Peter Quinn, Instagram.
+
+[01:04:12] Jimmy: It's all in one word. He's the guy who developed all of the transitions in the TV show, making fun, all the fun transitions where Oh, cool. Like I walk and pick myself up and put myself down and walk and do that. He did. He does all those and he works with celebrities. So you see him, like right now, he's got something here with um, uh, uh, Jared Leto.
+
+[01:04:31] Jimmy: He's done stuff with a couple of sports figures. So he does these incredible transitions all done in After Effects and simple in camera effects where he's giant walking out of a building, a giant walking over a building. In fact, there was a funny, there's a funny transition where I have to lift my leg up and pretend like I'm walking over the, the building and it's most of it's shot in camera and like most of the effect takes place in camera.
+
+[01:04:56] Jimmy: You shoot the building and then you shoot me walking over it and you overlapped them and it looks like I'm stepping from behind the building. The funny thing was, is the day we shot that I couldn't lift my leg up high enough to make it seem like my leg was going over the building and Mike, the producer, kept going, no, no, do it again, do it again, and Derek was like.
+
+[01:05:15] Jimmy: Come on dude, lift your leg up, you can't stretch, lift your leg up. I couldn't lift my leg up high enough to make it feel like I wasn't hitting the roof. What's his name again? Uh, Peter Quinn, Instagram. It's, you'll be, you'll be totally inspired, especially, especially you, Dan, you'll really dig it. A lot of fun, quirky transitions of like, some guys like get stepped on by a giant sneaker and then he's like pops off the bottom, like all cartoony fun stuff that looks like it's legit.
+
+[01:05:45] Bob: Well, um, I don't have anything. I wish I did, but like, I don't ever, I don't ever watch anything anymore. Well, that's not true. I went to a movie the other night. I'll, I'll recommend a movie. I know you guys aren't into like, superhero stuff, but, um, a few years back, a movie came out, an animated movie called, uh, Into the Spider Verse.
+
+[01:06:12] Bob: And it's a Spider Man... animated movie that is absolutely incredible. You should watch it for the, they're watching a video. Okay. Everybody who's listening, I'm talking to them and Jimmy is holding up his phone to the camera to show David a video. And David's watching the video through another video. Video insertion.
+
+[01:06:32] Bob: I'm trying to recommend something to them. I'm also listening. Yeah, we're listening. Into the Spider Verse. It was an incredible animated movie that took style in incredible new ways that I've never seen before. The sequel to that just came out and it is equally incredible. What 
+
+[01:06:48] Jimmy: type of animation? Is it cell art or is it computer?
+
+[01:06:50] Bob: It is computer, but the thing that's really cool about it is that it has an amazing visual style to it anyway, but it's about multi dimensions all converging into one place, and every dimension has its own visual style. So you end up having characters that have one visual style in a world that's totally different.
+
+[01:07:08] Bob: You have multiple of that happening at the same time and it's beautiful and wild and I don't even understand how creatively how you would get to that. So I would, whether you're into Spider Man or not, like I would recommend watching that movie because it is really inspiring what they came up with.
+
+[01:07:28] Bob: I'll say that one. Cool. You guys got anything else for 400? Thank you. 
+
+[01:07:34] Jimmy: Happy 400 everybody. Happy birthday. 
+
+[01:07:37] Bob: Like, yeah. Thanks for sticking around everybody. It's 
+
+[01:07:39] David: mind blowing that a producer... Who wants to do a Making It tour? Like we've gotten to the point where somebody says, Hey, you guys should do a tour like that blows my mind.
+
+[01:07:53] David: So thank you. 
+
+[01:07:55] Bob: Well, and to be fair, like we've talked about, we talked about this pre COVID, like we came up with the idea of doing this, but you're right to have somebody outside of the room. You know, kind of bring it up and like could see potential in it. That's a kind of a neat thing. So Cool well, thank you everybody and uh, we'll see you next time.
+
+[01:08:17] Jimmy: Appreciate you. Thank you. Love you guys
+

@@ -1,0 +1,707 @@
+387-Making It v2
+===
+
+[00:00:00] Bob: I woke up this morning, late, like I do on Wednesdays now, and I walked, I got a cup of coffee, and I walked right downstairs and took a piece off the 3D printer, and started sanding it. And I started sanding it, I realized, Before I even took a drink of the coffee. So, that should give you a picture of how under the gun I am to get this thing finished.
+
+Oh boy. Wow. Wow. I set the coffee down and started sanding, and got the whole thing sanded, and I'm like, Cool, it's ready for primer. Oh yeah, I have coffee. And so I took a drink of coffee. Yeah, so, we um, I've built parts. I've built enough parts to make maybe five of these things that we're making for the video game company.
+
+Are you going to make five? No, no, no, we're making two. Um, we're making one for the video, and then they said, Oh, we'll give you some more money if you make another one that you can send to so and so. So we're making two at the same time, but we'll print these parts and then realize that, oh, that didn't quite...
+
+You know, fit together the way it was supposed to, or we didn't think about this, and, you know, it's, it's like this iterative thing, but each one of these parts that we're printing is from 5 to 11 hours of print. So, we have just gone through a huge amount of, I mean, it's not, it is lost time, but it's, you know, it was like, oh, we just didn't quite get it.
+
+Oh, we just didn't quite get it, so. We're supposed to have the entire video done tomorrow, and I don't have one of the things done. I'm there's parts on the printer right now that oh boy soon as this is over I have to like go take a thing out of primer and put another thing in primer and then start airbrushing one thing and so That when the primers dry I can 
+
+[00:01:41] Jimmy: airbrush the other thing You're gonna say as soon as this is over have to go stare at the 3d printer 
+
+[00:01:47] Bob: Make it go faster.
+
+Yeah Nope, so Wow, that's what I've been into. I've been hunched over Uh, my work table, I've been sitting still over the work table more than I think I ever have in anything that I've ever done because it's just a very, it's a very small thing. You know, like it's maybe 15 inches long, 12 inches, somewhere in there, I don't remember.
+
+And there's just a ton of detail to it. There's, there's all this airbrushing, we've got all this rub and buff that has to go on top of that. There's fabric, there's vinyl, there's intricate. Scrollwork vinyl that has to go onto it, there's electronics, there's foam, there's just all this stuff and it's in this little tiny package and it's layer after layer after layer of thing.
+
+Is it a diorama? No, no, no, it's an object. 
+
+[00:02:37] Jimmy: It's a... Is it bigger than a breadbox? Let's 
+
+[00:02:39] Bob: try and guess what it is. No, it's smaller than a breadbox. Yeah, you won't guess what it is. Smaller than a breadbox. Two syllables. Because it never existed. Two syllables. Sounds like... No. Setagive. 
+
+[00:02:47] Jimmy: Setagive? 
+
+[00:02:49] David: When you're all done with this, will you look back on it and think, that was a pain or it was really awesome that 
+
+[00:02:56] Bob: we made this?
+
+I think it's going to be really awesome that we made it. And I'm still excited about it. Yeah, it's like I'm not, I'm not frustrated or over it or anything yet. But it's a... I think all of us tend to work in like a, in a very, a moving, you know, situation, where we're like, from this tool to this tool, and then we carry the thing over here, and then we have to flip it over, and you know, you're adding, and you're whatever, and so I'm not used to...
+
+I'm not used to working on something where I could theoretically sit in one spot and never move and do all of the work. It's like all right here in front of you on the desk. And so it's just different. 
+
+[00:03:33] Jimmy: It's like leather work. I'm going to do a leather work project this week. It's the same thing. You just sit on the corner of the table until your fingers bleed from stitching.
+
+It's gross. It's 
+
+[00:03:41] Bob: awesome. 
+
+[00:03:42] Jimmy: It sounds fun. No, it's fun. It's fun. But it's, it's very, it's very non physical in that way. As opposed to right now where Patrick and I, if anybody's watching Instagram, we're restoring this, this bar boat for Blue Point Brewery, and It is just up and down and on the boat and off the boat.
+
+I realize how much I can't swing my leg up in the air getting on this boat, off the ladder every single time. 
+
+[00:04:06] Bob: I have to make sure this What about 
+
+[00:04:07] Jimmy: all that biking you're doing? That's not helpful is it? It's all just like, it's again, it's like, just at the desk, I'm just like this. I'm not picking my leg up.
+
+Every time I pick my leg up to swing it into the boat I kick like seven screwdrivers and saws off the edge of the boat. I gotta like, move everything over, I'm like, okay, my leg's gonna swing into this general area. I have an 
+
+[00:04:25] Bob: idea for you. Okay, so your, your clothes modifications that you've made over the years, now you need to take like a handle like you would get on top of a piece of luggage and you need to glue them to the tops of the knees of your pants.
+
+Oh, that's such a good idea. So, when you want to step over something you just grab your handle on your knee and lift your leg over. 
+
+[00:04:44] Jimmy: That is such a good idea. 
+
+[00:04:47] Bob: You can make them out of brass and leather and make them look all 
+
+[00:04:49] Jimmy: cool and everything else. I picture the, uh, well that's why, because I'm working on the bike so much.
+
+I've been on the bike every single day. Obviously when I was in California, I skipped those few days, but I got right back onto it. And to punish myself, I'm doing 45 minute rides, which is, like, unbelievable. And I'm walking around, my legs are consistently like rubber. So I need those things. Remember when we were kids, you'd put your foot on top of those cups, and you'd hold the rope, and they would walk around with the cups under your feet?
+
+Yeah. So I need those. I need to, like... Seatbelt, Tie Strings to the top of my shoes so I can lift my legs up as I walk. Little boosters. Yeah. So I'm working on that and um, that is obviously very physical but I'm also working on my other boat and this week got away from me because we have the plumbers here.
+
+You see on Instagram, Mo, Mo is a plumber who lives up here, Mo's Plumbing and Heating or Turnup to Comfort is the name of his company. And he's an instagram, Plumber, he's very, very, very thorough, very, very good, he's always talking about theories and formulas and formulas, whatever you say, and so, radiators, radiators, so we're putting the, you know what's coming, we're putting the radiators in my house, I get guff for saying radiators, so we're putting six radiators in the house, and funny thing, so my house has no heat on the ground floor, except for my bedroom, which is an electric heat, and in the kitchen, because we have an AGA stove, it's like a mass stove, heats all the time.
+
+The rest of the downstairs has no heat. So the other day I have plants that literally got frost, got, what do you call that, frost shock. Because of the cold. Inside the house? Inside the house. That's how cold it was inside this. The pellets, I gave up on the pellet stove. Plus I was traveling, I'm the only one that knows how to babysit the pellet stove.
+
+I can't expect my brother or my, my buddy Ryan who lives here to take care of the pellet stove because they just don't pay attention or care enough. And my brother, I said, how's the house all week long while I was in California? He was like, well the dining room's really cold. I'm like, I know because the pellet stove isn't on.
+
+You know, you know, there's no heating in the ground, there's no radiators down here. They're all gone. So just to give everybody a little quick refresher, in June, um, the person I used to live with decided to take all the baseboard heating out because they thought it was ugly. So she cut all the baseboard heating out with no plan to put new heating back in.
+
+So now here it is, that was May, so now here it is, how many months later, nine months later. I'm finally getting ready to put in just after the winter's, severe winter is passing. So we made it through, no heat on the ground floor. There's no pipes to freeze, because the pipes that would often freeze were the pipes for the heat.
+
+But, I'm getting to the point of the story, when Mo revamped the plumbing downstairs, he, in preparation for the new radiator, he didn't just put in the radiators, he went down and looked at the system and said, this is all wrong. So he cut it all out and they redid it all. So because of that, there are certain radiators in the ground floor, in like these small rooms that never work.
+
+The 18 years I've been here, I'm going on 19 years I've been in this house, there's certain ground, what do you call it, I just said it, baseboard heats in certain parts of the house that never, ever, ever, ever worked. I just assumed that they never would work. But because he put new pumps in, rearranged the system, now we have heat in all these little weird spots of the house.
+
+So where it is warm, it's too warm. And where it's cold, it's like being outside. And so that's all going to get rectified this, today. Today and tomorrow. So it's going to be really nice to walk into these rooms, which I just, it's like stepping onto the porch in my office, for instance. This is all like, if it's what, how cold is it outside right now?
+
+It's 37 degrees outside. It's like 40 degrees in this room right now. Except tomorrow 
+
+[00:08:26] David: it's going to be like 60 in February. 
+
+[00:08:29] Jimmy: Yeah. That's good. So I'll save on like a little drip of oil heat. So, it's exciting, it's an upgrade that's, it's something that we talked about doing for years, and when I was traveling in May last year, my former housemate decided to initiate the project without asking me, I came home and there was a pile of baseboard heating in the driveway, and uh, anyway, that's why we're finally catching up, finally catching up.
+
+So, it's exciting to watch these guys do, like, plumbing is, people joke about plumbers. They goof about them because it's kind of like Plumber's Crack and all the silly stuff. It is such a complicated job, and it's such a... It's such a sophisticated job to know how to do well. It's unbelievable. Like, these guys talk another language.
+
+It's like they're literally talking in some foreign language when they talk to each other. It's like, give me the... I can't even make up. Yeah. The this, the that, the... They were down there. They, they just went in with a saw all and cut everything out. I'm like, you guys have a plan? They're like, yeah. And they didn't tell me what it was.
+
+they just cut out. There's a giant pile of parts in the backyard that were, were in my basement that I don't need. They're like, you could throw that away. Giant pile of parts and it's all the stuff. And they put in, so if there was like 10 x amount of parts that they cut out, they put back like two x. So they got out so much.
+
+Extra nonsense, when the system was built 25 years ago, 30 years ago, I don't know how long ago the system was built, it predates me. So they streamlined it and that's why suddenly the house has so much more heat in every section of the house. Everyone, like people who stay upstairs are like, it's so hot upstairs, I have to sleep with the windows open.
+
+We also don't have the thermostats hooked up yet. Thermostats will get hooked up today. 
+
+[00:10:22] Bob: Well, I mean, I wonder if, because they do kind of speak a different language, they have a whole different set of things that they, like, vernacular that they use for what they do. If you ask them, like, do you have a plan?
+
+And they said, yes, here's the plan. And then they started talking in, like, Swahili to you. That's what it would feel 
+
+[00:10:38] Jimmy: like. That's exactly right. That's exactly, you're 100 percent right. When I ask him, I don't even ask him about what he's doing because he starts talking to me like. I'm a, I'm a plumbing engineer.
+
+I'm like, dude, I, I have no idea what you're talking about. Yeah. I just go, just please save your breath. And everyone giggles at just goes, . There's no point. I don't, yeah. And then he starts telling me like, he'll point out a cool device that has some new miraculous attributes that have never been done before.
+
+And he tries to explain the whole, I go, I don't, I don't, I don't Just, okay. It's cool. It's cool. Just put it on the wall. Cool. Great. 
+
+[00:11:10] Bob: That reminds me of my grandmother. When we started talking about something that she didn't understand, she just kind of threw her hands up and like, okay, okay, walk away. 
+
+[00:11:18] Jimmy: So that's it.
+
+My video of this week, I have to start today. I have a molded leather concept that I want to work on. So I'm going to work on that today and tomorrow. I think I'll have the video ready for the weekend. So, that's something I'm working on. The boat is, both boats are taking up a little bit more physical time, so, I'm doing this thing where I'm doing a couple simple videos in between the bigger, more complicated ones.
+
+As usual, but, that's what's happening. And then last week I was away, so I didn't have a chance to finish anything. So that's that. That's what I'm up to. 
+
+[00:11:50] Bob: Awesome. David, what about you? 
+
+[00:11:52] David: Well, the Rebound Game video is not out yet. It's pretty much done. It's done, but we have a Valentine's Day video that we decided to work on and make last second.
+
+So the rebound game is probably going to be pushed a little bit further out. But, uh, we had a fun idea of having AI design a Valentine's Day gift for Kelly. And so, that's what I'm in the middle of right now, so it's another AI video. The last one did so well, and it was so fun and challenging, so we're doing it again.
+
+So, I used... Chat, GPT or whatever that is called to give me suggestions for GIFs and then we took that suggestion threw it into Midjourney and then kind of refined the prompts and to get something that was workable. A lot of the woodworking, like if you tell Midjourney to spit out a bookcase or whatever it will but there are some things that just aren't physically possible and so you got to work around these things and there's a lot of things that you can't see so this is a little heart shaped box and the the the bottom of the box is was pretty straightforward but the lid is where it's going to get all crazy and stuff so we're uh it's fun we're working on that and it's a it's been a fun challenge That's 
+
+[00:13:16] Bob: cool.
+
+It'd be nice if you could license the Nirvana song as the theme song. I 
+
+[00:13:21] David: know, I know. I actually thought Nirvana is one of my all time favorite bands of all time. I actually thought about trying to do like a re, uh, uh, a knockoff of it so you could tell what it is. Uh, I don't 
+
+[00:13:34] Bob: know if I want to play it. The Kmart 
+
+[00:13:35] David: version of...
+
+Yeah, the Kmart version of Heart Shaped Box. Nirvana was my first concert. Really? Back in 1994,
+
+or, or no, it was 93. It was 93. It was October of 93, the day before Halloween in Detroit. Wow. 
+
+[00:13:54] Bob: Yeah. Was that, so that was Nevermind? That was in Euro. Oh, okay. Yeah, yeah. Oh, that's true. In Euro came out in 
+
+[00:14:01] David: September of 93. Yeah. 
+
+[00:14:04] Bob: Yeah. 
+
+[00:14:05] Jimmy: That's awesome. I know, I remember my first concert vividly. It was uh, Blue Oyster Cult and Black Sabbath.
+
+The Black and Blue. Whoa. Oh wow. On tour. 1980. I was 13 years old. My brother John initiated the whole thing. Like 10 of us went to a concert with all the guys from my neighborhood. It was uh, it was the first tour with Ronnie James Dio on the Heaven and Hell album. Which was incredible. And a few months before that, John Bonham had died.
+
+So there were And it was like the day before Led Zeppelin announced that they weren't going to carry on without them. And so at the concert there were banners everywhere of people holding up bed sheets with spray paint on them. Long live Led Zeppelin. It's funny, and there is a, I mentioned this somewhere before, but there is a Don Kirshner's rock concert.
+
+From those three shows, three shows in a row in Nassau County, in Nassau Coliseum, and, uh, Sorry, my phone's ringing. And those three shows were combined for Don Kirshner's rock concert, so you could see, you could see me all the way up in the nosebleeds right by one of the spotlights. You can't, I'm kidding.
+
+But no, that's, I was at, I was at, I was in that environment, occasionally I catch it. It's on, it's on YouTube, you can find it. Heaven and Hell tour with Black, it's called the Black and Blue Heaven and Hell, Black and Blue Oystercult, Black Sabbath Blue Oystercult, it was great. 
+
+[00:15:23] David: It's funny, I went to that Nirvana show in, in 93, and I had certain memories of it.
+
+Basically, um, people were throwing shoes on stage, and then Kurt... Walked off after getting hit with a shoe and I remember him or Chris saying one thing into the mic and Years later like maybe 15 years later I I found a nirvana live trading tape website and I was actually able to buy the recording of that show and it was funny how Uh, my memory was different than what actually happened.
+
+They did stop the show during the encore because people were throwing too many things on stage. But um, it's just, I had this memory for like 15 years of this is how it happened. And then I was completely wrong and this is how it actually happened. And now you can, now you don't need those trading tape websites anymore.
+
+Everything is just, you can find everything on, on YouTube. Yeah. 
+
+[00:16:24] Jimmy: You know what? It's so funny. The year my brother graduated high school, my brother John. Instead of going to his senior prom, me and John, and my brother Joseph, and two other people went to go see Twisted Sister at the Backstage Dinner Theater.
+
+This was in 1982. We saw Twisted Sister on stage and, uh, this other band opened for them. They became famous years later because they didn't have a record deal at the time. They were like, kind of mystical rock band, I forget who it was, but, uh, my brother John found them. A videotape on YouTube of that night when we were there.
+
+And when he, he, he often eats edibles and scans the audience to try and find us in the audience. He says, I've scanned the video thousands of times trying to find us in the audience, but it is that night we were there. 1982, Blue Oyster Cult at the North Stage. No, sorry, Twisted Sister, but I just misspoke.
+
+It's Twisted Sister at the Backstage Dinner Theater in 1982. And it would have been the night of my brother John's prom. We went there instead. Oh wow. So I was like 15 or 16 Wow. 
+
+[00:17:34] David: There is a, uh, a White Stripes DVD. It's an official DVD and, um, of a live show in Detroit. And you can see me on the stage, side of the stage taking photos.
+
+Yeah. I'm actually on the cover of the record. Cause it shows a top town view of the stage. Somebody must have been up in the, in the, it was at a Detroit, uh, art museum where the show was and somebody must've been up in the balcony taking a photo and I am on the cover of the album. 
+
+[00:18:02] Bob: That's cool. The 
+
+[00:18:03] Jimmy: top of your head.
+
+That is, that is 
+
+[00:18:05] David: an awesome flex. Yeah, the top of my head, the top of my bald head. 
+
+[00:18:11] Bob: Well, I don't have a cool story like that, I don't think. Well, actually, I kind of do. It's not really that cool. I went to my first, like, big concert that I really remember, like, driving myself to and everything. It was Smashing Pumpkins in Louisville when I was probably a junior in high school or something like that.
+
+And I went by myself. And went to this concert, it was a big arena, it was in like Rupp Arena or something. And, or, 
+
+[00:18:38] Jimmy: whatever. Did you sneak out, is that where you went by yourself? No, no, 
+
+[00:18:40] Bob: no, I just went by myself. Like, it was, you know, hey, I'm old enough to drive, I bought my own ticket to a concert, nobody else can afford to go with me, so I'm gonna go to this concert.
+
+So, um, I go to this concert, and I'm like, down on the floor, but it's a huge floor, right, so it's not like a little pit up front, it's just a huge mass of people. And I was kind of in the middle, not, we're not close to the front, and so we're watching them play, and then all of a sudden I get picked up. And I was just like, oh no, and I get picked up and I got pushed forward, and so I'm just on top of people and getting groped and all this stuff, like all the way, and, you know, I probably was up there for 10 or 15 seconds, not long, and then I got put down.
+
+And so, the next night on the Channel 11 News, I remember they ran a story about the Smashing Pumpkins show. And there was a camera from the back looking at the stage, and I'm like, oh cool, that's the concert. Oh look, there I am! And it was me just popping up, rolling around, and then disappearing. Ah, that's so funny.
+
+But I could tell, like, I was wearing the same white t shirt and shorts and whatever, you know. So, that's my only story like that. Which is not as cool 
+
+[00:19:49] Jimmy: as being on an album cover. That clip exists. Someone's gotta find it. I 
+
+[00:19:52] Bob: had it on, I recorded it. I think I, it happened at the 6 o'clock, and then I was like, oh, they're gonna show it again at 11, so I'm gonna record it, so I recorded the, you know, the news at 11 to have it.
+
+I don't know where that is, but. Anyway, so thanks for listening everybody, we'll talk about concerts again next time. I'll see, for me, I've been like, just... Like I said earlier, I've been heads down working on this thing. Um, it's weird because we, we've been working for the past several weeks, we've been working on stuff for pretty big sponsors that are like, supposed to be, we did the screen printing video for us last week, and then we're supposed to have this other one for a big 
+
+[00:20:32] Jimmy: sponsor this week.
+
+Oh, thank you. Thanks. 
+
+[00:20:37] Bob: Um, and then we have this video game thing for the next week, but we're not hearing back from... Like with approvals from these companies. So the video that's supposed to go out tomorrow is probably not, it's been done for two weeks. And it's just like, we're not going to be able to put it out for another two weeks because the next one is sponsored and has a specific date to it.
+
+You know, so it's like, it's kind of cool to have something done and now we can start working on another thing that will be a month or so from now. But it's also frustrating to have something done that you can't release, you know? Like it's, it's good, it's finished, and just waiting on somebody in an office somewhere to be like, Oh yeah, check!
+
+[00:21:22] Jimmy: It's so annoying because I made these barbecues for this guy. I made two barbecues for a famous chef and He won't let me release the video till he releases something first And I've been waiting since May for him to do this. I text, I check with him every couple of weeks I'm like dude. He's like not yet.
+
+I'm not ready. I'm like come on, dude I'll tell you in the after show what it is if I haven't already said it out loud. 
+
+[00:21:44] David: Hmm 
+
+[00:21:46] Jimmy: Anyway, I 
+
+[00:21:47] Bob: understand the frustration Yeah, it's just a little annoying. Um, but basically I've been doing that same project, you know, different stages of it for, for quite a while. Um, trying to think of anything else that's new.
+
+I don't think it really is. Yeah, that's, that's kind of it. Uh, David, you had an idea last week. 
+
+[00:22:10] David: Yes. Uh, we wrote it down. Lessons we should learn, 
+
+[00:22:15] Bob: but we don't learn. I, I wanna take a break and everybody should just give us a little hand, right? Because we wrote an idea down and we're actually coming back to it.
+
+We did, we did learn that lesson. Yes. Sorry. Proceed. Yes. 
+
+[00:22:26] David: I think it was something along the lines of lessons that we should learn, but we don't. 
+
+[00:22:31] Jimmy: Things we keep doing wrong, that we know. Things we keep doing wrong. 
+
+[00:22:35] David: Like, uh, like, we're in a, we're working on something, something happens, and you're like, I'm not going to do that again.
+
+But then, you do that again the next time. 
+
+[00:22:44] Jimmy: You do it again. Interesting. 
+
+[00:22:47] David: I think that, uh, I haven't put any thought into it except for the subject. But I think one thing that I do quite a bit is, when I get the shot perfectly clean, I tell myself when I'm done with this, I'm going to put it back right away.
+
+It's going to go where it needs to go. And then I get caught up in the situation and things don't go. Things just get pushed off onto the side of the bench off camera where you can't see it or on top of the table saw. And I don't learn that lesson of putting things back, even though I know it's going to make my life easier an hour down the road when I need to go use that bench or that tool.
+
+[00:23:25] Jimmy: That's definitely one of the, when we talked about this, that's kind of the first thing that came to my mind is that I am always reorganizing. And saying, this is better than it was before, but I do that too often that I can't remember anything that I set in place. Uh, yeah. So all my plans are all mixed up.
+
+All my like, okay, this is how it's going to be. This is my new system. And then I'll forget a day later and I'll be like, wait, which system am I in? The old one or the new one? Because I don't stick to it. And that is one of my biggest problems is I have this system where we take. Actually it's Aaron started it.
+
+All the tools go into the cabinet and all the batteries come off. So there's never a tool in the cabinet with a battery on it. Batteries all come off and they all go on this pile. And if they need to be charged, they get charged as they do. They are cycling in and out. And I always do this. I go, let me put the tool away with the battery because I'm going to use it tomorrow.
+
+And then all of a sudden, 4 5 days go by and the pile of batteries is all diminished. Where did all my batteries go? And then I start pulling open the drawers, I'm like, oh I was going to use that to do that part. And then I start remembering, I'm never going to do this again. And then a week comes by, a week goes, 2 weeks, 3 weeks go by, I'm like alright, I'm going to use this tomorrow as soon as I come back to the shop, so I leave the battery on it.
+
+My batteries end up and then someone's like, can I borrow a tool? I'm like, yeah, make sure you bring the battery back. And then they don't bring the battery back and I'm not enforcing it. And then they leave it up on the porch. They're like, I'm dropping it back off. It's on the porch. So then I have a pile of tools on my porch for weeks that need to simply just be carried down to the shop, but I don't do it.
+
+So my porch is like the giving, it's like the giving shelf. People always come and take stuff off my porch. So I have a pile of like batteries, like four or five battery operated tools that are always on my back table. It's just, it's these systems that I just have to adhere to. That I never do, and I don't know 
+
+[00:25:08] Bob: why.
+
+Let me, let me interrupt a little bit. That would be actually a pretty good idea for a project. You know how people do like the tiny libraries where it's a little house with books? You should have one of those on the street in front of your house that's tools. So people can come by and take a tool, use it, and then they bring it back and put it in the little library.
+
+[00:25:24] Jimmy: Yeah, yeah. I make them come up to the port so I can get them on camera. 
+
+[00:25:29] Bob: That's not a bad idea. Let's see, I, while you guys were talking, I was thinking of a couple of things. One is that, and I've talked about this before, like, several times. I still, after all these years, have the habit of... I will find certain little things that have to be done, and for some reason I think this is going to take longer than I have right now, so I'm going to set it right here on my shoulder so I don't forget about it, and it's going to poke me in the side of the head until I do it, and then I just don't do it.
+
+And it's just this little annoying thing that I know I'm responsible for, and I never get around to doing it, and then when I finally, okay, I'm going to do the thing, it takes like two minutes. Every single time. It's fast, it's easy, I could have gotten rid of the wait, and I always go. After that, man, you should really just stop what you're doing, do the task at hand, get it over with, and then you won't ever have to think about it again.
+
+Next time, do that. And then I, I don't. I do the exact same thing. It's not about everything. 
+
+[00:26:29] David: It's, it's, yeah. All those little things. Yeah. 
+
+[00:26:34] Bob: It's not everything. It's, it's, a lot of things I'm very proactive on, but for some reason, if it's, if it's just not, It doesn't have the priority or something, or I think I don't have enough time, you know, it's, it's like...
+
+A small set of things, but it always happens in that same way. Yeah. 
+
+[00:26:52] David: Another thing that I do quite a bit is almost every tool is hooked up to Dusk Collection or a shop vac or something, except for my little bandsaw. And I just need to rearrange things so I can get a little shop vac over next to it. So I usually have to run a hose across the room into it.
+
+And a lot of times I'm just like, oh, I'm gonna make one little cut It's not going to be a big deal. 
+
+[00:27:19] Jimmy: The bandsaw is the worst. And 
+
+[00:27:21] David: the bandsaw is the worst, especially if you cut into plywood. And all the tiny little fibers get in the air and you can smell it and breathe it in. And I'm like, next time, I'm actually going to take the 30 seconds to go hook up Dust Collection.
+
+And I'm like, God, it's just one little cut. I don't need to do that. 
+
+[00:27:38] Bob: Okay, before we get too far into all these things, let's go back to the stuff we've mentioned so far. Let's help each other. Fix those things for the next time. Is that possible? I mean, maybe. Like, okay, and the reason I thought of that is, you said every time you do that thing, it's that one tool.
+
+It's that one situation. Yeah. So, like, what's a solve that after we get done recording, you could go put in place to make yourself, to remind yourself? I need what I need. 
+
+[00:28:04] David: I, vac that can go right there. I need to find a different place for the air compressor that is in that spot. That's what I need to do.
+
+And there's places for me to put it, I just gotta rearrange other things. So, uh, yeah, maybe before lunch today, I just go find a new home for the air compressor. 
+
+[00:28:24] Bob: And that's how I fix that. I mean, maybe even in the meantime, maybe it's a matter of you making yourself a little sign to put on the bandsaw that says, like, DC.
+
+You know, so that you know every time, like, I'm... My past self is telling me just to go hook up the thing, right now, for one cut, you know. 
+
+[00:28:42] Jimmy: That's a really good idea though, to say that the past self is to leave notes for your future self. Yeah. Even if it's in a toolbox or something. I've been meaning to put a note in the drawer that just says put the batteries back, so every time I open it up I don't go past that little bump in my mind being like, Ah, I know it, I know, I'll remember this battery is on this drill.
+
+I have 30 DeWalt drills, I have 30 DeWalt impact drivers, I have... Another idea, 
+
+[00:29:08] Bob: Jimmy, for you. I'm full of useless, semi funny ideas today, but this one for you is, what if you made a thing where people had to leave something of theirs to get something of yours? So they have incentive to come back to the thing.
+
+[00:29:24] Jimmy: That would mean I'd have to talk to them longer. I have to negotiate with him, I go, here's his drill, just go. 
+
+[00:29:31] Bob: Well, I meant like, you know, like they have to take their, like there's a slot and they have to push their credit card or their ID or something into it to release the button, just like a, you know.
+
+So they have incentive to come back to that place and do the opposite thing. It's like 
+
+[00:29:47] Jimmy: putting a coin in Europe, you gotta put a coin to get your, uh, your rolling cart. Get your cart. 
+
+[00:29:53] Bob: Yeah. I mean, maybe that, that'd be a fun mechanism. 
+
+[00:29:56] Jimmy: I'm such an avoider, I'd rather go, so here, take the joy, you can have it.
+
+Keep it, I got a hundred of them. Just keep it. Just don't come back and bother me. 
+
+[00:30:05] Bob: There's got to be a way though to like incentivize somebody who borrows something from you. Even somebody you know, 
+
+[00:30:10] Jimmy: you know. Here's another lesson I've learned. This is a minor battery thing. This is more of a complaint about batteries.
+
+Every single time I, I, every time I go to hardware shows or I see tool people, I'm like, can somebody please make a, a, a, a drill, a battery thing that is a one handed, like, tactical exchange. Like, I want to be able to, in the middle of something, use one hand to take the battery off and put the battery on.
+
+Not necessarily, at least, not. That's, that would be a fantasy, but the compromise is, I don't want to wrestle the battery off of the charger, and I don't want to wrestle it on and off of the tool. Why 
+
+[00:30:47] David: does it, why does it take so much force to get a battery on and off the charger? I just don't understand 
+
+[00:30:53] Jimmy: that.
+
+All of 'em, every day I put, and especially this, I have Milwaukee and I have DeWalt, and so I'm always struggling to get the battery on, struggling to get it off. And every day I say, I'm gonna screw the charger to the tabletop so I don't have to like do two handed pull off tugg tug poo. And every single day I go to the charger, the same exact thing happens.
+
+It's like, screw the charger to the desktop. And I don't do it. I know people do it all the time. People make full videos about making charging stations and locking the charger to the thing. But I have like 15 Milwaukee chargers and I have like 20 DeWalt chargers. And it would be so easy for me to do that.
+
+But my battery charging system is so efficient that I only ever have one battery on the charger at any given time. Because everything is always constantly being cycled through. I'm good at that. But I'm not good at... Solving the problem of struggling through the battery situation. Struggling through pulling the battery off the charger with two hands and putting it back on the charger with two hands.
+
+Drives me bananas. And I have that conversation with myself every single day. 
+
+[00:31:58] David: There's a, there's a channel on YouTube, it's a cooking channel and I can't remember it. They were in my pick months ago. But, uh, there's this one guy who... Kind of rates kitchen gadgets and like cheap ones and then he's a product designer and how he would redesign these kitchen gadgets and it's really cool to see his process and one of the things that he does to see how to test the ease use of a gadget is to use his left hand which is his non dominant hand.
+
+And also put oil on it, so he greases up his hand and uses a tool and it shows like how hard it is to use this tool when it's in this particular situation. 
+
+[00:32:43] Jimmy: I, I, so it's funny, the DeWalt, Milwaukee does not do this but the fit is so tight they may as well have the clip, Milwaukee has the two pinch thing, right, you gotta pinch both sides of the battery to make it remove, and DeWalt has the one thumb push down thing.
+
+And DeWalt has their batteries clipped into the charger, Milwaukee doesn't, but it may as well because they're still difficult to pull off just because of like the snugness of them, and so I took one of the DeWalt chargers, and I showed this on Instagram at the time, and I took a grinder and I grind off the I'm a clip.
+
+So the battery just goes on and off. I don't, there's not going to be an earthquake in my shop. Nothing is going to flip upside down. I'm not in a roll cage truck. There's no reason to have it clipped on. It just has to sit in place and charge and then a couple of days later Mike, Mike the fireman was cleaning up and I noticed the cord was cut off it and it was thrown in the garbage.
+
+The charger that I had ground off the clip. And so I said, what, what happened to this? Oh, it was all melted. I go, did it go on fire? He goes, yeah. Look at it. I go, I did that. Who's what did you I go I ground the clip off because oh, I thought it was like short circuited and melted So I cut the cord off so we could use the cord for something else and I'm like no That's my modification in the middle of anger trying to struggle to get a battery off.
+
+I just took a I took a Cut off wheel For cutting metal, and I just ground off the plastic, and it just made it look like it was melted. And he thought that the thing had short circuited and melted while it was plugged in. 
+
+[00:34:14] Bob: So now every time you grind something in the shop, you have to initial it. Yeah, 
+
+[00:34:19] Jimmy: exactly.
+
+I have to tell everybody. You know, so Mike took it out of the garbage and put the cord back on, dissected it, and put the cord back on surgically, so now they still have it there. But, and I showed that story at the time, and a lot of people were like, Thank God somebody noticed they should do this. That's the 
+
+[00:34:36] David: I'm trying to think of a better way for like the bad like um Like there's a construction crew still working on, on our bathrooms and you know, they have all these DeWalt tools and so they have to bring all their chargers so they can't screw their chargers down to anything.
+
+There's got to be a way to have like a, uh, uh, the two buttons on the battery that easily clip and release. So, cause the battery is always heavier than the charger. Always. Yeah, yeah. So, there should be this positive connection, easy 
+
+[00:35:08] Jimmy: release thing. You know what it should be? It should be like we talked about.
+
+That's funny, this turned into a thing, turned into a, uh... Yeah. Gripes turned into an invention process. Do you know how this, this is, I said it out loud, I own this invention. But date me and you'll share it. Well, not me. I'm just kidding. You can get some. I'll give you a free one when they make them. Okay, cool.
+
+Cool. That's good. You know how we talked about pre loaded drawers, was that us that talked about them? Like the drawers that close easy, but you have to pre load them when you tug them open, so they're hard to tug open, but they're easy to close, so it's a compromise. It's like, they close soft, but I gotta pull the desk over to open them.
+
+Right. It's the same thing with the batteries. Like, if you put the battery in, but you gotta snug it down, in the direction that is not inconvenient, cause to push it in is easy, but to pull it out where everything goes with you. If you imagine if you snugged it in on like a little spring loaded ejection button.
+
+So you snug it in and then when you want to get it off, you push a button and it pops right out. So that's a real legit invention that nobody will ever make. 
+
+[00:36:08] Bob: Uh, you can make it. You can make an aftermarket charger for any brand. Battery. 
+
+[00:36:14] Jimmy: Alright, that's a three way project. That's a collaboration. 
+
+[00:36:17] David: Alright, we're gonna be rich.
+
+[00:36:19] Bob: That's it. Wait, are we rich already? Is that how that works? 
+
+[00:36:25] Jimmy: No, could you imagine, like, that would be... I say it all the time, and I remember talking last year at the hardware show. I met a couple of guys and their consultants, and we were going to do all these projects together. I never heard from them. I gave them 50 ideas.
+
+And one of them was the idea of being able to remove a battery off a charger one handed. Mm-Hmm. . But that would be the way to do it. The way we just came up with, by just having it preloaded with a spring so you could push it and pop it off. So, sticking with the theme of today's show, that is something that nobody here will ever do, but every time we take the battery off, we say this is something we should do.
+
+Okay? Mm-Hmm, . 
+
+[00:36:55] Bob: But let's interrupt that habit right now. What could we do right now? What could we put in place to make sure that you follow through on that idea? It's not my idea, so I'm not gonna follow through on it. I'm gonna put the onus on you. What? What could you do? Like, could you text Howard right now while you're doing that to say here's an idea, make sure I follow up on this, or is there an accountability somewhere?
+
+Howard would 
+
+[00:37:19] Jimmy: say, what's an electric drill? Just 
+
+[00:37:22] Bob: say, remind me to tell you later, you know. But like, reach outside of this, this moment. Howard listened 
+
+[00:37:27] Jimmy: so I said that to make him 
+
+[00:37:28] Bob: laugh. You know, reaching out of this moment, speaking of, I was supposed to call him, like, in December and I never 
+
+[00:37:34] Jimmy: did. Oh yeah, he mentioned, he's been busy.
+
+I'm sorry, Howard. I'm going to talk to my brother about that. I'll see if that's something that could be, because my brother talks with tool companies on occasion, because he's an invention development guy. So, I'll mention that to him. 
+
+[00:37:47] Bob: But I do think, honestly, like, you making, or somebody making a third party charger for, you know, one of the known brands, or even all of the known brands, is absolutely reasonable.
+
+I'm sure it already happens. I don't know. I've never looked for them, but... The, the, 
+
+[00:38:01] Jimmy: the future of, of those batteries, if it's at all possible, is just like... This, it's like the ring on the back of the iPhone, you know, this, this, this new circle ring that's always here, whatever the magnetron, inductive charging stuff.
+
+If you could just take your batteries and just place them on a pad and they charge, I don't mind them clipping on and off the gun, but if that ring charger was at the bottom of these batteries, so you could just place them on a mat. And they're charging, and then in a quick note, you can just pick them up.
+
+You have two hands all the time on the tool, but to have two hands on the charger is the biggest inconvenience. To have one hand on the charger, so you just pick the battery up off of the pad that it's sitting on, just like the way your iPhones now charge. Struggle on the tool, because you've got two hands fully on it.
+
+Then gently put the battery back down on the magna pad, whatever it's called. That would be, that would be a great solution. But that technology's out there, someone just has to apply it. Yeah. 
+
+[00:38:57] Bob: So, there you go. Alright, so, let's, what's another thing? Anybody else have another thing that they always do? Lesson that 
+
+[00:39:03] Jimmy: they...
+
+You know what I have not done? Believe it or not, this is crazy. And if Aaron was here, Aaron would scold me because he had this down, but I never did. I never know where there's a broom and a dustpan in my shop. Because every single time I do it, I pile them all in one corner and I'm like, this is going to be the new spot for them, and then the next day I'm like, I can't remember where they are.
+
+And so I either go to a different shop and get one, or I buy one, and I come back, and I use it, and then I go to put it away, and I put it right where the other eight are. I'm like, I need it in my hand to remember where it is. The other day I did it. I was down at one end of the shop and I'm sweeping and I'm like, Where did all the dustpans and the brooms go?
+
+I know they were all here. And I looked all over, I couldn't find them, and then an hour later I'm sweeping up and I put the one that I did have in my hand and I went and I walked and I put it right where there was the other five of them. I'm like, why didn't I think to come here before? It's like something my brain will not, will not duplicate.
+
+I cannot ever remember where they go. 
+
+[00:39:57] Bob: Rather than having one place for them, what if you had a common place for them? Like in... In all four corners of the shop. Or, you know what I mean? And you'd have to redistribute them, because they're all going to navigate to one corner eventually. But, if you know that I can always go to a corner, whichever one is closest to me, and there's a broom and a dustpan.
+
+Yeah. And then when you go to one, and you're like, Oh, there's not one here, that means they're in the other corner. So I can, I know that I can 
+
+[00:40:24] Jimmy: go there. That's what, I vaguely recently decided to think, let me put them near the light switch. But that was just a thought. It was just a thought, and I never did it.
+
+So, now that we're talking about it again, the thought came back to me, so. Oh, boy. 
+
+[00:40:39] Bob: We're like, you know, coming up with an idea of where, like, a proximity that makes sense to that. Maybe it's attached to the trash can. Because you're always going to sweep something up and then you have to dump it in the 
+
+[00:40:52] Jimmy: trash.
+
+I used to do that all the time, but I don't know why I don't do that. I used to just throw the broom right into the trash can. So, like, the handle would go 
+
+[00:40:58] Bob: handle down. Maybe you threw them all away. I might have. That's why you can't find them. That's funny. Um, let's see, so I have, uh, one thing I wrote down is that I never come back to the list of reviewed items.
+
+So, we will often look back on something about a project or about a, whatever. And we're like, okay, let's talk about what what went right or what went wrong, and like, I make a list. I'm like, these are things That we're gonna, like when we go on our retreats for our team, we write, like Megan took awesome notes this last time.
+
+So many notes. And those do nothing if we don't ever look at them again, right? So like, and I do this constantly with myself. I have all these pieces of paper on my desk with all these little things in them and I don't know what any of them say because I don't take the second to look at them to see. I wrote that down for a reason and I should really revisit it to remember.
+
+[00:41:55] Jimmy: I go through the same exact thing. I force myself to flip through my notebook after I put all these notes in it for several months. Do 
+
+[00:42:00] Bob: you do that on a regular basis? Like, is it kind of like a scheduled thing? No, 
+
+[00:42:04] Jimmy: like, I'll do it when I'm like on an airplane, I'll be like, you know what, now's, now's the time for me to force myself to flip through and read my notes.
+
+Because I'll write things down impulsively, and I, and I always have to remind myself there was a reason I wrote this down, there was a reason I wanted to remember it. But there's some weird blockage that makes me not want to look at them. 
+
+[00:42:21] David: I have, uh, and this sort of works. My trick for that is, uh, when I write things down and never look at it, I have this app on my phone and it puts a random note on my homepage.
+
+So when I open up my note, it just shows a random note. Oh, that is 
+
+[00:42:37] Bob: very cool. Um, and 
+
+[00:42:39] David: so every day, a couple times a day, it'll just be something different. And it's just something I want to remind myself of. So maybe that is a fix, but, 
+
+[00:42:49] Bob: you know, interesting 
+
+[00:42:50] David: shop to-dos and things like that that I don't know that that's gonna work for that.
+
+But things that I want to remember, I'll hear a quote. Uh, or just a bit of good advice. I'm like, I need to remember that. And I always write these things down. I never forget them. What if it just randomly, my phone randomly shows me this throughout the 
+
+[00:43:06] Bob: day? Yeah. Well, I mean, I guess now that I think about it, a lot of the things we've, we've talked about the solution is put it in your own way.
+
+Yeah. Like. That note on your desk for the dust collection. Put it on the switch. Put the broom on the trash can. Put it, you know, put it by the light switch. Whatever, yeah. Like, get the thing in your way so you can't avoid it just because you're busy. Well, 
+
+[00:43:30] Jimmy: that's funny. Whenever I'm traveling somewhere or if I have to go to a friend's house and they'll be like, oh, could you bring me one of these?
+
+Bring me one of those? I will immediately remember to put it in my car. Like, if I remember it as I go. I like, or when I'm asked, I'll put it in my car, or a lot of times I'll just put it in front of the door, so as I'm walking out the door I have to trip over it to grab it. I have to trip over it, I can't avoid it, so I do that a lot too, that's like one thing that I've gotten good at doing.
+
+[00:43:58] Bob: Yeah, I do that when something has to go to the office. Yeah. I will put it in the middle of the floor, because I hate stuff sitting in the middle of the floor. Right. It's obnoxious. I can pack things against a wall, like a champ, but in the middle of the floor, and so like, on the way out there to the door, where I would have to leave, I put it in the middle of the floor, so I cannot avoid it.
+
+I'm like, man, I gotta get this thing out of the floor. The problem is, does it need to go to the farm? Does it need to go to the office? Do I need to take it as a return to the UPS store? But, I need a system. I need three areas on the floor. So, I know where it's supposed to go. Alright, what else you got?
+
+Anything else? 
+
+[00:44:38] David: I constantly not take notes when I should. So that I'll be in the middle of a project and like one of the things, I'm looking at it right now, my outfit table needs a shelf on the inside so I can easily pull out a couple of the jigs. Right now everything is just piled on it and it's not on my to do list and there's other things like, oh I gotta do this for the shop and Two or three times a week.
+
+I'll come out here in the evening. I'm like, what do I need to do? I'll hear what, what's the, what's a fix. And I can't think of anything. I'm all caught up. And then the next time I go to work on a project, I'm like, Oh yeah, I need to fix that. And I never do because I never write it down to remind myself.
+
+But a lot of times that's, it's just because I'm so into, I mean, you're in the zone, you're working, you got a flow and you don't want to interrupt that flow by. Taking 10 seconds to write a note. 
+
+[00:45:31] Bob: Do you have a, do you have a whiteboard in your shop? I, 
+
+[00:45:34] David: uh, I, I don't actually, there's a, there, there's a piece of whiteboard sitting up against the wall right now to hang somewhere to, to make notes.
+
+That was, it's been sitting against that wall for three weeks though. . 
+
+[00:45:46] Bob: Yeah. That's not bad. Three weeks is, that's reasonable. Yeah. Yeah. Um, I mean that adding a white, a big whiteboard to my office and like, there's one back there. We used to have an entire wall covered in it. And then, um, I have one that's actually two, around a corner, two surfaces in the shop.
+
+That has been one of the most beneficial things. Because it's gonna go move it my way right now. There you go. Put it in front of the, uh, bandsaw. So that when you go to not use the dust collection, you remember that you need to hang the whiteboard. But, like, having that big, giant scratch pad, notepad, all of that stuff, you know, right there.
+
+Like, from anywhere I can see it. It's big, I can see it from anywhere in the shop, if I need to work out a measurement or keep track of a list of like cuts or whatever, like right now I have a painting recipe on it for these little things we're making for the video game, and as I would put on a color with the airbrush, I would go over and just write that next in the list, so when I make a duplicate, I have the recipe up there.
+
+But if I tried to do that on a piece of paper, that piece of paper would be in the trash with all of the tape and all of the everything else from the workbench. So, having a big, it's almost like a sign that you can update in the shop for me has been huge. 
+
+[00:47:02] David: The, I think one of the mental issues that I have with the whiteboard is I don't want it to be seen on camera.
+
+Sure. Because I don't want people to question or... I'm terrible at spelling. I don't want people to see my misspellings or to wonder what does he mean by that. 
+
+[00:47:19] Bob: Oh, we do that on purpose, man. We draw all sorts of stuff all over it. Your misspelling should 
+
+[00:47:23] Jimmy: be your coat. 
+
+[00:47:24] Bob: Mr. Eggs. It said radioactive pickle for like six months and people were kept asking in the comments like, what is radioactive pickle?
+
+And it was just, I don't know, somebody just wrote it being funny, but. So you can take advantage of that, or you find a place that's in your shop that's never on camera because of some other reason and you put it there or something. 
+
+[00:47:43] Jimmy: There was this one thing that I do all the time and I can't get, I can't stop doing it.
+
+I'll take my compact flash card out of my Sony camera, hold it in my hands or put it in my teeth and walk 500 feet up to the house and by the time I get to the house, it's gone. I have no idea whether it's I swallowed it or I coughed and spit it out and I have no idea where, what happened to my compact flashcard by the time I walk 500 feet up to the house.
+
+And I usually will have like stuck it in my front pocket or put it in my, I'm like, and when I do that, I say. Don't forget to do this, but I instantaneously forget that I did that. And then my future self is panicking, looking for it, and then I always find it. I used to, I used to do this, and I think I told you guys.
+
+The old, I, every time I was in the shop and I'd pull the, my compact flash card out, I'd pop open my iPhone case, drop it behind the iPhone and close it. So I would always know. Occasionally I'd be like, where's my compact flash? I can't find it. And I open my phone and it's still back there. But the new iPhone and the new case is so tight, None of the buttons work with a compact flash card behind it, so I can't do that anymore.
+
+because I'll know the phone. The phone won't work. And so I do this, I think 
+
+[00:49:00] Bob: Bob has a slu. So this is what we do because we have to move cards around in here, but we have to get 'em back and forth to the office and stuff. So we have one of these little uh, uh, SSD card holders and it's a little wallet thing that can hold way more cards of, we put in it and it's got a little tiny carabiner on it.
+
+Yep. And so this is waterproof, dustproof, whatever. And this is always here, there's always one at the office that's a different color, so we know which one goes where, and the cards live in here, they come out of the camera, they go in here, and if they need to go to the office, then that means we have to put them in the other case and take that case to the office, so we know that the black one always ends up at the house, the orange one always ends up at the office, and that's a little, a little safety transport thing, but also, If they go on my desk, they are gone forever.
+
+So, if they live in here, then, this is easier to find, you know, than a car. Yeah, yeah. 
+
+[00:49:56] Jimmy: And these are like seven bucks, I mean, it's like, totally worth it. And I saw it, I was like, I should get one. But then, because of my bad habits, I didn't buy one. Order one 
+
+[00:50:03] Bob: right now. It takes you two seconds to order one on Amazon.
+
+I'll send you a link. I'll do it in a minute. No, no, no, I'm gonna do it right now. This is, we're making progress, man. Like, we uh, if we, cause if we don't actually take action on the things, then we've made nothing but a show 
+
+[00:50:18] Jimmy: about complaining it to the chat and I'll go right on my iPhone and do it. Okay.
+
+I'm not going to find it. You know what, I'll text chat. 
+
+[00:50:26] Bob: Oh, same one. We'll do this one. It's got the carabiner on it and everything. And now you can look like you're copying me. 
+
+[00:50:32] Jimmy: I want the orange one. I want it to be orange. 
+
+[00:50:34] Bob: Okay, I'll find the orange one. Goodness gracious. Alright, what else you got? Anything?
+
+I want the 
+
+[00:50:40] Jimmy: orange 
+
+[00:50:41] Bob: one. Ah. SD card holder. Orange. Because Jimmy wants the orange one. It is actually pretty, uh, Easy to see, because it's orange, which is nice.
+
+Alright, any other, any other things? 
+
+[00:50:59] Jimmy: Uh, what else? 
+
+[00:51:02] David: Podcast topics. I'm always coming up with podcast topics. 
+
+[00:51:06] Jimmy: And never writing them down. 
+
+[00:51:07] David: And never writing them down.
+
+Sometimes I'll text them to you guys, and then 
+
+[00:51:14] Bob: we never look at the text chain. Um. Well, I mean, okay, so how would we fix that? Here it is, here's the one. 
+
+[00:51:27] Jimmy: Let's do an Airlight Evergreen chat that I never open. 
+
+[00:51:32] Bob: What in the world is that? What 
+
+[00:51:34] Jimmy: did you just say? Oh, Airtable. Airlight 
+
+[00:51:37] Bob: Evergreen, that's like the lead character from the Hunger Games.
+
+[00:51:44] David: There's no pin feature in text, is there? 
+
+[00:51:47] Bob: No, that would be cool, though. 
+
+[00:51:52] Jimmy: Bob, where did you send that? I sent it in the chat. Oh, this chat. Okay, I'm thinking of the chat on the telephone. 
+
+[00:51:58] Bob: Yeah, 778. You can have it tomorrow. Look at that. Oh, wow. It's even on sale. And they have other colors. So you can get whatever color you want.
+
+Oh. That is an affiliate link, just so you know. So when you buy that, you're actually helping out. I like to make sales. Thanks for that. I like it. Alright, I have one more. So, one more thing that, uh, we constantly do, and I don't know that there's a way around this. Um, we commit to timetables that are not realistic.
+
+Or, we underestimate time. I underestimate time. I'm gonna put that on myself, not on us. Um, it just, it feels like... I think all of us as makers have this, this, like... Superpower? Of course we can. Yeah, like I can make that thing that's unrealistic in this time. Sure, because that's what we do. But, it, every single time leads to last minute, you know, having to make shortcuts, having to do something in a way that you wouldn't do if you had the time, or it not being the quality that you want it to be, or just being rushed, or whatever, and There's always a trade off in that commitment to, yeah, I can get it done.
+
+And I mean, you know, and a lot of things I guess that doesn't really matter. The trade off is, is not detrimental to anything. But it is definitely a habit that I have of just being like, well, yeah, I mean, uh, we can get that done. That's no big deal. I think 
+
+[00:53:34] David: this goes back to. Uh, ad agency days, where for a long time, you know, we would tell the client, oh yeah, we'll have it by this particular date.
+
+And then you don't put the rush on until you get close to that date. So then you learn you gotta have milestones. You gotta have this part of the thing done by this particular date and to make sure everything stays on track. So if you can somehow bring in milestones to fix that. That's a good 
+
+[00:54:03] Bob: call. Yeah.
+
+Yeah, I think I just need to make sure that I'm, I'm, uh, I'm not under delivering and over committing. Yeah. I would rather under commit and over deliver, you know. But that is a hard thing to, in the moment, when you have an opportunity, to be like, okay, you know, can I over deliver to what I'm agreeing to? Or, am I gonna have to make a, a trade off?
+
+Am I gonna have to just barely get there, you know. Right. To what I'm committing to. That's, Milestones is a great way, I think, once you're in that situation to keep up with it. But, for me, being able to actually think through that realistically, not ideally, at the beginning, should tell me whether I should commit to it or not.
+
+Or to push back on timelines. I think it's easy for, like, us, when we're talking to a sponsor, or somebody, and they want something by a certain time, that's purely their want. It doesn't mean that that's the only option. And, like, I forget. That we can push back and say, no, that's not realistic. If I have another week, then it becomes realistic.
+
+Or, you know, whatever. So, I think we just often bow to the fact that somebody's going to give us money to do a thing. And we're like, yeah, I'll do whatever I have to do to make that happen. And, you know, that's probably not smart. So, purely speaking for myself. But, cool. Well, any other, got anything else like that?
+
+[00:55:28] Jimmy: So, I got distracted. The plum is here. So, I was on mute. Texting with the plumber. 
+
+[00:55:35] Bob: Gotcha. Any other ideas on this? Any other things that stick out? 
+
+[00:55:40] Jimmy: I guess today's lesson learned is try and confront things when they come up. Yeah. If you can. Unless it becomes one of those other things you don't do. You know you 
+
+[00:55:50] Bob: should.
+
+Do better! Unless you don't. Whatever. It doesn't really matter. All right. Cool. Well, Patreon supporters. And if you guys think of something else, we can add it in the after show, because everybody that supports us on Patreon gets the after show. Big thanks to everybody that helps us out over there. It really does mean a lot.
+
+Tax season is going on right now, so I'm looking back at all the support that we got over the last year, and it's pretty incredible. So we're very grateful to all of you, no matter what level, whether you get your name mentioned or not, we just know that we are very grateful. Uh, we have a new, new supporter actually in the show notes this month, Bill Burkle from WTB Woodworking.
+
+So welcome, Bill. Oh, thank you, Bill. Uh, I appreciate that. Uh, but we also have a top group of supporters that go above and beyond. It's the same crew that's been there for a long time and they are super helpful. So I want to say a big thank you to Corey Ward, Albers Woodworks, Works by Solo Chad from ManCrafting.
+
+You can make this too. Fun Kiss Artistic Creations. I haven't seen them in a while. I guess we haven't been at... At events. We used to see them at events all the time. So, hope you guys are doing well. Uh, Rich at Loewen Designs. Haven't seen Rich for a while either. Odin Leather Goods, Scott Orm, Warren Works, Michael Menegen, Gretchen Hofer, and the Webb Ranch Woodworks.
+
+Um, it is really cool to run into these people. Like, every time I say, Chad from ManCrafting and Works by Solo, I'm like, oh yeah, we saw them in Louisville not too long ago. Yeah. It's pretty cool. You know, it's neat to know these people. So, uh, thank you to everybody. And if you want to join that group, if you want to get the after show, More of us talking about nonsense, you can go to patreon.
+
+com slash making it and we'll put links to that in the show notes. The show notes are always in your podcast player. You can always go to the website makingitpodcast. com to get, you know, past show notes and all that stuff. So, you can find them, um, If you want to have links to that, but patreon. com slash making it is how you get to the patreon.
+
+Uh, I think that's it. Do you guys have, uh, something 
+
+[00:57:53] Jimmy: to recommend? I just sent you guys both the history guy, you know, the history guy. He has like a bowtie in his logo. He's been around for a while. Great, well, well produced videos. He did a history, the nostalgic history of the station wagon, which was amazing.
+
+I guess while I was traveling this week I just hit I like him, he's got a great voice, and he's got a great delivery, and like I said, his videos are well produced. He does a thing on the, the station wagon, and it all started with the Woody, like a Ford Woody, to take people to and from the train station, and that's where the term station wagon came from, and, and that, so watch this, it's a really good video, it's a really good in depth detail on how like, Woodies and stuff like that slowly became stickers on the side of a car.
+
+The wood grain pattern, but it brings up a more important point. I've been talking to TotalBoat for a long time. It's been like three years talking to them about me restoring a woody. And so this video prompted me to look for a woody again. Remember a couple years ago I was talking about a Chrysler Town and Country?
+
+You need an excuse to buy another car. And I found one. Did you really? I don't own it yet. I'm going to go look at it this week. It's far dry from where I am. So, and then I'm also putting it out to the audience, the larger audience. I want a good Woody. I'm looking for specifically a Chrysler Town and Country.
+
+I could go buy a perfectly preserved one for 100, 000, but I found a good project one and if anybody finds the one that I'm looking at, I know it's in New Hampshire, I'm going to go look at it this week. But if anybody finds A woody or if anybody knows of a Chrysler Town and Country that's sitting in a family barn.
+
+47, 48, and 9. are the desirable years. 49 would be my, my dream year. Chrysler Town Country. So that's a project I want to do. And in this video, I don't know if he talks about the Chrysler Town Country, but he talks about the woodies in general, the wood sided wagons, and how surfers turned them into more of a popular, iconic thing, because they were like abandoned cars.
+
+Nobody cared about woodies at one point, and surfers who could, like, live in their cars could, would buy woodies cheap. In the 1950s because they went out of favor in the 40s. So in the 60s they bought them. And that's how surfers revived the whole iconic thing of the, of the woody and then the surf songs and stuff.
+
+So it's really, it's a really good slice of American pop culture on cars. That's cool. And it prompted the idea. So like I said, I'm, this weekend I might go look at this one in New Hampshire. It's a Christlatonic country of 47 and it's on, it's on the Facebook market. But if anybody has a personal connection...
+
+I'm willing to buy a Chrysler Town Country 4789 in various states. I don't want to pay 100, 000, I want something I can fix up, so... Hmm. I'm just putting it out there, you never know, you don't know unless you ask. 
+
+[01:00:35] Bob: The whole barn find thing is crazy to me, like it blows my mind that there are... I follow a couple accounts on Instagram that are constantly finding these beautiful cars that just like somebody drove it off the lot and they put it in a barn and then they close the barn.
+
+[01:00:49] Jimmy: And it's funny, I was saying to Rob the other day how like, how people could have barn finds. I have four trucks I don't have the time to work on. Stick it in a barn and then all of a sudden, you know, life takes over and the thing's been sitting there all this time. Yeah, true. And so it's still possible to find barn finds.
+
+[01:01:05] Bob: Crazy. Crazy. Alright, David, 
+
+[01:01:07] David: what you got? Uh, this week I got, um, Fight the Power, How Hip Hop Changed the World. It's a four part PBS show. Oh, I want to see that. Yeah, the first two parts are on their YouTube channel now. So I'm assuming the three and four will be out soon. But they're all like an hour apiece.
+
+Is 
+
+[01:01:26] Jimmy: that the one produced by Chuck D? 
+
+[01:01:28] David: Yeah, yeah. Um, and they're, it's phenomenal. It's, it's, it's more than just the history of hip hop, it's a, it's a good history lesson. Yeah, that's right. And it's produced because it's 
+
+[01:01:39] Jimmy: PBS. Yeah. And Chuck D is, I follow Chuck D's Instagram. It's good. 
+
+[01:01:45] Bob: Cool. Um, I got two. One is an interview with Peter McKinnon.
+
+Um, by a guy that we met somewhere. I think we met him at VidCon. 
+
+[01:01:55] David: John? We met him at VidCon. We had, we had, uh, we had, remember we all went out to dinner together. 
+
+[01:02:00] Bob: Oh, yeah, that's right. Yeah, yeah, yeah. Sure. Um, John, and I don't know how to say his last name. I'm sorry, John. Um, Yeshu? Yo Yo Yeshe? I don't know.
+
+But, he was a really nice guy, and he has a really good series of interviewing people. He used to work at YouTube, and... I don't know if he still does or not. But anyway, he interviews all these different people. But the one with Peter is pretty interesting. I'm about halfway through it. But he will, like, show clips of old videos.
+
+On an iPad to the person he's interviewing and then ask him questions about it. So it's, it's well researched and it's not just like, you know, What was your first video? kind of thing. It's, they're good interviews. Um, so go check that out. The other thing is just a funny thing that was on SNL the other night.
+
+They, um, Pedro Pascal was the host. Yeah, he's good. He was funny. And so he's doing the Last of Us show, which is all dystopian, you know, future zombie, whatever. And so they did a, they did a skit that was if HBO made a Mario Kart show. Like The Last of Us, like video games, and so it's this dark thing where he plays Mario in this dystopian future But he has to like get the the princess to the kingdom with you know It's it's really funny and really well done like they went above and beyond for an SNL schedule it's like CG and costumes and go karts and It's very funny.
+
+So 
+
+[01:03:21] Jimmy: Did anybody see the Nick Offerman? Did you guys see the Nick Offerman episode three? 
+
+[01:03:26] Bob: I haven't watched any of that show yet. 
+
+[01:03:27] David: I, so I, I'm confused. Does, does each person get a, uh, an episode in the show? 
+
+[01:03:34] Jimmy: Uh, of the, the last of us? Yeah. I, I, I only watch it cause this Nick performance was getting so much, get so many, so many accolades.
+
+So I watched it and plus I was out in LA last week. I wanted to see it before I got a chance to, me and Nick hung out for a minute. But the. The, uh, the episode, the whole storyline, that story of Nick and his partner in that whole sequence, is a standalone story, so you could just go to episode 3 and watch that alone.
+
+The character, Pedro Pascal's character comes in and out of that story, but that whole story stands alone on its own. It's great. I mean, if you understand, it's the future. They set up that story. You could just watch that one piece alone as like a short movie and be okay with it. You don't have to watch the whole series.
+
+Just to put it out there. 
+
+[01:04:21] David: Because I, I, uh, I keep coming up in my, in my feed, uh, an interview with Nick Offerman where, and the title is, he talks about his episode of The Last of Us, which, that title confuses me, so I'm wondering if each episode is its own 
+
+[01:04:35] Jimmy: story. Yeah, no, it's just his, as far as I know, I only, I watched the first episode thinking Nick was in it, and I was watching with my friend and she's like, when is Nick gonna be in this story?
+
+This, this show is not my cup of tea. I'm like, it's not mine either. I'm just waiting for Nick. And then it wasn't until the next day I noticed he was only in episode three. So then we watched episode three. But, uh, it was, it's very good. It's really, really, really good. I'll just put it that. There's a lot, there's a lot of twists and turns that I don't want to be a spoiler, but you got to watch it.
+
+Yeah. Awesome. 
+
+[01:05:05] Bob: Yeah. Cool. Well, you guys got anything else for this week? All good. 
+
+[01:05:11] David: I have a question for you in the after show. 
+
+[01:05:12] Bob: Oh, okay. Alright, well, thank you for listening everybody. Hope you came up with some stuff that you always do that you shouldn't do. I did buy the 
+
+[01:05:21] Jimmy: card, chip holder, I did buy it.
+
+We've made 
+
+[01:05:24] Bob: progress. In orange. Uh, yeah, thanks for listening everybody and we'll catch you next time. Love you, 
+
+[01:05:29] Jimmy: bye guys. Bye.
+
